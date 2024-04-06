@@ -1,0 +1,78 @@
+<script lang="ts">
+	import { clickOutside } from '$lib/utils/clickOutside';
+
+	export let playlists: { [key: string]: { active: boolean } };
+	export let playlistsChanged: (playlists: { [key: string]: { active: boolean } }) => void;
+
+	let open = false;
+
+	$: activePlaylists = Object.values(playlists).filter((playlist) => playlist.active).length;
+
+	const togglePlaylist = (playlist: string) => {
+		playlists[playlist].active = !playlists[playlist].active;
+	};
+</script>
+
+<div use:clickOutside={() => (open = false)}>
+	<button on:click={() => (open = !open)} class="ml-4" aria-label="About">
+		<svg
+			xmlns="http://www.w3.org/2000/svg"
+			fill="none"
+			viewBox="0 0 24 24"
+			stroke-width="1.5"
+			stroke="currentColor"
+			class="h-6 w-6 text-white"
+		>
+			<path
+				stroke-linecap="round"
+				stroke-linejoin="round"
+				d="M8.25 6.75h12M8.25 12h12m-12 5.25h12M3.75 6.75h.007v.008H3.75V6.75Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0ZM3.75 12h.007v.008H3.75V12Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm-.375 5.25h.007v.008H3.75v-.008Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z"
+			/>
+		</svg>
+	</button>
+	<div
+		class="absolute left-8 right-8 top-20 z-50 mx-auto hidden max-w-md rounded-lg bg-white p-5 shadow lg:top-32"
+		class:block={open}
+		class:hidden={!open}
+	>
+		<div class="flex items-center justify-between">
+			<h2 class="font-lilita text-2xl">Playlists</h2>
+			<button on:click={() => (open = false)}>
+				<svg
+					xmlns="http://www.w3.org/2000/svg"
+					fill="none"
+					viewBox="0 0 24 24"
+					stroke-width="1.5"
+					stroke="currentColor"
+					class="h-4 w-4"
+				>
+					<path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
+				</svg>
+			</button>
+		</div>
+		<div class="flex flex-col">
+			{#each Object.keys(playlists) as playlist}
+				<div class="flex items-center">
+					<input
+						id={playlist}
+						type="checkbox"
+						class="h-6 w-6 rounded border-gray-300 bg-gray-100 text-blue-600 focus:ring-2"
+						checked={playlists[playlist].active}
+						on:change={() => togglePlaylist(playlist)}
+						disabled={activePlaylists === 1 && playlists[playlist].active}
+					/>
+					<label for={playlist} class="ml-2 w-full py-3 text-sm font-medium">{playlist}</label>
+				</div>
+			{/each}
+			<button
+				class="self-end rounded-md bg-blue-700 px-3 py-2 text-right text-sm font-semibold uppercase leading-6 text-neutral-200"
+				on:click={() => {
+					playlistsChanged(playlists);
+					open = false;
+				}}
+			>
+				Save
+			</button>
+		</div>
+	</div>
+</div>

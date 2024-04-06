@@ -1,22 +1,40 @@
 <script lang="ts">
+	import { stats, playlists } from '$lib/stores';
 	import AboutModal from '$lib/components/AboutModal.svelte';
 	import AutoComplete from '$lib/components/AutoComplete.svelte';
 	import GameOver from '$lib/components/GameOver.svelte';
 	import Player from '$lib/components/Player.svelte';
 	import StatsModal from '$lib/components/StatsModal.svelte';
 	import { MAX_GUESSES } from '$lib/constants';
-	import { playlist } from '$lib/playlist';
 	import type { GuessState } from '$lib/types/GuessState';
 	import type { Track } from '$lib/types/Track';
 	import { formatTrack } from '$lib/utils/formatTrack';
-	import { onMount } from 'svelte';
-	import { stats } from '$lib/stores';
+	import PlaylistsModal from '$lib/components/PlaylistsModal.svelte';
+	import { disney, original, special, swedish } from '$lib/playlists';
 
+	const availablePlaylists = {
+		Original: original,
+		Disney: disney,
+		Swedish: swedish,
+		Special: special
+	};
 	let previousTrackCorrect = false;
 	let guesses: GuessState[] = [];
 	let search = '';
 	let guess: Track | null = null;
 	let currentTrack: Track;
+
+	$: playlist = Object.values($playlists)
+		.filter((playlist) => (playlist as { active: boolean; playlist: string }).active)
+		.map(
+			(playlist) =>
+				availablePlaylists[
+					(playlist as { active: boolean; playlist: string })
+						.playlist as keyof typeof availablePlaylists
+				]
+		)
+		.flat();
+	$: $playlists && newGame();
 
 	$: formatGuess = (i: number) =>
 		guesses[i] ? (guesses[i] !== 'Skipped' ? formatTrack(guesses[i] as Track) : guesses[i]) : '';
@@ -26,10 +44,6 @@
 				? 'scale-110 bg-green-300 font-semibold transition-transform duration-300'
 				: 'animate-shake bg-red-300 font-medium'
 			: 'bg-neutral-300';
-
-	onMount(() => {
-		newTrack();
-	});
 
 	const newTrack = () => {
 		$stats.played++;
@@ -90,11 +104,16 @@
 		previousTrackCorrect = false;
 		guesses = [];
 	};
+
+	const playlistsChanged = (updatedPlaylists: { [key: string]: { active: boolean } }) => {
+		playlists.set(updatedPlaylists);
+	};
 </script>
 
 <header class="mx-auto mb-4 grid max-w-lg grid-cols-3 items-center">
 	<h1 class=" col-start-2 justify-center text-center font-lilita text-5xl text-white">DEJD</h1>
 	<div class="flex justify-self-end">
+		<PlaylistsModal playlists={$playlists} {playlistsChanged} />
 		<StatsModal stats={$stats} />
 		<AboutModal />
 	</div>
@@ -109,7 +128,7 @@
 	</ul>
 	<Player track={currentTrack?.preview} guessCount={guesses.length} />
 	{#if guesses.length < MAX_GUESSES}
-		<AutoComplete bind:search bind:guess />
+		<AutoComplete bind:search bind:guess {playlist} />
 		<div class="flex justify-between">
 			<button
 				class="rounded-md bg-red-700 px-3 py-2 text-sm font-semibold uppercase leading-6 text-neutral-200"

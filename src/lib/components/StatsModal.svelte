@@ -29,7 +29,7 @@
 		</svg>
 	</button>
 	<div
-		class="absolute left-8 right-8 top-20 z-50 mx-auto hidden max-w-md rounded-lg bg-white p-5 shadow"
+		class="absolute left-8 right-8 top-20 z-50 mx-auto hidden max-w-md rounded-lg bg-white p-5 shadow lg:top-32"
 		class:block={open}
 		class:hidden={!open}
 	>

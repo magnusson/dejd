@@ -13,3 +13,15 @@ const storedStats = statsStorage
 		};
 export const stats = writable(browser && storedStats);
 stats.subscribe((val) => browser && (localStorage.stats = JSON.stringify(val)));
+
+const playlistsStorage = browser && localStorage.getItem('playlists');
+const storedPlaylists = playlistsStorage
+	? JSON.parse(playlistsStorage)
+	: {
+			Original: { active: true, playlist: 'Original' },
+			Disney: { active: true, playlist: 'Disney' },
+			Swedish: { active: true, playlist: 'Swedish' },
+			Special: { active: true, playlist: 'Special' }
+		};
+export const playlists = writable(browser && storedPlaylists);
+playlists.subscribe((val) => browser && (localStorage.playlists = JSON.stringify(val)));

@@ -1,5 +1,4 @@
 <script lang="ts">
-	import { playlist } from '$lib/playlist';
 	import type { Track } from '$lib/types/Track';
 	import { clickOutside } from '$lib/utils/clickOutside';
 	import { formatTrack } from '$lib/utils/formatTrack';
@@ -7,6 +6,7 @@
 
 	export let guess: Track | null;
 	export let search: string;
+	export let playlist: Track[];
 
 	$: filteredTracks = playlist.filter((track: Track) => {
 		const trackTitle = formatTrack(track);
