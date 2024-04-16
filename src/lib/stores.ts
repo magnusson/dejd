@@ -18,7 +18,8 @@ const defaultPlaylists = {
 	Original: { active: true, playlist: 'Original' },
 	Disney: { active: true, playlist: 'Disney' },
 	Swedish: { active: true, playlist: 'Swedish' },
-	Special: { active: true, playlist: 'Special' }
+	Special: { active: true, playlist: 'Special' },
+	Bandle: { active: true, playlist: 'Bandle' }
 };
 const playlistsStorage = browser && localStorage.getItem('playlists');
 const storedPlaylists = playlistsStorage

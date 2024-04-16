@@ -10,13 +10,14 @@
 	import type { Track } from '$lib/types/Track';
 	import { formatTrack } from '$lib/utils/formatTrack';
 	import PlaylistsModal from '$lib/components/PlaylistsModal.svelte';
-	import { disney, original, special, swedish } from '$lib/playlists';
+	import { disney, original, special, swedish, bandle } from '$lib/playlists';
 
 	const availablePlaylists = {
 		Original: original,
 		Disney: disney,
 		Swedish: swedish,
-		Special: special
+		Special: special,
+		Bandle: bandle
 	};
 	let previousTrackCorrect = false;
 	let guesses: GuessState[] = [];
