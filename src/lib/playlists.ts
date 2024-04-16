@@ -9925,6 +9925,366 @@ export const original = [
 		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0d59bc7e4ef869beec0e367deba011c3-1.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/c7cf299e9c9473a81bc15f584d5fcc49/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'JLC',
+		title: 'Sommar sommar sol',
+		release_date: '2017-06-09',
+		id: 367553131,
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c87bcb9cb3b3ee973ed1205fbec71659-1.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/68481a32c9d94ac18fafed5d175b28e6/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Lucianoz',
+		title: 'Inget stoppar oss nu',
+		release_date: '2023-06-21',
+		id: 2321372335,
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3b49db31ce45bb35ba1af0980d30d951-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/263e2b05024de66f7dd8c495235cbcc9/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Dolores',
+		title: 'Genom eld & vatten',
+		release_date: '2020-10-23',
+		id: 1103209912,
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d53386fea1ec8572594278375495ffc2-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/ef14906ef3b94de8c7420204c5f73699/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Lucianoz',
+		title: 'Picadilly Circus',
+		release_date: '2023-03-04',
+		id: 2163145027,
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8f75fd4f9d5d7fdc79279f34793c776e-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/923a800aa9ebd6876b0b36a56ce25915/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Östen Med Resten',
+		title: 'Hon Kommer Med Solsken',
+		release_date: '2002-04-03',
+		id: 982237632,
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5c665c1a1225cac562ba6828bbbec007-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/e07c0f37b91f1d3be68785dfaaaa07fc/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Carola',
+		title: 'Säg Mig Var Du Står',
+		release_date: '2020-08-28',
+		id: 1766261497,
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-fb46e0244af53b15b50c4a56c1302397-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/f18644612d9ed5ce473c369299fb7bd0/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Dolores',
+		title: 'Rosa helikopter',
+		release_date: '2019-05-24',
+		id: 684648032,
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a1541c03c8d224ef0d69a0f11784949a-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/676090219f30ee52509ddf62dd93fac8/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Markoolio',
+		title: 'Sommar Och Sol',
+		release_date: '1998',
+		id: 1113135202,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e6bb67f0d91fbb52599b11c7a843ca10-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/715793cb7f77c9914980b7a86e5c29db/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Jonzon',
+		title: 'Jag ska fånga en ängel',
+		release_date: '2022-12-23',
+		id: 2079673917,
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d26984e7431996c27538bbe1ee9599e9-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/6c763f8cd0131ae572cf9a95e0182517/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Hagelstorm',
+		title: 'Tommy tycker om mig',
+		release_date: '2022-07-01',
+		id: 1794483397,
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-cd9145ef6f4e78be8f5900786ba3c9df-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/6f9785f464a5559f5de6059541f238fb/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Balsam Boys',
+		title: 'Här kommer sommaren',
+		release_date: '2000',
+		id: 15650332,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1241260ab48a9d2dd40c934adb6858f4-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/c7e0586ad5675c9f4b19d264b8b843c7/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Gyllene Tider',
+		title: 'Gå & fiska!',
+		release_date: '2004-03-24',
+		id: 1855143117,
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-41743b32752c09b3762537a1f54bbd7a-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/507483378e279764eff5bb56e4546609/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'kent',
+		title: 'Utan dina andetag',
+		release_date: '2000-11-29',
+		id: 132195408,
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-996681979187870b818812d151c16ba9-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/7270ae0d1e849f082a91091d37f96264/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Ansiktet',
+		title: 'X',
+		release_date: '2013-01-01',
+		id: 2246260067,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-10edcfd4e33d8a92dde552f44442d482-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/202a4d51aa52326594b81ea46c081d26/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'kent',
+		title: 'Sverige',
+		release_date: '2002-04-15',
+		id: 972118,
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5b57aa7159c0b70d4d3ab0b80ff37fc0-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/b7f09144c2e304b9db0562b3017df18a/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Dolores',
+		title: 'Michelangelo (Men så svara då!)',
+		release_date: '2020-11-27',
+		id: 1135919552,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1869c0fe33331ff9243f617d8acc0d5a-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/a681a49d8ef8bfd54ae1e22632139a17/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Albin',
+		title: 'Din soldat',
+		release_date: '2015-05-22',
+		id: 100126458,
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-04b586f39ae468331af2938d04e7163c-1.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/ace1740f62f1170292557329195ee582/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Ison & Fille',
+		title: 'Sena nätter, tomma glas (feat. Veronica Maggio)',
+		release_date: '2011-05-11',
+		id: 116585006,
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9773a282cea0071fbd6bc7e4cb3ee39d-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/80a323b3d31112fe25bf604589f7d77d/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Jonzon',
+		title: 'Inget stoppar oss nu',
+		release_date: '2023-02-03',
+		id: 2117424497,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-12a02b6f572f863fb2d085f215a1b519-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/5efcb7f677762f002d6ca3578343cf53/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Jonzon',
+		title: 'Ooa hela natten',
+		release_date: '2023-03-10',
+		id: 2168557347,
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6f12f994a248c1d01376bfd967c792ba-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/05f2dde44cd473df49e78f2db01b4a84/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Miss Li',
+		title: 'Utan dig',
+		release_date: '2021-09-24',
+		id: 1454947862,
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5a0cd4e345ca7f566bed5aae4cd607b2-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/45f814c252f7e4357511a3019f55b3be/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Jonzon',
+		title: 'Kom hem',
+		release_date: '2023-06-16',
+		id: 2302332915,
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6a6a45b7b64c263bc3b7612e5b80ba6b-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/caed3f440db4fa0ed0a963fce2b5ed38/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Dolores',
+		title: 'Dansa i neon',
+		release_date: '2020-12-25',
+		id: 1161428212,
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a05ede30799289a5748b681ee22dad1d-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/984a4d2dd9bea8516577b95eac190ad0/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Kaliffa',
+		title: 'Helt seriöst',
+		release_date: '2017-06-16',
+		id: 372936491,
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-61d4fc26f33b88d5f1db312c8972114a-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d9b7359cc54bf8928fc2a2dbb5a48607/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Dolores',
+		title: 'Välkommen in',
+		release_date: '2023-06-16',
+		id: 2318922505,
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-afae41d056b8ac878b5b1f478d0938b5-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/3b979cc3c196883ebe5472ceebeb943a/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Ansiktet',
+		title: 'Låtsas som inget hänt',
+		release_date: '2013-01-01',
+		id: 2246260007,
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bc93be57c364d01e9adfc49b548a5884-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/202a4d51aa52326594b81ea46c081d26/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Kicki D',
+		title: 'Fantasi',
+		release_date: '2023-06-09',
+		id: 2295727635,
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6b2e2247c19a66c342435159163ff155-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/3f97c2956b385ab4045e1b1e89fd0936/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Kayo',
+		title: 'Sommar',
+		release_date: '1993-01-01',
+		id: 16994604,
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c8577f34d87274c3aedbc31fd48d7e5d-1.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d2a3c97c123abbf1da7ffab70b52788a/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Bo Kaspers Orkester',
+		title: 'Sommaren',
+		release_date: '2015-10-23',
+		id: 98137024,
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5dbb38db31b007bc075bfe2ae924bf8d-1.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/5e04f6a4752b14c2ee36870142b24fee/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Arvingarna',
+		title: 'Det är dans på Brännö brygga',
+		release_date: '2022-06-24',
+		id: 2282321347,
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3b0e29a40547f0f6b821b15ae09b9672-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/992271d20641ca8714c1fd75eb1e6e0f/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Adoo',
+		title: 'Champagne (feat. Baba Moe & Sam-E)',
+		release_date: '2017-04-07',
+		id: 341224411,
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0d997e8dcf18db9d4d5cc8b586a16755-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/3627802c5a87fb19bb20bd0bde68bd34/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Bo Kaspers Orkester',
+		title: 'Sommarlängtan',
+		release_date: '2014-06-04',
+		id: 1236615432,
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-49875cfff0937fc4c0f52b8a0a44e36f-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/b39fb18cadd29dc159e5df6ebb3e9165/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Tove Styrke',
+		title: 'Bara du och jag',
+		release_date: '2020-11-28',
+		id: 1135921312,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-ee6b3ed343f5710dbdd576bf41401aec-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d7fc41f12233a492d17c746c3b17aa41/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Niello',
+		title: 'Dansa',
+		release_date: '2018-05-04',
+		id: 492835202,
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9511e159cfe9fbd436cc2de613dc70fe-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/21b2bc878ba976f30c0c9d1991fa846c/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Petter',
+		title: "Såklart! (feat. Eye N'I)",
+		release_date: '1999-11-12',
+		id: 62270299,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e6ff0e3d56725f574a1c90b45f069cb3-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/6338ecfee78ce28c1f646c8411401ad5/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Julia Kedhammar',
+		title: 'Idas sommarvisa',
+		release_date: '2014-07-14',
+		id: 81260486,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-11a31c785ae79f86d5b7b75f65b0dc77-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/4a3c6b730e21bc66977218573bd7eed5/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'estraden',
+		title: 'Dansar med mig själv',
+		release_date: '2020-08-28',
+		id: 926640312,
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8278029e3e3a3f71fd29b9114ff94d55-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0a03032d5118d6356452d06710236ec1/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Magnus Uggla',
+		title: 'Sommartid',
+		release_date: '2008-01-01',
+		id: 9793262,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1d3a2103c2fe2c86b69954f559ebf5f1-1.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/4922f95ebc7b68a192d641f69773d5ee/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'GAMMAL',
+		title: 'Dum och kär',
+		release_date: '2020-05-15',
+		id: 947058432,
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-ff6adcef08baf04b94e664344b713ff9-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/2edd79ad42902c4236dd53d4164728c8/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Elov & Beny',
+		title: 'Blåser Upp Till Grogg',
+		release_date: '2020-06-24',
+		id: 995582962,
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bcd374ed093ec46f2445b7af7474e769-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/cee36f32c176f897bf6efab7482ebb70/250x250-000000-80-0-0.jpg'
 	}
 ];
 

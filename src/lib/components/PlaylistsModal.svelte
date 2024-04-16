@@ -1,8 +1,10 @@
 <script lang="ts">
+	import type { Track } from '$lib/types/Track';
 	import { clickOutside } from '$lib/utils/clickOutside';
 
 	export let playlists: { [key: string]: { active: boolean } };
 	export let playlistsChanged: (playlists: { [key: string]: { active: boolean } }) => void;
+	export let availablePlaylists: { [key: string]: Track[] };
 
 	let open = false;
 
@@ -61,7 +63,9 @@
 						on:change={() => togglePlaylist(playlist)}
 						disabled={activePlaylists === 1 && playlists[playlist].active}
 					/>
-					<label for={playlist} class="ml-2 w-full py-3 text-sm font-medium">{playlist}</label>
+					<label for={playlist} class="ml-2 w-full py-3 text-sm font-medium">
+						{playlist} <span class="text-xs">({availablePlaylists[playlist].length} songs)</span>
+					</label>
 				</div>
 			{/each}
 			<button

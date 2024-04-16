@@ -45,7 +45,7 @@
 				: 'animate-shake bg-red-300 font-medium'
 			: 'bg-neutral-300';
 
-	const newTrack = () => {
+	const newTrack = async () => {
 		$stats.played++;
 
 		// Randomly select a track from the playlist exclude the current track
@@ -54,7 +54,7 @@
 		];
 
 		// Check that the track preview is available
-		fetch(randomTrack.preview)
+		await fetch(randomTrack.preview)
 			.then((response) => {
 				if (!response.ok) {
 					throw new Error();
@@ -94,13 +94,13 @@
 		guesses = [...guesses, 'Skipped'];
 	};
 
-	const newGame = () => {
+	const newGame = async () => {
 		// Reset the streak if the previous track was incorrect
 		if (!previousTrackCorrect) {
 			$stats.streak = 0;
 		}
 
-		newTrack();
+		await newTrack();
 		previousTrackCorrect = false;
 		guesses = [];
 	};
@@ -113,7 +113,7 @@
 <header class="mx-auto mb-4 grid max-w-lg grid-cols-3 items-center">
 	<h1 class=" col-start-2 justify-center text-center font-lilita text-5xl text-white">DEJD</h1>
 	<div class="flex justify-self-end">
-		<PlaylistsModal playlists={$playlists} {playlistsChanged} />
+		<PlaylistsModal playlists={$playlists} {availablePlaylists} {playlistsChanged} />
 		<StatsModal stats={$stats} />
 		<AboutModal />
 	</div>
