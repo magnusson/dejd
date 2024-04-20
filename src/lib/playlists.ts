@@ -13253,70 +13253,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/57340d30b084ed406f86f1e40fc9d862/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Abel',
-		title: 'Onderweg',
-		id: 3758347,
-		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5ef9caf911567f4b1dd5cbe04793e4b6-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/19876bc4f25eec85d0ac83a78210f1fd/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Acda en de Munnik',
-		title: 'Als Het Vuur Gedoofd Is',
-		id: 576537,
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-cef5700489a491ba048a9abb6106984a-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/0a8ab6585b4d2aa15eae09030c69d744/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Acda en de Munnik',
-		title: 'De Kapitein Deel II',
-		id: 576532,
-		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d30716962904e72e80e79dd67319beac-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/0a8ab6585b4d2aa15eae09030c69d744/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Acda en de Munnik',
-		title: 'Het Regent Zonnestralen',
-		id: 576524,
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9691781cbd3f28553487616e3f339adf-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/0a8ab6585b4d2aa15eae09030c69d744/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Acda en de Munnik',
-		title: 'Lopen Tot De Zon Komt',
-		id: 576549,
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-ab947c4db1578cc89f2d598a7b8b3653-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/0a8ab6585b4d2aa15eae09030c69d744/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Acda en de Munnik',
-		title: 'Mooi Liedje',
-		id: 576521,
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-62ea90c6ac73611f69e8bf8c0cd452d8-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/0a8ab6585b4d2aa15eae09030c69d744/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Acda en de Munnik',
-		title: 'Niet Of Nooit Geweest',
-		id: 576509,
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-21eaafecef5cbfa6f627c87bc5d5dfba-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/0a8ab6585b4d2aa15eae09030c69d744/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Acda en de Munnik',
-		title: 'Ren Lenny Ren',
-		id: 576518,
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2e466a3481c7227db254a959c1c4b64f-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/0a8ab6585b4d2aa15eae09030c69d744/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Ace of Base',
 		title: 'Beautiful Life',
 		id: 92382204,
@@ -13443,14 +13379,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e36e4f4c6232625aba1913bbe8a9962a-11.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/cbd44da9ff591340518222c013aee96f/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Alderliefste',
-		title: 'Une Belle Histoire (Een Mooi Verhaal)',
-		id: 25619131,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-198cac81fc6c41e26803d27cc3691e44-1.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/49a85fc65472ebd4e0a970d6bef14d06/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Alice Cooper',
@@ -13603,14 +13531,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-811a2bfb76add677873dfe15b846cb44-6.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/d9928bc2e3cfa804ed169fa64a91113c/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'André Hazes Jr.',
-		title: 'Leef',
-		id: 102813082,
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-ecd3cf60d0a81abc1d9d0d25c19a2c7f-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/89d50467c225475da0e322ae38c08054/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Annie Lennox',
@@ -13773,14 +13693,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/7085eed3925e3586e6f97460ef15ff13/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Armand',
-		title: 'Ben Ik Te Min',
-		id: 113789926,
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a755359de4d53ce8f4dce544eea8af8b-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/c9fcdc8b5ba55f5087775870b2d422f4/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Armin van Buuren',
 		title: 'Heading Up High',
 		id: 110809066,
@@ -13859,150 +13771,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-418a232fd97c2894d963866f807f52d9-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/a01e85774ccfb1bda013c7a4a535125b/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'BAP',
-		title: 'Kristallnaach',
-		id: 3391003,
-		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-db0d78765d51f8ca3bf4ea7d22f06e63-7.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/111112c90587e80254bf96a59918866a/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'BLØF',
-		title: 'Aan De Kust',
-		id: 16163166,
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6e995b1361e1ccea9e650e27a40764d3-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/eee5eeec137fc683c5dfef2e50f00c5e/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'BLØF',
-		title: 'Aanzoek Zonder Ringen',
-		id: 3227233,
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2d9ac5c3248de26ee20e440aa7316112-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/b669466f1992dd4b78b2e4e4311a8bf7/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'BLØF',
-		title: 'Alles Is Liefde',
-		id: 61247962,
-		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-308a5327636da546f4f0746474f01775-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/e5f3539861d6cafebad3863d93f9f66e/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'BLØF',
-		title: 'Blauwe Ruis',
-		id: 3400698,
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b3abfc6bd75e10b3c98c20d2c6511e15-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/250ddd56a9c68a7a3aaa9a6c30c2c5ca/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'BLØF',
-		title: 'Dansen Aan Zee',
-		id: 61247944,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1c0873ee9c2baa0b9191ec5223219ac9-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/e5f3539861d6cafebad3863d93f9f66e/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'BLØF',
-		title: 'Dichterbij Dan Ooit',
-		id: 3400991,
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-281d2b288737333ae4f1d08a01077a26-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/de0a015275d89111cfd42667107182a9/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'BLØF',
-		title: 'Harder Dan Ik Hebben Kan',
-		id: 61247941,
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-05445ff44f57c56bbb9f3a285b1c6e96-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/e5f3539861d6cafebad3863d93f9f66e/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'BLØF',
-		title: 'Hier',
-		id: 3400961,
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7c06470fd9ae917bd7d9f3ee69b2b0f7-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/cf7a1b5d6ba6843a3d030ff22c4312f9/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'BLØF',
-		title: 'Hou Vol Hou Vast',
-		id: 1746412117,
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f56577685bc1559026a48fb5f1234f61-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/4859dab70233e405032edcb7a49d966b/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'BLØF',
-		title: 'Later Als Ik Groter Ben',
-		id: 1972278987,
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-ba66489296ef5f8c8d2a4b0a29cf2316-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/bc38f7c5086a18a5973a87279165fc32/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'BLØF',
-		title: 'Liefs Uit Londen',
-		id: 16163153,
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-600a02d82cc7c1291adebfa285807318-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/eee5eeec137fc683c5dfef2e50f00c5e/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'BLØF',
-		title: 'Mooie Dag',
-		id: 61247949,
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2f26ef218cd74bcdf1d5fc41a1690a17-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/e5f3539861d6cafebad3863d93f9f66e/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'BLØF',
-		title: 'Omarm',
-		id: 61247951,
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-89a38533826acd3f65f722b555c987d2-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/e5f3539861d6cafebad3863d93f9f66e/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'BLØF',
-		title: 'Wat Zou Je Doen?',
-		id: 3226868,
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f9f306055099f4660cdc2c06e44d015d-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/58c2e81ffd3d3237c6f68dc305b25241/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'BLØF',
-		title: 'Zaterdag',
-		id: 3227095,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-12e07c56d45dafdf5dea5f5ad1d8bd92-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/2c9e5c961ff6555d099c45effcf1ef81/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'BLØF',
-		title: 'Zo Stil',
-		id: 1971993817,
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0285d0be7861da3256b1935767f98371-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/bc38f7c5086a18a5973a87279165fc32/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'BLØF',
-		title: 'Zoutelande',
-		id: 579396722,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1ee5d19d6e99a119d6572e0aa2a6a222-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/d976ae93101855a621127b89cfcdfa8d/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Bachman-Turner Overdrive',
@@ -14573,92 +14341,12 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/7e09ecb0a9944d65cc3902d60c0677f6/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Boudewijn de Groot',
-		title: 'Als De Rook Om Je Hoofd Is Verdwenen',
-		id: 1855006307,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1f0cbd425b9b88285f82f35598970ca8-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/828d1c1b4ffe3d24d405a65504f5b8ac/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Boudewijn de Groot',
-		title: 'Avond',
-		id: 73742945,
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-01e8f18c9911cfe4f2b8211c75a43478-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/d4399e53183980f9d911ab46360cd37f/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Boudewijn de Groot',
-		title: 'De Vondeling Van Ameland',
-		id: 73742960,
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-826e35f8f8c2647eefd05af0f9c3ea93-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/9a44354db26b56fdca25226de0a46875/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Boudewijn de Groot',
-		title: 'Een Meisje Van Zestien',
-		id: 1855006217,
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0c45b935f1a52337ccc4441104734c22-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/828d1c1b4ffe3d24d405a65504f5b8ac/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Boudewijn de Groot',
-		title: 'Het Land Van Maas En Waal',
-		id: 1855006257,
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7a00422cbb7b85b5074199cae8de73b3-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/828d1c1b4ffe3d24d405a65504f5b8ac/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Boudewijn de Groot',
-		title: 'Prikkebeen',
-		id: 1855006277,
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-69dfbb8c22cdbb858bdd614dfe6c55c6-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/828d1c1b4ffe3d24d405a65504f5b8ac/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Boudewijn de Groot',
-		title: 'Testament',
-		id: 1855006247,
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6cc12d37505611e8abab7b9112994783-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/828d1c1b4ffe3d24d405a65504f5b8ac/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Boudewijn de Groot',
-		title: 'Verdronken Vlinder',
-		id: 1855006237,
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6e7b9a28de53f7c3fe165e9e417a488d-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/828d1c1b4ffe3d24d405a65504f5b8ac/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Boudewijn de Groot',
-		title: 'Welterusten Mijnheer De President',
-		id: 1855006227,
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b10425170bb4cb01bc1579a486e1731f-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/828d1c1b4ffe3d24d405a65504f5b8ac/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Brainbox',
 		title: 'Down Man',
 		id: 2174327797,
 		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-64b7c282cf48a12765e1f2950ee6465b-6.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/0870596d585274c3e7a5d46def8979ae/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Bram Vermeulen',
-		title: 'De wedstrijd',
-		id: 3404299,
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f3f3d6f1819908d2c9daf1fe096e3fbc-8.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/3f1b0238f1c3ee5c9242364e073aa4ba/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Brenda Lee',
@@ -14847,14 +14535,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-76280379993197a8c56a9fc03adfb896-1.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/5686b31dc9bfa898328519b5173bf7b4/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Bökkers',
-		title: 'Iederene Hef Een Reden',
-		id: 1001510182,
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-cdb37f34c697ddea321403ff26a8e9b7-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/59f155acc8bf22bf4d06f01511b6b7d1/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Calum Scott',
@@ -15071,14 +14751,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4a8ec244392715dc548e4c3a1c5aeb55-6.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/86c4dc247f751008f2bbd726fdd04465/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Clouseau',
-		title: 'Daar Gaat Ze',
-		id: 538905112,
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-ac2efd3fb9c2b25aa5d14c8d572b4318-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/85466fc27f1a4d4c1264580bd01ed7c5/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Clouseau',
@@ -15409,30 +15081,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/aa0c9daa84f97311cb78dfa758f0cf6d/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Daniël Lohues',
-		title: 'Hier Kom Ik Weg',
-		id: 2021488787,
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b0e6b67c40a9048709f01afab052f056-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/2e865b2a9a5467a0a497211be66aa05e/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Daniël Lohues',
-		title: "Op 't platteland",
-		id: 2021443537,
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6110567b26f6e519a2a67df1310fb79f-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/c6ae97f0876a7a285a75ceb9012e276a/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Daniël Lohues',
-		title: 'Prachtig mooie dag',
-		id: 2021456337,
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-40d6e7f8fd6903ae1c84a9a57ea3d8af-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/eae6a071f0739d91ed60d18afccaec61/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Danny Vera',
 		title: 'Roller Coaster',
 		id: 998623442,
@@ -15569,166 +15217,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/599156671eebddbebe8ac4984ae8c16e/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Davina Michelle',
-		title: 'Duurt Te Lang',
-		id: 562567102,
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-88011cfe9bdef480f7d065954e00e468-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/50f9fb0aee02f424758c5a237abe4c42/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'De Dijk',
-		title: 'Als Ze Er Niet Is',
-		id: 2307488,
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f018b229d985d2265005ca5b973b7005-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/d6857c479ec7c61d4388d8be1d4e2503/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'De Dijk',
-		title: 'Binnen Zonder Kloppen',
-		id: 2307476,
-		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-30f3181cfaec072503c2285581771075-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/d6857c479ec7c61d4388d8be1d4e2503/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'De Dijk',
-		title: 'Bloedend Hart',
-		id: 74812437,
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4f3fdeec1f18060b857e242ad956c57d-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/396e4ab861fddbc2ddbcf8ead6fa96bc/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'De Dijk',
-		title: 'Dansen Op De Vulkaan',
-		id: 2543450,
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8edd3439a9b06929dc10aff6423da7f7-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/4df168226944811046ef61991e21582f/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'De Dijk',
-		title: 'Groot Hart',
-		id: 2307477,
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6ef8bc5917f7a628f00002819ba8476d-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/d6857c479ec7c61d4388d8be1d4e2503/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'De Dijk',
-		title: 'Ik Kan Het Niet Alleen',
-		id: 2255982,
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c3710eb5d51bb7c0dbbe077312a9986b-7.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/0387d4aa1e2376247a4068c7889f23b7/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'De Dijk',
-		title: 'Kan Ik Iets Voor Je Doen',
-		id: 13621831,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-171644c68d5e34a7180e3126555d90fa-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/af1e3d941f766f9b6503c65a4856332a/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'De Dijk',
-		title: 'Mag Het Licht Uit',
-		id: 2307479,
-		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-543439ded37cb69fee2927a235d657c8-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/d6857c479ec7c61d4388d8be1d4e2503/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'De Dijk',
-		title: 'Nergens Goed Voor',
-		id: 2255986,
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e0a43901b4e56eb1df15c02784c7253a-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/0387d4aa1e2376247a4068c7889f23b7/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'De Dijk',
-		title: 'Niemand In De Stad',
-		id: 2307484,
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6cd492ad5af0ea83d46ab926952d124c-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/d6857c479ec7c61d4388d8be1d4e2503/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'De Dijk',
-		title: 'Onderuit',
-		id: 2307480,
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7d5b3d0d603992bd73fa845bf0140e6b-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/d6857c479ec7c61d4388d8be1d4e2503/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'De Jeugd Van Tegenwoordig',
-		title: 'Hollereer',
-		id: 7486006,
-		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5c37f6fc8180563a4fccc28904f75970-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/d3d53b7bb5d71dbdd2d38a00347e8b9b/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'De Jeugd Van Tegenwoordig',
-		title: 'Sterrenstof',
-		id: 14930690,
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-61e9373d3810fce654c335a193cadbdd-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/398d9a809d0bd9e7f05c8c5631144033/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'De Jeugd Van Tegenwoordig',
-		title: 'Watskeburt?!',
-		id: 982834,
-		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d26e251657271677f506c91a943fba08-8.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/f74a2e04dfee2651558d4880f19a73cc/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'De Kast',
-		title: 'Hart Van Mijn Gevoel',
-		id: 25555461,
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-96cab306072c30eb58908baab5c0068a-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/478b74c3c321733e33936e4ea7d1d826/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'De Kast',
-		title: 'In Nije Dei',
-		id: 25554681,
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-491fcbecfe978fb57bc3d9840c812c15-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/ea51df418d29b205ef9423cb09e6ccbc/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: "De Poema's",
-		title: 'Mijn Houten Hart',
-		id: 115031636,
-		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d016c3c937ed8442afbcfb7d8e394e00-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/bbd25c8a1ec08feb3cd68d8591ed89c2/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: "De Poema's",
-		title: 'Zij Maakt Het Verschil',
-		id: 115031640,
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-057d583248ece29fe8c43eee188eb72a-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/bbd25c8a1ec08feb3cd68d8591ed89c2/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'De Staat',
-		title: 'Witch Doctor',
-		id: 1587082352,
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8fa40cad636ce3b5821ba0174911d404-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/e732571e60ce56e64b8b7ef7504ba9d1/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Dead Or Alive',
 		title: 'You Spin Me Round (Like a Record)',
 		id: 5404605,
@@ -15801,22 +15289,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/c3ffee70a615564ac1238c493774bd9c/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Diggy Dex',
-		title: 'De Zon Op',
-		id: 528604711,
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-65e52f3225c4f32a55ad33d7bf40232a-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/27cec2b2ec17ac2e12b8ef45c8c2d7a3/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Diggy Dex',
-		title: 'Treur Niet (Ode Aan Het Leven)',
-		id: 132630694,
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c758b163e9b0efb10c742a1eca8dd5de-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/f08a563f13ed254dca7e3ad5207660d2/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Dire Straits',
 		title: 'Money for Nothing',
 		id: 2514681,
@@ -15865,54 +15337,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/21f1be0df13e2b7a46ce5d6329df8ecd/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Doe Maar',
-		title: 'Belle Hélène',
-		id: 35793971,
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f444fe3bc7ac9f88ebd36ad1d10f27a1-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/3d6381560a838f17ca9f08441f8dc3c0/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Doe Maar',
-		title: 'De Bom',
-		id: 1454365632,
-		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-35db666c823cac04d14a3ed728b19544-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/eec7232c11f89c1b393ca5f20be18c45/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Doe Maar',
-		title: 'Is Dit Alles',
-		id: 35793941,
-		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-33f3f9e87c71849d43cfec1bb13f71e9-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/3d6381560a838f17ca9f08441f8dc3c0/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Doe Maar',
-		title: 'Pa',
-		id: 35793901,
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-47048da0fc1c79fdfdc2b2d7d2139e84-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/3d6381560a838f17ca9f08441f8dc3c0/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Doe Maar',
-		title: 'Sinds 1 Dag Of 2 (32 Jaar)',
-		id: 33801861,
-		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-50f25c55075fb3b73fe08ed04d4bbc58-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/93555b5e268e057bb49fbb4217d8e8e2/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Doe Maar',
-		title: 'Smoorverliefd',
-		id: 35793951,
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7f40aa1ea0c8dea1603f417f6b666828-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/3d6381560a838f17ca9f08441f8dc3c0/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Dolly Parton',
 		title: 'I Will Always Love You',
 		id: 567771,
@@ -15945,52 +15369,12 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/539d332c28baa41ee11306fe7148041f/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Dotan',
-		title: 'Home',
-		id: 1787285617,
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e833504fc7de6dec9401a4e3df80f33a-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/a2fd3271a6e74ba465ab74d0fe21e378/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Douwe Bob',
-		title: 'Hold Me',
-		id: 93696912,
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-eabcce7ec2ec8cedddcfda9943ed861b-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/f3fb9552196e33a18dd735d4bef48f86/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Douwe Bob',
-		title: 'I Do',
-		id: 578715402,
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-70029269e8cf34c4d47dbe07892ad3f3-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/3f52cc84aa8d5ddefe327a05685415ab/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Douwe Bob',
-		title: 'Jacob’s Song',
-		id: 124191866,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1fdda81b9dacecdcbbf43ba4ee351c21-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/2fcf2bf574036e2a3ee61b417ba21702/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Dr. Dre',
 		title: 'The Next Episode',
 		id: 128743595,
 		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-34181a421556f0229ea74fb3be7ae8de-6.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/0d9a24d054cbc5ab11843beed9f1422b/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Drukwerk',
-		title: 'Je Loog Tegen Mij',
-		id: 381996721,
-		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3b40ac3e90a4b40eba0f660d72e769a9-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/0f2c09f893fab505c6372ec1d19ec008/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Dua Lipa',
@@ -16143,14 +15527,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1d601a215d689b2a93861ae3d78d8238-6.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/cb6767337e9806f133330c4a7698bdd4/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Ede Staal',
-		title: 'Het het nog nooit zo donker west',
-		id: 2165333827,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1b9c96e580f37483ece9be2aeaacb627-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/39a184b3aa1cce2c1983b20e8e417197/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Editors',
@@ -17001,54 +16377,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/fc73624907c40d356ca26152754cef43/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Frank Boeijen',
-		title: 'Zeg Me Dat Het Niet Zo Is',
-		id: 1062726,
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c2370c299b87001e9084f1be1125ec80-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/bedcd600f20b1945800d096982558652/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Frank Boeijen Groep',
-		title: 'De Verzoening',
-		id: 1062735,
-		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-314f7cf9e2c4ace3ba104f1172ea444a-7.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/bedcd600f20b1945800d096982558652/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Frank Boeijen Groep',
-		title: 'Hier Komt De Storm',
-		id: 1062674,
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-883fede9e576b2e4300f728cb24d7654-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/a0b7ae06d01192f160a902b9f40d7fca/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Frank Boeijen Groep',
-		title: 'Kronenburg Park',
-		id: 1084158,
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a2b40d6c0a1f34f3bbdd4872399ad364-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/3f3544ead21f9d2c45f23f1b6bc0d572/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Frank Boeijen Groep',
-		title: 'Winter in Hamburg',
-		id: 1062695,
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-23be06da83049dc25fa0f6cbb7d3e11f-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/a0b7ae06d01192f160a902b9f40d7fca/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Frank Boeijen Groep',
-		title: 'Zwart Wit',
-		id: 616213,
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2e086223de21ee07070baaec78b92633-7.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/fc0a9de604269b04c8947684d4000b1e/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Frank Sinatra',
 		title: 'Fly Me To The Moon (In Other Words)',
 		id: 2221979597,
@@ -17111,22 +16439,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3d958aa9e0d759d69ad498cd495252c1-7.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/fd85f3ff2f1424d7f545c98e94c84e96/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Frans Halsema',
-		title: 'Vluchten Kan Niet Meer',
-		id: 518482172,
-		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3f40134a8d7f5f5926504d78ff3bf97b-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/7687ed4a1e8eb04c710f29b309e14dbf/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Frans Halsema',
-		title: 'Voor Haar',
-		id: 518482232,
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e823ff22de1496adf817a63c7ce807e8-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/7687ed4a1e8eb04c710f29b309e14dbf/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Franz Ferdinand',
@@ -17497,14 +16809,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/63c0bccff881ce9bc8ad9847f4bebbc4/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Gorki',
-		title: 'Mia',
-		id: 3845216,
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c5ba3a1ea27fb45629169c95199e2d01-7.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/af962bfe959f052cd5e1309364086a1d/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Gossip',
 		title: 'Heavy Cross',
 		id: 3056960,
@@ -17633,86 +16937,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/8bfe7b3b0985d9ff0751090fb2b6f73f/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Guus Meeuwis',
-		title: 'Brabant',
-		id: 3479065,
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-22fc8501a04d783c2dda4b0bba875488-8.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/7d74c8f5acc1f1257498343585f85809/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Guus Meeuwis',
-		title: 'Dat Komt Door Jou',
-		id: 7494865,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-199793700c651c2f9cf8359da81a4000-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/222712db819c78505d91d9d5f20b43a3/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Guus Meeuwis',
-		title: 'De Weg',
-		id: 3478988,
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e79ab085450021f144719f562b334d6e-7.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/75618264e077713ba6bacba824c9e17f/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Guus Meeuwis',
-		title: 'Geef Mij Je Angst',
-		id: 3479058,
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-65eeb418f7f1d2bf0f8a23f571daecf1-8.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/7d74c8f5acc1f1257498343585f85809/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Guus Meeuwis',
-		title: 'Het Is Een Nacht... (Levensecht)',
-		id: 75480694,
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-619adb1f5d34f914448bdc5a786aaecf-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/e3fe2902b7b4500e80cdd9d70fb3af5c/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Guus Meeuwis',
-		title: 'Per Spoor (Kedeng Kedeng)',
-		id: 75480692,
-		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3ac0b0e0d783bdbff065f53723917ebb-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/e3fe2902b7b4500e80cdd9d70fb3af5c/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Guus Meeuwis',
-		title: 'Proosten',
-		id: 7494864,
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9e94a0895c62b339437a6865dd525f6b-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/222712db819c78505d91d9d5f20b43a3/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Guus Meeuwis',
-		title: 'Tranen Gelachen',
-		id: 7494873,
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e77c830215c63bd708642a13db298b58-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/222712db819c78505d91d9d5f20b43a3/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Gé Reinders',
-		title: 'Blaosmuziek',
-		id: 120337180,
-		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-30cd1e43a9487ba4d7c9c8e0af7ad47d-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/f2e7b19fc8b7817c6b4260f9b6d790ba/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Hans De Booij',
-		title: 'Annabel',
-		id: 1151403462,
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-ba9641873ada087a3dfad104d9afa08e-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/d58f6cb13a68dfa3bfa5fc23f60d1820/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Harry Styles',
 		title: 'Sign of the Times',
 		id: 360301951,
@@ -17745,46 +16969,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/341b84af36fd6e2d3abe35161ec27cd8/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Helene Fischer',
-		title: 'Atemlos durch die Nacht',
-		id: 2384891455,
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-ab11cd9db2bc33dbd2dc5aff84b961d3-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/658ba7fe0d164de6821d43d1da992ce1/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Henk Westbroek',
-		title: 'Zelfs Je Naam Is Mooi',
-		id: 588241392,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-19b06c3dc78631373926aa44af539ef1-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/f853bff06cdd191acd9d52df7b2527a3/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Herbert Grönemeyer',
-		title: 'Der Weg',
-		id: 3159902,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1d33ffb3514a0bb1f5f69fee33ecd75f-7.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/41c7d29ca817eb0457929b5aca80ed73/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Herbert Grönemeyer',
-		title: 'Halt mich',
-		id: 3159918,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1acaff89e8479e401863a13cc21a1c89-7.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/41c7d29ca817eb0457929b5aca80ed73/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Herbert Grönemeyer',
-		title: 'Mensch',
-		id: 3159895,
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c8c3ad35541961a39ebab50337c76111-7.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/41c7d29ca817eb0457929b5aca80ed73/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Herman Brood & His Wild Romance',
 		title: 'Love You Like I Love Myself',
 		id: 1024538,
@@ -17815,70 +16999,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-855c35af28c1e7607c119c4a1750b963-5.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/272cb1a03dc4134fa33ac66464cf8573/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Herman van Veen',
-		title: 'Anne',
-		id: 13662227,
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-ff64d8db1de120d34b6e5949f1633823-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/09db77d2c910f26fa8cc60efdeeb74a1/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Herman van Veen',
-		title: 'Hilversum 3',
-		id: 44582371,
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0ede007c87fb939a7a1d9916e4165765-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/560ac499910d200228975204c6338bae/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Herman van Veen',
-		title: 'Liefde Van Later',
-		id: 1560241,
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-acbe9e40a6a4dfc76efe6596de057c57-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/febf25a53b1cfc05bacaf35ad31d8ad5/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Herman van Veen',
-		title: 'Suzanne',
-		id: 44582561,
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e34b3dc46f3b28f6e40102410b4f870f-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/560ac499910d200228975204c6338bae/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Herman van Veen',
-		title: 'Toveren',
-		id: 1560260,
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2ae70f26b32eab77da9e6e588d21ab23-7.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/febf25a53b1cfc05bacaf35ad31d8ad5/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Het Goede Doel',
-		title: 'Alles Geprobeerd',
-		id: 2439451,
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-aaceb4aa882b01ba5ffc25e49c78ea57-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/02bc856949a53bd8cbd05db54386b678/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Het Goede Doel',
-		title: 'Belgie ... (Is Er Leven Op Pluto ...)',
-		id: 100223212,
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8ae8d461e2e0762bc972c4542de4d643-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/dbe1dfd95198471ad1cec3be8772bdbb/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Het Goede Doel',
-		title: 'Vriendschap',
-		id: 100223198,
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-672afc313594261df0fe30a1773b5975-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/dbe1dfd95198471ad1cec3be8772bdbb/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'House Of Pain',
@@ -17919,14 +17039,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bbf4f213ecaaae9da43df3ba772eb610-7.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/70e4f0f5d43e0793b5ca99a2fe6cec10/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'IOS',
-		title: 'Voltooid Verleden Tijd',
-		id: 25625051,
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a34863ba88af9dbb0ca2312b10987f51-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/bcc2ea0014362e4f085125fff25d5ffc/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Iggy Pop',
@@ -18121,22 +17233,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/db9b55328a3231d68eba46830577d861/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Jacques Brel',
-		title: 'Mijn Vlakke Land',
-		id: 1363889832,
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8aa5f7c1498721dd605529b6b654b613-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/29aef4db08277ae5e3fdd7e2ef642871/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Jacques Brel',
-		title: 'Ne me quitte pas',
-		id: 2296855,
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-ef8d0d044b402c0d2cbf0564befe8f96-7.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/d415b2d0462a550ef192995fc124e9d6/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'James Bay',
 		title: 'Let It Go',
 		id: 96449044,
@@ -18167,14 +17263,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-749afffe2452a4124670463b9f9240d9-6.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/3a1d96fdc3ebd237dbf6de14dd8ec9e0/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Jan Smit',
-		title: 'Als De Morgen Is Gekomen',
-		id: 140898869,
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b311842074810cb660125bd5de8bc50b-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/74468411228f4474a36865791ccd1f0f/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Janis Ian',
@@ -18287,14 +17375,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-74c6d337559d861f12152a9500eb5ab2-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/5c17dddbe91f7a40d661a1b8c44527f5/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Jeroen van Koningsbrugge',
-		title: 'Wit Licht',
-		id: 145313210,
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bb1368fcd4b7170a1073765b52c3e338-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/9e85eb40d4210181994bff7798d088c8/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Jethro Tull',
@@ -18809,14 +17889,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/244d3ccecdf95e7117d26e2c7f3d37e0/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Karin Bloemen',
-		title: 'Geen Kind Meer',
-		id: 2490227231,
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4bc50bd538df08daea166412c83d9462-1.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/9535da816b5dee455aae3db84a6df9c5/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Kate Bush',
 		title: 'Babooshka',
 		id: 3127829,
@@ -19097,22 +18169,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/34c0ff08b56fbc210b81f4163173ab51/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Klein Orkest',
-		title: 'Laat Mij Maar Alleen',
-		id: 104002904,
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8520a83a31855b56c0742d10ed559467-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/301ea939a15208994a4d749a5edc750b/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Klein Orkest',
-		title: 'Over De Muur',
-		id: 104002928,
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-ee726148e1d6320cb082313ee0335d7c-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/301ea939a15208994a4d749a5edc750b/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Kodaline',
 		title: 'All I Want',
 		id: 927608952,
@@ -19191,22 +18247,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-269a254a696c247b695fdce022eb4825-5.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/de9496f611d6d7391fa57401bac99d5b/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Lange Frans',
-		title: 'Het Land Van',
-		id: 1466296732,
-		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-33d320478f671cde16d77c235a7edba5-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/e8018898c68e07680c984ebeac727f44/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Lange Frans',
-		title: 'Zing Voor Me',
-		id: 16051676,
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e4f8876c4cba6449e399a1b92297086b-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/a4a4f1c03b5e0b2fc76050af28de015d/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Laura Pausini',
@@ -19359,14 +18399,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a3001fef0ed7833e91971be2ee2d7927-7.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/9a49265adb09ef5c1ae4920f8420e5ae/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Liesbeth List',
-		title: 'Pastorale',
-		id: 15142947,
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-67a222f6e82171237432bc0677435b16-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/344b2dacff2b03a3120aef52ef25d882/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Limahl',
@@ -19617,14 +18649,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/d910a6585e4a80f06e6fddce4f6f859d/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Maaike Ouboter',
-		title: 'Dat Ik Je Mis',
-		id: 728246812,
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9065af22f224a0bb118ed2c91c72ada3-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/59cabc9208b4762298338ad115248fe9/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Madness',
 		title: 'Baggy Trousers',
 		id: 143053888,
@@ -19681,14 +18705,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/195d3d2c1196b20711cfb6ad76e1c2ba/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Maggie MacNeal',
-		title: 'Terug Naar De Kust',
-		id: 459418272,
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-be0502330afbd58fb0427e64574e1ba1-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/f76f58ff0757e1a0db3c9d54ad2c262f/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Manic Street Preachers',
 		title: 'If You Tolerate This Your Children Will Be Next',
 		id: 556031,
@@ -19705,132 +18721,12 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/902d4fcfa9486163da118787bb890987/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Mannenkoor Karrespoor',
-		title: "Lekker Op De Trekker ('n Boerinnen-Wervingslied)",
-		id: 25580421,
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-48cdeadcef9bcdd09b2dff339336c766-1.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/916177077f411fbf221a9c003fa4c4ef/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Manu Chao',
 		title: 'Me Gustas Tu',
 		id: 71608366,
 		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6f542c66980fe86c741047fa06c09ae0-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/8453da83592b1ce09febf8af0e7751b8/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Marco Borsato',
-		title: 'Afscheid Nemen Bestaat Niet',
-		id: 1568288,
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9809aadb0da76075ad055a3e90eb0d55-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/a58da38af83d68ee195c8d2236608211/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Marco Borsato',
-		title: 'Binnen',
-		id: 13691975,
-		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-ddc75f1ac72a8ac307060dfaad61be35-8.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/cf9195c8987c9df25fb9d8cb9c70c3e0/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Marco Borsato',
-		title: 'De Bestemming',
-		id: 1574868,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1a4fc7214c69d5b7df54b652d9da300e-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/0ab92ecd36662e798baf7560dd735c79/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Marco Borsato',
-		title: 'De Waarheid',
-		id: 13691979,
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-aa31944f1b400be09d1bf6244fae03ec-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/cf9195c8987c9df25fb9d8cb9c70c3e0/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Marco Borsato',
-		title: 'Dochters',
-		id: 469442062,
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-20881023abbfa2cd89df6e14806617f5-10.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/0fc6df299a0e3ee3ab965c37e6ce6cf7/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Marco Borsato',
-		title: 'Dromen Zijn Bedrog',
-		id: 13691988,
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c488f21bb0c81e60ac9fa3a180decee1-7.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/cf9195c8987c9df25fb9d8cb9c70c3e0/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Marco Borsato',
-		title: 'Ik Leef Niet Meer Voor Jou',
-		id: 13691974,
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9b93c0823f3397d5139b6b593df77263-8.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/cf9195c8987c9df25fb9d8cb9c70c3e0/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Marco Borsato',
-		title: 'Margherita',
-		id: 919673,
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-87169de2ce8d034bedcd5eed0dd84360-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/23f2c2a30447b810ed171a640584c493/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Marco Borsato',
-		title: 'Mooi',
-		id: 119873536,
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a76f459ddc2bc9595aade1341d8a4262-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/b377c5ec8460bb833627c9d3e90aa985/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Marco Borsato',
-		title: 'Rood',
-		id: 469442022,
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bda699fcf56952a7d3c43cb0c82ef058-8.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/0fc6df299a0e3ee3ab965c37e6ce6cf7/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Marco Borsato',
-		title: 'Speeltuin',
-		id: 13691982,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-15e2340a685519283c77d06aba3bf90b-7.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/cf9195c8987c9df25fb9d8cb9c70c3e0/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Marco Borsato',
-		title: 'Waarom Nou Jij',
-		id: 469441942,
-		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3ff6d6874582b4c8e21ceec83e381caa-10.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/0fc6df299a0e3ee3ab965c37e6ce6cf7/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Marco Borsato',
-		title: 'Wereld Zonder Jou',
-		id: 13691987,
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7b8fc9be28257db13731fe75a6b8e18b-7.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/cf9195c8987c9df25fb9d8cb9c70c3e0/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Marco Borsato',
-		title: 'Zij',
-		id: 13691980,
-		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5b669834f57abf45bcf1ff15aa4481ae-7.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/cf9195c8987c9df25fb9d8cb9c70c3e0/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Mariah Carey',
@@ -20433,14 +19329,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/c3a4ae3fffcde03542375a437682e916/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Neet Oét Lottum',
-		title: "Hald Mich 'S Vas",
-		id: 74006924,
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e80ec0ef30ca1c2a5ff7a3791db3efca-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/8e105423ebb857f4553cc41ff734b297/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Neil Diamond',
 		title: 'Beautiful Noise',
 		id: 529949771,
@@ -20553,22 +19441,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/11dfaefa9c8291175f381410521c0ad6/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Nick & Simon',
-		title: 'Kijk Omhoog',
-		id: 1191651402,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-18d499e0e601d9dc87808ab448b7294e-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/9b1cc219b238238dfa216d9f4be4c5e1/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Nick & Simon',
-		title: "Pak Maar M'n Hand",
-		id: 1195645962,
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-67581c0d4b31a9569f4f148799abb816-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/ac19c8fa1c7cd95d30538778d46d1a91/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Nick Cave & The Bad Seeds',
 		title: 'Into My Arms',
 		id: 68927072,
@@ -20583,14 +19455,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e045283b2dccd4f4edc533cf075868f5-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/7c7839056a5f7ca7038cbec8f5af7344/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Nielson',
-		title: 'IJskoud',
-		id: 558757062,
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9da1c0bf61d50259f0da73eb1e6b4d5a-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/d3223fb10bef14e0467d764461f21996/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Nielson',
@@ -20703,30 +19567,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c629b575ecf209f85297e2e9eb461bee-7.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/3f4369a4ed59c793bf65ac4977412556/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Normaal',
-		title: 'Alie',
-		id: 430255452,
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-90354b0267fad14cced5750300e4121f-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/cdf2bbc728aa5295070c52e1cb41f8ce/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Normaal',
-		title: 'Deurdonderen',
-		id: 3888101,
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-cf83dbc40f9bb38c3921e5b468614c38-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/6752f91df4ca19fabc8cb4e26bbd21f2/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Normaal',
-		title: 'Oerend Hard',
-		id: 74812459,
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8dab8ffd17b20a66c327f4052fc37144-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/733f01bd19c651574fde969db3f652c5/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Nothing But Thieves',
@@ -20999,30 +19839,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e91188db5df1974c298ba8235d698e76-7.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/245819b9bc0bd9ba6e39718abf42429a/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Paul de Leeuw',
-		title: 'Vlieg Met Me Mee',
-		id: 1486887372,
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-06cc37ef1384aa52f58112d6efcb0382-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/66f0a5615508b8146c00028872312151/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Paul de Leeuw',
-		title: 'Zonder Jou',
-		id: 1486887652,
-		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3adb32815eb5999e0d446bfbdd928b2e-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/29db08353532a63780a87b314aa37c75/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Paul de Leeuw',
-		title: 'k Heb Je Lief',
-		id: 1486887202,
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f681dbb6e8ed5d2a03e7107258b6cea8-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/66f0a5615508b8146c00028872312151/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Pearl Jam',
@@ -21561,22 +20377,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/f9da42318e79e99949805bbc3dbd2a89/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Ramses Shaffy',
-		title: 'Laat Me',
-		id: 490387522,
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9aea58034a04f9457a4838442911090f-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/eac79b6c1797d6d6349925e8b0696607/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Ramses Shaffy',
-		title: 'Sammy',
-		id: 490387332,
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9760277b08745acf087e35a37a61d19c-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/eac79b6c1797d6d6349925e8b0696607/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Rare Earth',
 		title: 'Get Ready',
 		id: 7276144,
@@ -21647,30 +20447,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7c7caef4edb2ac2902f71627b8dcdeba-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/cee021df170c68deb67ce48ea4e977fd/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Rob De Nijs',
-		title: 'Foto Van Vroeger',
-		id: 14483501,
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2f0a076d1fb5cf4e8d8f5e6ee39edca9-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/0ed4b072849f5035f7e64fc01aa1ab84/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Rob De Nijs',
-		title: 'Het Werd Zomer',
-		id: 14483499,
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8c1a44960b413d2bf0f23d0a23440441-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/0ed4b072849f5035f7e64fc01aa1ab84/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Rob De Nijs',
-		title: 'Malle Babbe',
-		id: 14483508,
-		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d42660628ac6da0c006f95525cf5b114-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/0ed4b072849f5035f7e64fc01aa1ab84/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Robbie Williams',
@@ -21783,62 +20559,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-abe1dc93e0b2ec1a5bf96920c8ebf2be-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/7d860c3e89072a532c5c3fd7c50fd3b5/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Rowwen Hèze',
-		title: 'Auto Vliegtuug',
-		id: 102625654,
-		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d0193e97f41282a828375bf9095bcd7f-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/9004345389bbfb7275e98e44f712ca01/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Rowwen Hèze',
-		title: 'Bestel Mar (edit)',
-		id: 74041064,
-		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-50cb0ee3c781bf08ff6a544571c7e080-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/99326c22502e87f05a32069fd1bd5647/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Rowwen Hèze',
-		title: 'De Neus Umhoeg',
-		id: 102625636,
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b1c7262b4764b98243533faa7e62fc35-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/9004345389bbfb7275e98e44f712ca01/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Rowwen Hèze',
-		title: 'De Peel In Brand',
-		id: 538905422,
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9b61177d7638f0991996b4fc3c013c92-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/85466fc27f1a4d4c1264580bd01ed7c5/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Rowwen Hèze',
-		title: 'Limburg',
-		id: 102625652,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1f2d24a2d8e1a84a0263aa97cadca48b-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/9004345389bbfb7275e98e44f712ca01/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Rowwen Hèze',
-		title: 'November',
-		id: 538905662,
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2cac6349f4520b017dda1a4bef537d02-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/85466fc27f1a4d4c1264580bd01ed7c5/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Rowwen Hèze',
-		title: 'Vlinder',
-		id: 80695500,
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8a4b83c111a83b4d02aa5fe4c8f7f5f8-1.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/6141ca8449f4610ac005be6ca5e54ae9/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Roxy Music',
@@ -22169,14 +20889,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/1aab7d7c46d664846690e2c4b8764abc/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Skik',
-		title: 'Op Fietse',
-		id: 2671839882,
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e2f1885f4a5d3b7fc85fdc6f65cb554c-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/619cba5e3c87b3d05c6c872cd7be1e93/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Skunk Anansie',
 		title: 'Hedonism (Just Because You Feel Good)',
 		id: 2629609432,
@@ -22207,14 +20919,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f32648b960156fd9239c5d9aaf35de5e-7.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/9f3a4d7b906782502b53231fd546fa6b/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Snelle',
-		title: 'Reünie',
-		id: 708707332,
-		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d8c4e41393664fc65e019de559d0c82e-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/d9a7b69aa39890a2c00fb4c98adc90a9/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: "Sniff 'n' The Tears",
@@ -22289,22 +20993,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/65689ec5162126a39cf7bff42a28ba50/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Spinvis',
-		title: 'Bagagedrager',
-		id: 2068003187,
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-ce52f5e9a5ee8b127b516f36932ee880-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/b5c14f9a9ff42c041b1eb002fae83f12/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Spinvis',
-		title: 'kom terug',
-		id: 998752552,
-		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5ef9d471b4a88679a6b4c65e7837f8f8-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/38132d5e3048dd527d73f417a896ca98/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Split Enz',
 		title: 'Message To My Girl',
 		id: 1666563022,
@@ -22359,22 +21047,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-ff34c41d90c10e58444c3d4add55bec3-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/d6dfdac98e19bdec4a121dfb2d3f98fa/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Stef Bos',
-		title: 'Ik Heb Je Lief',
-		id: 2555654122,
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8bae037ee94788c50e6e4e40c1a4c613-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/785f25aac570f1585a855067439c375f/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Stef Bos',
-		title: 'Papa',
-		id: 526542552,
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9a72678fbc51e00e4227c5b435ff3a63-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/e89ef29dc20d234643725929133a010e/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Stereophonics',
@@ -22513,30 +21185,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/3c09d880d48f7331aca91276656ce37c/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Stromae',
-		title: 'Formidable',
-		id: 69879254,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-17c86edf4c92310a6bb58ea8d3fe58aa-10.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/914db9146f330d0a2969d157872da5eb/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Stromae',
-		title: 'Papaoutai',
-		id: 69879250,
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-452bb029a40798aa8a1b6b405d3e53c7-9.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/914db9146f330d0a2969d157872da5eb/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Stromae',
-		title: 'tous les mêmes',
-		id: 69879253,
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-253809f2a4da8f221e99da7b22ac7800-9.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/914db9146f330d0a2969d157872da5eb/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Supertramp',
 		title: 'Crime Of The Century',
 		id: 2503279,
@@ -22607,22 +21255,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c9c101e78acfd542f5c0b19ef510e5ad-9.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/6e982953fde60522577ef2958a17faa2/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Suzan & Freek',
-		title: 'Als Het Avond Is',
-		id: 575006832,
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-83bad4f3a204a74b5d025d47b6a87ba7-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/775b69285aad046a306df1bf0c19071f/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Suzan & Freek',
-		title: 'Blauwe Dag',
-		id: 697644602,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1f65f51a8acbae2846cefc0f34bafc3a-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/e63a8c7b13b215ad19393a2b6a555b3b/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Suzanne Vega',
@@ -22855,14 +21487,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a08d58b1573d295f095288f6a01f6b9a-5.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/bd1066d46cf63276fdb8924ae4903e32/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'The Amazing Stroopwafels',
-		title: 'Oude Maasweg',
-		id: 1563868222,
-		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5012ff68e2b52dca21382c14f2cc6161-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/17e76fd4e794b861e828fa3d9949dfa0/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'The Animals',
@@ -23449,14 +22073,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/6bdd5fe2370704eca1c819ea20dd8273/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'The Opposites',
-		title: 'Slapeloze Nachten',
-		id: 66710304,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1a8472db4b9dd3374f0853c301e5a88c-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/f57566adb25324cadebc6f69c0b5c924/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'The Pogues',
 		title: 'Fairytale of New York (feat. Kirsty MacColl)',
 		id: 674162,
@@ -23623,22 +22239,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c66c39258943501297a7f6e88c67027a-10.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/966fa939bd79e15d413abf0764f8a3b5/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'The Scene',
-		title: 'Blauw',
-		id: 2181976,
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-fd5bc14400a124f4db78e96a0b8945af-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/11d8486a786a0a4b17f5426cc556921d/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'The Scene',
-		title: 'Iedereen Is Van De Wereld',
-		id: 2181977,
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-421ed506fd5277009808f7a3fa41aaf1-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/11d8486a786a0a4b17f5426cc556921d/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'The Script',
@@ -24041,14 +22641,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/6e9a7b108b3b71aac1a045c8ab81bea3/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Toontje Lager',
-		title: 'Stiekem Gedanst',
-		id: 74812427,
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e2bdb216d86d7fc4f45f0fc91f07b060-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/6c7838352926181b657b520cb47f8935/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Tori Amos',
 		title: 'Winter',
 		id: 60726880,
@@ -24073,22 +22665,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/90989ab8998af9d5957b43bae748788d/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Tröckener Kecks',
-		title: 'Met Hart En Ziel',
-		id: 398342922,
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b6ef691a86e0cbd5bb1fe72028cb700e-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/fe3f39b36732cb35bd560056d22d2e19/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Twarres',
-		title: 'Wêr Bisto',
-		id: 987956312,
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4f127500b522c16c8f8f842a1397b0c5-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/d250ce0a3ac5921fb0266d6e349b69e8/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Twenty One Pilots',
 		title: 'Heathens',
 		id: 2742029921,
@@ -24103,22 +22679,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-be897cd6f8f1c730f02fa9b5a11f6bb6-7.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/21f1be0df13e2b7a46ce5d6329df8ecd/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Typhoon',
-		title: 'Hemel Valt',
-		id: 79552624,
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4534908b2c0e92446b5556d6c6bd3bb6-1.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/149ae589da32a6b14991051a247ebd37/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Typhoon',
-		title: 'Zandloper',
-		id: 79552632,
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8e77c58adfd62949b770418d4dc937e0-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/149ae589da32a6b14991051a247ebd37/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'U.S.A. For Africa',
@@ -24257,22 +22817,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/aedbd383ede085ca48fda7e89393a26d/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Van Dik Hout',
-		title: 'Meer Dan Een Ander',
-		id: 15103483,
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f7954d143447dccf135db8e079fd2a5e-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/d302c188d270d019f52e9f2e0d97c488/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Van Dik Hout',
-		title: 'Stil In Mij',
-		id: 15103477,
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c4e5288336545c040cf7197fbe18a001-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/d302c188d270d019f52e9f2e0d97c488/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Van Halen',
 		title: "Runnin' with the Devil",
 		id: 5093776,
@@ -24327,14 +22871,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-967089cc43c963d58da2ddb589d32e57-9.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/aa608bfedbe99921b661fd24bea6b8fe/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Veldhuis & Kemper',
-		title: 'Ik Wou Dat Ik Jou Was',
-		id: 3212428,
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e6a459254c832d293b48a0a3cef32250-7.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/6e685ebf8ecbf43b3726952c22eb4345/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Venice',
@@ -24449,14 +22985,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/22b6a66245c929fa517fb4186500fa83/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Wim Sonneveld',
-		title: 'Het Dorp',
-		id: 110146924,
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bd2dabde917c4e06799ec4c7bccd5de2-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/6c9eca420bfecff892ad836d85e63447/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Within Temptation',
 		title: 'Faster',
 		id: 1222202262,
@@ -24561,14 +23089,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/268497aa096e72139468ae75c8d807a2/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: "Youp van 't Hek",
-		title: 'Flappie',
-		id: 1176900432,
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-064fed4f927af28e96855b2207f9ed3b-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/2d3fe470c94025c34d50d300b8739cf6/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: "Youssou N'Dour",
 		title: '7 Seconds (feat. Neneh Cherry)',
 		id: 1015065,
@@ -24623,5 +23143,1488 @@ export const bandle = [
 		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1c651fb78404eb4ddbe93b583c7d35b7-11.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/e0ce8977ab98d73bcea00fc838ece034/250x250-000000-80-0-0.jpg'
+	}
+];
+
+export const holland = [
+	{
+		artist: 'Acda en de Munnik',
+		title: 'Als Het Vuur Gedoofd Is',
+		id: 576537,
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-cef5700489a491ba048a9abb6106984a-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0a8ab6585b4d2aa15eae09030c69d744/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Acda en de Munnik',
+		title: 'De Kapitein Deel II',
+		id: 576532,
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d30716962904e72e80e79dd67319beac-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0a8ab6585b4d2aa15eae09030c69d744/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Acda en de Munnik',
+		title: 'Het Regent Zonnestralen',
+		id: 576524,
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9691781cbd3f28553487616e3f339adf-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0a8ab6585b4d2aa15eae09030c69d744/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Acda en de Munnik',
+		title: 'Lopen Tot De Zon Komt',
+		id: 576549,
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-ab947c4db1578cc89f2d598a7b8b3653-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0a8ab6585b4d2aa15eae09030c69d744/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Acda en de Munnik',
+		title: 'Mooi Liedje',
+		id: 576521,
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-62ea90c6ac73611f69e8bf8c0cd452d8-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0a8ab6585b4d2aa15eae09030c69d744/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Acda en de Munnik',
+		title: 'Niet Of Nooit Geweest',
+		id: 576509,
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-21eaafecef5cbfa6f627c87bc5d5dfba-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0a8ab6585b4d2aa15eae09030c69d744/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Acda en de Munnik',
+		title: 'Ren Lenny Ren',
+		id: 576518,
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2e466a3481c7227db254a959c1c4b64f-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0a8ab6585b4d2aa15eae09030c69d744/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'BLØF',
+		title: 'Aan De Kust',
+		id: 16163166,
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6e995b1361e1ccea9e650e27a40764d3-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/eee5eeec137fc683c5dfef2e50f00c5e/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'BLØF',
+		title: 'Aanzoek Zonder Ringen',
+		id: 3227233,
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2d9ac5c3248de26ee20e440aa7316112-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/b669466f1992dd4b78b2e4e4311a8bf7/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'BLØF',
+		title: 'Alles Is Liefde',
+		id: 61247962,
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-308a5327636da546f4f0746474f01775-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/e5f3539861d6cafebad3863d93f9f66e/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'BLØF',
+		title: 'Blauwe Ruis',
+		id: 3400698,
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b3abfc6bd75e10b3c98c20d2c6511e15-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/250ddd56a9c68a7a3aaa9a6c30c2c5ca/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'BLØF',
+		title: 'Dansen Aan Zee',
+		id: 61247944,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1c0873ee9c2baa0b9191ec5223219ac9-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/e5f3539861d6cafebad3863d93f9f66e/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'BLØF',
+		title: 'Dichterbij Dan Ooit',
+		id: 3400991,
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-281d2b288737333ae4f1d08a01077a26-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/de0a015275d89111cfd42667107182a9/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'BLØF',
+		title: 'Harder Dan Ik Hebben Kan',
+		id: 61247941,
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-05445ff44f57c56bbb9f3a285b1c6e96-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/e5f3539861d6cafebad3863d93f9f66e/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'BLØF',
+		title: 'Hier',
+		id: 3400961,
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7c06470fd9ae917bd7d9f3ee69b2b0f7-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/cf7a1b5d6ba6843a3d030ff22c4312f9/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'BLØF',
+		title: 'Hou Vol Hou Vast',
+		id: 1746412117,
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f56577685bc1559026a48fb5f1234f61-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/4859dab70233e405032edcb7a49d966b/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'BLØF',
+		title: 'Later Als Ik Groter Ben',
+		id: 1972278987,
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-ba66489296ef5f8c8d2a4b0a29cf2316-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/bc38f7c5086a18a5973a87279165fc32/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'BLØF',
+		title: 'Liefs Uit Londen',
+		id: 16163153,
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-600a02d82cc7c1291adebfa285807318-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/eee5eeec137fc683c5dfef2e50f00c5e/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'BLØF',
+		title: 'Mooie Dag',
+		id: 61247949,
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2f26ef218cd74bcdf1d5fc41a1690a17-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/e5f3539861d6cafebad3863d93f9f66e/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'BLØF',
+		title: 'Omarm',
+		id: 61247951,
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-89a38533826acd3f65f722b555c987d2-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/e5f3539861d6cafebad3863d93f9f66e/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'BLØF',
+		title: 'Wat Zou Je Doen?',
+		id: 3226868,
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f9f306055099f4660cdc2c06e44d015d-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/58c2e81ffd3d3237c6f68dc305b25241/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'BLØF',
+		title: 'Zaterdag',
+		id: 3227095,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-12e07c56d45dafdf5dea5f5ad1d8bd92-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/2c9e5c961ff6555d099c45effcf1ef81/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'BLØF',
+		title: 'Zo Stil',
+		id: 1971993817,
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0285d0be7861da3256b1935767f98371-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/bc38f7c5086a18a5973a87279165fc32/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'BLØF',
+		title: 'Zoutelande',
+		id: 579396722,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1ee5d19d6e99a119d6572e0aa2a6a222-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d976ae93101855a621127b89cfcdfa8d/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Boudewijn de Groot',
+		title: 'Als De Rook Om Je Hoofd Is Verdwenen',
+		id: 1855006307,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1f0cbd425b9b88285f82f35598970ca8-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/828d1c1b4ffe3d24d405a65504f5b8ac/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Boudewijn de Groot',
+		title: 'Avond',
+		id: 73742945,
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-01e8f18c9911cfe4f2b8211c75a43478-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d4399e53183980f9d911ab46360cd37f/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Boudewijn de Groot',
+		title: 'De Vondeling Van Ameland',
+		id: 73742960,
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-826e35f8f8c2647eefd05af0f9c3ea93-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/9a44354db26b56fdca25226de0a46875/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Boudewijn de Groot',
+		title: 'Een Meisje Van Zestien',
+		id: 1855006217,
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0c45b935f1a52337ccc4441104734c22-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/828d1c1b4ffe3d24d405a65504f5b8ac/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Boudewijn de Groot',
+		title: 'Het Land Van Maas En Waal',
+		id: 1855006257,
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7a00422cbb7b85b5074199cae8de73b3-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/828d1c1b4ffe3d24d405a65504f5b8ac/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Boudewijn de Groot',
+		title: 'Prikkebeen',
+		id: 1855006277,
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-69dfbb8c22cdbb858bdd614dfe6c55c6-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/828d1c1b4ffe3d24d405a65504f5b8ac/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Boudewijn de Groot',
+		title: 'Testament',
+		id: 1855006247,
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6cc12d37505611e8abab7b9112994783-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/828d1c1b4ffe3d24d405a65504f5b8ac/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Boudewijn de Groot',
+		title: 'Verdronken Vlinder',
+		id: 1855006237,
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6e7b9a28de53f7c3fe165e9e417a488d-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/828d1c1b4ffe3d24d405a65504f5b8ac/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Boudewijn de Groot',
+		title: 'Welterusten Mijnheer De President',
+		id: 1855006227,
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b10425170bb4cb01bc1579a486e1731f-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/828d1c1b4ffe3d24d405a65504f5b8ac/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'De Dijk',
+		title: 'Als Ze Er Niet Is',
+		id: 2307488,
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f018b229d985d2265005ca5b973b7005-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d6857c479ec7c61d4388d8be1d4e2503/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'De Dijk',
+		title: 'Binnen Zonder Kloppen',
+		id: 2307476,
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-30f3181cfaec072503c2285581771075-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d6857c479ec7c61d4388d8be1d4e2503/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'De Dijk',
+		title: 'Bloedend Hart',
+		id: 74812437,
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4f3fdeec1f18060b857e242ad956c57d-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/396e4ab861fddbc2ddbcf8ead6fa96bc/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'De Dijk',
+		title: 'Dansen Op De Vulkaan',
+		id: 2543450,
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8edd3439a9b06929dc10aff6423da7f7-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/4df168226944811046ef61991e21582f/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'De Dijk',
+		title: 'Groot Hart',
+		id: 2307477,
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6ef8bc5917f7a628f00002819ba8476d-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d6857c479ec7c61d4388d8be1d4e2503/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'De Dijk',
+		title: 'Ik Kan Het Niet Alleen',
+		id: 2255982,
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c3710eb5d51bb7c0dbbe077312a9986b-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0387d4aa1e2376247a4068c7889f23b7/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'De Dijk',
+		title: 'Kan Ik Iets Voor Je Doen',
+		id: 13621831,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-171644c68d5e34a7180e3126555d90fa-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/af1e3d941f766f9b6503c65a4856332a/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'De Dijk',
+		title: 'Mag Het Licht Uit',
+		id: 2307479,
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-543439ded37cb69fee2927a235d657c8-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d6857c479ec7c61d4388d8be1d4e2503/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'De Dijk',
+		title: 'Nergens Goed Voor',
+		id: 2255986,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e0a43901b4e56eb1df15c02784c7253a-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0387d4aa1e2376247a4068c7889f23b7/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'De Dijk',
+		title: 'Niemand In De Stad',
+		id: 2307484,
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6cd492ad5af0ea83d46ab926952d124c-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d6857c479ec7c61d4388d8be1d4e2503/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'De Dijk',
+		title: 'Onderuit',
+		id: 2307480,
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7d5b3d0d603992bd73fa845bf0140e6b-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d6857c479ec7c61d4388d8be1d4e2503/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'De Jeugd Van Tegenwoordig',
+		title: 'Hollereer',
+		id: 7486006,
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5c37f6fc8180563a4fccc28904f75970-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d3d53b7bb5d71dbdd2d38a00347e8b9b/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'De Jeugd Van Tegenwoordig',
+		title: 'Sterrenstof',
+		id: 14930690,
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-61e9373d3810fce654c335a193cadbdd-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/398d9a809d0bd9e7f05c8c5631144033/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'De Jeugd Van Tegenwoordig',
+		title: 'Watskeburt?!',
+		id: 982834,
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d26e251657271677f506c91a943fba08-8.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/f74a2e04dfee2651558d4880f19a73cc/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'De Kast',
+		title: 'Hart Van Mijn Gevoel',
+		id: 25555461,
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-96cab306072c30eb58908baab5c0068a-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/478b74c3c321733e33936e4ea7d1d826/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'De Kast',
+		title: 'In Nije Dei',
+		id: 25554681,
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-491fcbecfe978fb57bc3d9840c812c15-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/ea51df418d29b205ef9423cb09e6ccbc/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: "De Poema's",
+		title: 'Mijn Houten Hart',
+		id: 115031636,
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d016c3c937ed8442afbcfb7d8e394e00-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/bbd25c8a1ec08feb3cd68d8591ed89c2/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: "De Poema's",
+		title: 'Zij Maakt Het Verschil',
+		id: 115031640,
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-057d583248ece29fe8c43eee188eb72a-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/bbd25c8a1ec08feb3cd68d8591ed89c2/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Diggy Dex',
+		title: 'De Zon Op',
+		id: 528604711,
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-65e52f3225c4f32a55ad33d7bf40232a-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/27cec2b2ec17ac2e12b8ef45c8c2d7a3/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Diggy Dex',
+		title: 'Treur Niet (Ode Aan Het Leven)',
+		id: 132630694,
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c758b163e9b0efb10c742a1eca8dd5de-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/f08a563f13ed254dca7e3ad5207660d2/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Doe Maar',
+		title: 'Belle Hélène',
+		id: 35793971,
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f444fe3bc7ac9f88ebd36ad1d10f27a1-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/3d6381560a838f17ca9f08441f8dc3c0/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Doe Maar',
+		title: 'De Bom',
+		id: 1454365632,
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-35db666c823cac04d14a3ed728b19544-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/eec7232c11f89c1b393ca5f20be18c45/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Doe Maar',
+		title: 'Is Dit Alles',
+		id: 35793941,
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-33f3f9e87c71849d43cfec1bb13f71e9-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/3d6381560a838f17ca9f08441f8dc3c0/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Doe Maar',
+		title: 'Pa',
+		id: 35793901,
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-47048da0fc1c79fdfdc2b2d7d2139e84-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/3d6381560a838f17ca9f08441f8dc3c0/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Doe Maar',
+		title: 'Sinds 1 Dag Of 2 (32 Jaar)',
+		id: 33801861,
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-50f25c55075fb3b73fe08ed04d4bbc58-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/93555b5e268e057bb49fbb4217d8e8e2/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Doe Maar',
+		title: 'Smoorverliefd',
+		id: 35793951,
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7f40aa1ea0c8dea1603f417f6b666828-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/3d6381560a838f17ca9f08441f8dc3c0/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Drukwerk',
+		title: 'Je Loog Tegen Mij',
+		id: 381996721,
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3b40ac3e90a4b40eba0f660d72e769a9-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0f2c09f893fab505c6372ec1d19ec008/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Ede Staal',
+		title: 'Het het nog nooit zo donker west',
+		id: 2165333827,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1b9c96e580f37483ece9be2aeaacb627-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/39a184b3aa1cce2c1983b20e8e417197/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Frans Halsema',
+		title: 'Vluchten Kan Niet Meer',
+		id: 518482172,
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3f40134a8d7f5f5926504d78ff3bf97b-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/7687ed4a1e8eb04c710f29b309e14dbf/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Frans Halsema',
+		title: 'Voor Haar',
+		id: 518482232,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e823ff22de1496adf817a63c7ce807e8-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/7687ed4a1e8eb04c710f29b309e14dbf/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Guus Meeuwis',
+		title: 'Brabant',
+		id: 3479065,
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-22fc8501a04d783c2dda4b0bba875488-8.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/7d74c8f5acc1f1257498343585f85809/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Guus Meeuwis',
+		title: 'Dat Komt Door Jou',
+		id: 7494865,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-199793700c651c2f9cf8359da81a4000-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/222712db819c78505d91d9d5f20b43a3/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Guus Meeuwis',
+		title: 'De Weg',
+		id: 3478988,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e79ab085450021f144719f562b334d6e-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/75618264e077713ba6bacba824c9e17f/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Guus Meeuwis',
+		title: 'Geef Mij Je Angst',
+		id: 3479058,
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-65eeb418f7f1d2bf0f8a23f571daecf1-8.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/7d74c8f5acc1f1257498343585f85809/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Guus Meeuwis',
+		title: 'Het Is Een Nacht... (Levensecht)',
+		id: 75480694,
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-619adb1f5d34f914448bdc5a786aaecf-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/e3fe2902b7b4500e80cdd9d70fb3af5c/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Guus Meeuwis',
+		title: 'Per Spoor (Kedeng Kedeng)',
+		id: 75480692,
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3ac0b0e0d783bdbff065f53723917ebb-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/e3fe2902b7b4500e80cdd9d70fb3af5c/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Guus Meeuwis',
+		title: 'Proosten',
+		id: 7494864,
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9e94a0895c62b339437a6865dd525f6b-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/222712db819c78505d91d9d5f20b43a3/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Guus Meeuwis',
+		title: 'Tranen Gelachen',
+		id: 7494873,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e77c830215c63bd708642a13db298b58-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/222712db819c78505d91d9d5f20b43a3/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Herbert Grönemeyer',
+		title: 'Der Weg',
+		id: 3159902,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1d33ffb3514a0bb1f5f69fee33ecd75f-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/41c7d29ca817eb0457929b5aca80ed73/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Herbert Grönemeyer',
+		title: 'Halt mich',
+		id: 3159918,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1acaff89e8479e401863a13cc21a1c89-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/41c7d29ca817eb0457929b5aca80ed73/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Herbert Grönemeyer',
+		title: 'Mensch',
+		id: 3159895,
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c8c3ad35541961a39ebab50337c76111-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/41c7d29ca817eb0457929b5aca80ed73/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Het Goede Doel',
+		title: 'Alles Geprobeerd',
+		id: 2439451,
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-aaceb4aa882b01ba5ffc25e49c78ea57-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/02bc856949a53bd8cbd05db54386b678/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Het Goede Doel',
+		title: 'Belgie ... (Is Er Leven Op Pluto ...)',
+		id: 100223212,
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8ae8d461e2e0762bc972c4542de4d643-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/dbe1dfd95198471ad1cec3be8772bdbb/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Het Goede Doel',
+		title: 'Vriendschap',
+		id: 100223198,
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-672afc313594261df0fe30a1773b5975-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/dbe1dfd95198471ad1cec3be8772bdbb/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Marco Borsato',
+		title: 'Afscheid Nemen Bestaat Niet',
+		id: 1568288,
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9809aadb0da76075ad055a3e90eb0d55-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/a58da38af83d68ee195c8d2236608211/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Marco Borsato',
+		title: 'Binnen',
+		id: 13691975,
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-ddc75f1ac72a8ac307060dfaad61be35-8.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/cf9195c8987c9df25fb9d8cb9c70c3e0/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Marco Borsato',
+		title: 'De Bestemming',
+		id: 1574868,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1a4fc7214c69d5b7df54b652d9da300e-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0ab92ecd36662e798baf7560dd735c79/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Marco Borsato',
+		title: 'De Waarheid',
+		id: 13691979,
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-aa31944f1b400be09d1bf6244fae03ec-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/cf9195c8987c9df25fb9d8cb9c70c3e0/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Marco Borsato',
+		title: 'Dochters',
+		id: 469442062,
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-20881023abbfa2cd89df6e14806617f5-10.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0fc6df299a0e3ee3ab965c37e6ce6cf7/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Marco Borsato',
+		title: 'Dromen Zijn Bedrog',
+		id: 13691988,
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c488f21bb0c81e60ac9fa3a180decee1-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/cf9195c8987c9df25fb9d8cb9c70c3e0/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Marco Borsato',
+		title: 'Ik Leef Niet Meer Voor Jou',
+		id: 13691974,
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9b93c0823f3397d5139b6b593df77263-8.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/cf9195c8987c9df25fb9d8cb9c70c3e0/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Marco Borsato',
+		title: 'Margherita',
+		id: 919673,
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-87169de2ce8d034bedcd5eed0dd84360-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/23f2c2a30447b810ed171a640584c493/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Marco Borsato',
+		title: 'Mooi',
+		id: 119873536,
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a76f459ddc2bc9595aade1341d8a4262-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/b377c5ec8460bb833627c9d3e90aa985/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Marco Borsato',
+		title: 'Rood',
+		id: 469442022,
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bda699fcf56952a7d3c43cb0c82ef058-8.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0fc6df299a0e3ee3ab965c37e6ce6cf7/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Marco Borsato',
+		title: 'Speeltuin',
+		id: 13691982,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-15e2340a685519283c77d06aba3bf90b-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/cf9195c8987c9df25fb9d8cb9c70c3e0/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Marco Borsato',
+		title: 'Waarom Nou Jij',
+		id: 469441942,
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3ff6d6874582b4c8e21ceec83e381caa-10.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0fc6df299a0e3ee3ab965c37e6ce6cf7/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Marco Borsato',
+		title: 'Wereld Zonder Jou',
+		id: 13691987,
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7b8fc9be28257db13731fe75a6b8e18b-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/cf9195c8987c9df25fb9d8cb9c70c3e0/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Marco Borsato',
+		title: 'Zij',
+		id: 13691980,
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5b669834f57abf45bcf1ff15aa4481ae-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/cf9195c8987c9df25fb9d8cb9c70c3e0/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Nick & Simon',
+		title: 'Kijk Omhoog',
+		id: 1191651402,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-18d499e0e601d9dc87808ab448b7294e-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/9b1cc219b238238dfa216d9f4be4c5e1/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Nick & Simon',
+		title: "Pak Maar M'n Hand",
+		id: 1195645962,
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-67581c0d4b31a9569f4f148799abb816-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/ac19c8fa1c7cd95d30538778d46d1a91/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Normaal',
+		title: 'Alie',
+		id: 430255452,
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-90354b0267fad14cced5750300e4121f-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/cdf2bbc728aa5295070c52e1cb41f8ce/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Normaal',
+		title: 'Deurdonderen',
+		id: 3888101,
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-cf83dbc40f9bb38c3921e5b468614c38-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/6752f91df4ca19fabc8cb4e26bbd21f2/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Normaal',
+		title: 'Oerend Hard',
+		id: 74812459,
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8dab8ffd17b20a66c327f4052fc37144-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/733f01bd19c651574fde969db3f652c5/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Paul de Leeuw',
+		title: 'Vlieg Met Me Mee',
+		id: 1486887372,
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-06cc37ef1384aa52f58112d6efcb0382-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/66f0a5615508b8146c00028872312151/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Paul de Leeuw',
+		title: 'Zonder Jou',
+		id: 1486887652,
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3adb32815eb5999e0d446bfbdd928b2e-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/29db08353532a63780a87b314aa37c75/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Paul de Leeuw',
+		title: 'k Heb Je Lief',
+		id: 1486887202,
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f681dbb6e8ed5d2a03e7107258b6cea8-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/66f0a5615508b8146c00028872312151/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Rob De Nijs',
+		title: 'Foto Van Vroeger',
+		id: 14483501,
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2f0a076d1fb5cf4e8d8f5e6ee39edca9-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0ed4b072849f5035f7e64fc01aa1ab84/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Rob De Nijs',
+		title: 'Het Werd Zomer',
+		id: 14483499,
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8c1a44960b413d2bf0f23d0a23440441-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0ed4b072849f5035f7e64fc01aa1ab84/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Rob De Nijs',
+		title: 'Malle Babbe',
+		id: 14483508,
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d42660628ac6da0c006f95525cf5b114-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0ed4b072849f5035f7e64fc01aa1ab84/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Rowwen Hèze',
+		title: 'Auto Vliegtuug',
+		id: 102625654,
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d0193e97f41282a828375bf9095bcd7f-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/9004345389bbfb7275e98e44f712ca01/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Rowwen Hèze',
+		title: 'Bestel Mar (edit)',
+		id: 74041064,
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-50cb0ee3c781bf08ff6a544571c7e080-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/99326c22502e87f05a32069fd1bd5647/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Rowwen Hèze',
+		title: 'De Neus Umhoeg',
+		id: 102625636,
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b1c7262b4764b98243533faa7e62fc35-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/9004345389bbfb7275e98e44f712ca01/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Rowwen Hèze',
+		title: 'De Peel In Brand',
+		id: 538905422,
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9b61177d7638f0991996b4fc3c013c92-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/85466fc27f1a4d4c1264580bd01ed7c5/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Rowwen Hèze',
+		title: 'Limburg',
+		id: 102625652,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1f2d24a2d8e1a84a0263aa97cadca48b-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/9004345389bbfb7275e98e44f712ca01/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Rowwen Hèze',
+		title: 'November',
+		id: 538905662,
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2cac6349f4520b017dda1a4bef537d02-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/85466fc27f1a4d4c1264580bd01ed7c5/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Rowwen Hèze',
+		title: 'Vlinder',
+		id: 80695500,
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8a4b83c111a83b4d02aa5fe4c8f7f5f8-1.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/6141ca8449f4610ac005be6ca5e54ae9/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Stef Bos',
+		title: 'Ik Heb Je Lief',
+		id: 2555654122,
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8bae037ee94788c50e6e4e40c1a4c613-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/785f25aac570f1585a855067439c375f/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Stef Bos',
+		title: 'Papa',
+		id: 526542552,
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9a72678fbc51e00e4227c5b435ff3a63-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/e89ef29dc20d234643725929133a010e/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Suzan & Freek',
+		title: 'Als Het Avond Is',
+		id: 575006832,
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-83bad4f3a204a74b5d025d47b6a87ba7-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/775b69285aad046a306df1bf0c19071f/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Suzan & Freek',
+		title: 'Blauwe Dag',
+		id: 697644602,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1f65f51a8acbae2846cefc0f34bafc3a-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/e63a8c7b13b215ad19393a2b6a555b3b/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Van Dik Hout',
+		title: 'Meer Dan Een Ander',
+		id: 15103483,
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f7954d143447dccf135db8e079fd2a5e-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d302c188d270d019f52e9f2e0d97c488/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Van Dik Hout',
+		title: 'Stil In Mij',
+		id: 15103477,
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c4e5288336545c040cf7197fbe18a001-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d302c188d270d019f52e9f2e0d97c488/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Abel',
+		title: 'Onderweg',
+		id: 3758347,
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5ef9caf911567f4b1dd5cbe04793e4b6-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/19876bc4f25eec85d0ac83a78210f1fd/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Alderliefste',
+		title: 'Une Belle Histoire (Een Mooi Verhaal)',
+		id: 25619131,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-198cac81fc6c41e26803d27cc3691e44-1.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/49a85fc65472ebd4e0a970d6bef14d06/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'André Hazes Jr.',
+		title: 'Leef',
+		id: 102813082,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-ecd3cf60d0a81abc1d9d0d25c19a2c7f-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/89d50467c225475da0e322ae38c08054/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Armand',
+		title: 'Ben Ik Te Min',
+		id: 113789926,
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a755359de4d53ce8f4dce544eea8af8b-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/c9fcdc8b5ba55f5087775870b2d422f4/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'BAP',
+		title: 'Kristallnaach',
+		id: 3391003,
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-db0d78765d51f8ca3bf4ea7d22f06e63-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/111112c90587e80254bf96a59918866a/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Bram Vermeulen',
+		title: 'De wedstrijd',
+		id: 3404299,
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f3f3d6f1819908d2c9daf1fe096e3fbc-8.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/3f1b0238f1c3ee5c9242364e073aa4ba/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Bökkers',
+		title: 'Iederene Hef Een Reden',
+		id: 1001510182,
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-cdb37f34c697ddea321403ff26a8e9b7-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/59f155acc8bf22bf4d06f01511b6b7d1/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Clouseau',
+		title: 'Daar Gaat Ze',
+		id: 538905112,
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-ac2efd3fb9c2b25aa5d14c8d572b4318-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/85466fc27f1a4d4c1264580bd01ed7c5/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Daniël Lohues',
+		title: 'Hier Kom Ik Weg',
+		id: 2021488787,
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b0e6b67c40a9048709f01afab052f056-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/2e865b2a9a5467a0a497211be66aa05e/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Daniël Lohues',
+		title: "Op 't platteland",
+		id: 2021443537,
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6110567b26f6e519a2a67df1310fb79f-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/c6ae97f0876a7a285a75ceb9012e276a/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Daniël Lohues',
+		title: 'Prachtig mooie dag',
+		id: 2021456337,
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-40d6e7f8fd6903ae1c84a9a57ea3d8af-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/eae6a071f0739d91ed60d18afccaec61/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Davina Michelle',
+		title: 'Duurt Te Lang',
+		id: 562567102,
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-88011cfe9bdef480f7d065954e00e468-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/50f9fb0aee02f424758c5a237abe4c42/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'De Staat',
+		title: 'Witch Doctor',
+		id: 1587082352,
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8fa40cad636ce3b5821ba0174911d404-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/e732571e60ce56e64b8b7ef7504ba9d1/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Dotan',
+		title: 'Home',
+		id: 1787285617,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e833504fc7de6dec9401a4e3df80f33a-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/a2fd3271a6e74ba465ab74d0fe21e378/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Douwe Bob',
+		title: 'Hold Me',
+		id: 93696912,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-eabcce7ec2ec8cedddcfda9943ed861b-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/f3fb9552196e33a18dd735d4bef48f86/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Douwe Bob',
+		title: 'I Do',
+		id: 578715402,
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-70029269e8cf34c4d47dbe07892ad3f3-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/3f52cc84aa8d5ddefe327a05685415ab/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Douwe Bob',
+		title: 'Jacob’s Song',
+		id: 124191866,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1fdda81b9dacecdcbbf43ba4ee351c21-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/2fcf2bf574036e2a3ee61b417ba21702/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Frank Boeijen',
+		title: 'Zeg Me Dat Het Niet Zo Is',
+		id: 1062726,
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c2370c299b87001e9084f1be1125ec80-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/bedcd600f20b1945800d096982558652/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Frank Boeijen Groep',
+		title: 'De Verzoening',
+		id: 1062735,
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-314f7cf9e2c4ace3ba104f1172ea444a-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/bedcd600f20b1945800d096982558652/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Frank Boeijen Groep',
+		title: 'Hier Komt De Storm',
+		id: 1062674,
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-883fede9e576b2e4300f728cb24d7654-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/a0b7ae06d01192f160a902b9f40d7fca/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Frank Boeijen Groep',
+		title: 'Kronenburg Park',
+		id: 1084158,
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a2b40d6c0a1f34f3bbdd4872399ad364-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/3f3544ead21f9d2c45f23f1b6bc0d572/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Frank Boeijen Groep',
+		title: 'Winter in Hamburg',
+		id: 1062695,
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-23be06da83049dc25fa0f6cbb7d3e11f-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/a0b7ae06d01192f160a902b9f40d7fca/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Frank Boeijen Groep',
+		title: 'Zwart Wit',
+		id: 616213,
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2e086223de21ee07070baaec78b92633-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/fc0a9de604269b04c8947684d4000b1e/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Gorki',
+		title: 'Mia',
+		id: 3845216,
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c5ba3a1ea27fb45629169c95199e2d01-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/af962bfe959f052cd5e1309364086a1d/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Gé Reinders',
+		title: 'Blaosmuziek',
+		id: 120337180,
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-30cd1e43a9487ba4d7c9c8e0af7ad47d-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/f2e7b19fc8b7817c6b4260f9b6d790ba/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Hans De Booij',
+		title: 'Annabel',
+		id: 1151403462,
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-ba9641873ada087a3dfad104d9afa08e-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d58f6cb13a68dfa3bfa5fc23f60d1820/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Helene Fischer',
+		title: 'Atemlos durch die Nacht',
+		id: 2384891455,
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-ab11cd9db2bc33dbd2dc5aff84b961d3-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/658ba7fe0d164de6821d43d1da992ce1/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Henk Westbroek',
+		title: 'Zelfs Je Naam Is Mooi',
+		id: 588241392,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-19b06c3dc78631373926aa44af539ef1-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/f853bff06cdd191acd9d52df7b2527a3/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Herman van Veen',
+		title: 'Anne',
+		id: 13662227,
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-ff64d8db1de120d34b6e5949f1633823-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/09db77d2c910f26fa8cc60efdeeb74a1/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Herman van Veen',
+		title: 'Hilversum 3',
+		id: 44582371,
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0ede007c87fb939a7a1d9916e4165765-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/560ac499910d200228975204c6338bae/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Herman van Veen',
+		title: 'Liefde Van Later',
+		id: 1560241,
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-acbe9e40a6a4dfc76efe6596de057c57-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/febf25a53b1cfc05bacaf35ad31d8ad5/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Herman van Veen',
+		title: 'Suzanne',
+		id: 44582561,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e34b3dc46f3b28f6e40102410b4f870f-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/560ac499910d200228975204c6338bae/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Herman van Veen',
+		title: 'Toveren',
+		id: 1560260,
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2ae70f26b32eab77da9e6e588d21ab23-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/febf25a53b1cfc05bacaf35ad31d8ad5/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'IOS',
+		title: 'Voltooid Verleden Tijd',
+		id: 25625051,
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a34863ba88af9dbb0ca2312b10987f51-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/bcc2ea0014362e4f085125fff25d5ffc/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Jacques Brel',
+		title: 'Mijn Vlakke Land',
+		id: 1363889832,
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8aa5f7c1498721dd605529b6b654b613-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/29aef4db08277ae5e3fdd7e2ef642871/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Jacques Brel',
+		title: 'Ne me quitte pas',
+		id: 2296855,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-ef8d0d044b402c0d2cbf0564befe8f96-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d415b2d0462a550ef192995fc124e9d6/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Jan Smit',
+		title: 'Als De Morgen Is Gekomen',
+		id: 140898869,
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b311842074810cb660125bd5de8bc50b-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/74468411228f4474a36865791ccd1f0f/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Jeroen van Koningsbrugge',
+		title: 'Wit Licht',
+		id: 145313210,
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bb1368fcd4b7170a1073765b52c3e338-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/9e85eb40d4210181994bff7798d088c8/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Karin Bloemen',
+		title: 'Geen Kind Meer',
+		id: 2490227231,
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4bc50bd538df08daea166412c83d9462-1.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/9535da816b5dee455aae3db84a6df9c5/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Klein Orkest',
+		title: 'Laat Mij Maar Alleen',
+		id: 104002904,
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8520a83a31855b56c0742d10ed559467-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/301ea939a15208994a4d749a5edc750b/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Klein Orkest',
+		title: 'Over De Muur',
+		id: 104002928,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-ee726148e1d6320cb082313ee0335d7c-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/301ea939a15208994a4d749a5edc750b/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Lange Frans',
+		title: 'Het Land Van',
+		id: 1466296732,
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-33d320478f671cde16d77c235a7edba5-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/e8018898c68e07680c984ebeac727f44/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Lange Frans',
+		title: 'Zing Voor Me',
+		id: 16051676,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e4f8876c4cba6449e399a1b92297086b-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/a4a4f1c03b5e0b2fc76050af28de015d/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Liesbeth List',
+		title: 'Pastorale',
+		id: 15142947,
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-67a222f6e82171237432bc0677435b16-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/344b2dacff2b03a3120aef52ef25d882/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Maaike Ouboter',
+		title: 'Dat Ik Je Mis',
+		id: 728246812,
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9065af22f224a0bb118ed2c91c72ada3-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/59cabc9208b4762298338ad115248fe9/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Maggie MacNeal',
+		title: 'Terug Naar De Kust',
+		id: 459418272,
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-be0502330afbd58fb0427e64574e1ba1-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/f76f58ff0757e1a0db3c9d54ad2c262f/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Mannenkoor Karrespoor',
+		title: "Lekker Op De Trekker ('n Boerinnen-Wervingslied)",
+		id: 25580421,
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-48cdeadcef9bcdd09b2dff339336c766-1.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/916177077f411fbf221a9c003fa4c4ef/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Neet Oét Lottum',
+		title: "Hald Mich 'S Vas",
+		id: 74006924,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e80ec0ef30ca1c2a5ff7a3791db3efca-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/8e105423ebb857f4553cc41ff734b297/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Nielson',
+		title: 'IJskoud',
+		id: 558757062,
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9da1c0bf61d50259f0da73eb1e6b4d5a-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d3223fb10bef14e0467d764461f21996/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Ramses Shaffy',
+		title: 'Laat Me',
+		id: 490387522,
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9aea58034a04f9457a4838442911090f-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/eac79b6c1797d6d6349925e8b0696607/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Ramses Shaffy',
+		title: 'Sammy',
+		id: 490387332,
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9760277b08745acf087e35a37a61d19c-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/eac79b6c1797d6d6349925e8b0696607/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Skik',
+		title: 'Op Fietse',
+		id: 2671839882,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e2f1885f4a5d3b7fc85fdc6f65cb554c-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/619cba5e3c87b3d05c6c872cd7be1e93/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Snelle',
+		title: 'Reünie',
+		id: 708707332,
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d8c4e41393664fc65e019de559d0c82e-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d9a7b69aa39890a2c00fb4c98adc90a9/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Spinvis',
+		title: 'Bagagedrager',
+		id: 2068003187,
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-ce52f5e9a5ee8b127b516f36932ee880-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/b5c14f9a9ff42c041b1eb002fae83f12/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Spinvis',
+		title: 'kom terug',
+		id: 998752552,
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5ef9d471b4a88679a6b4c65e7837f8f8-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/38132d5e3048dd527d73f417a896ca98/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Stromae',
+		title: 'Formidable',
+		id: 69879254,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-17c86edf4c92310a6bb58ea8d3fe58aa-10.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/914db9146f330d0a2969d157872da5eb/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Stromae',
+		title: 'Papaoutai',
+		id: 69879250,
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-452bb029a40798aa8a1b6b405d3e53c7-9.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/914db9146f330d0a2969d157872da5eb/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Stromae',
+		title: 'tous les mêmes',
+		id: 69879253,
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-253809f2a4da8f221e99da7b22ac7800-9.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/914db9146f330d0a2969d157872da5eb/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'The Amazing Stroopwafels',
+		title: 'Oude Maasweg',
+		id: 1563868222,
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5012ff68e2b52dca21382c14f2cc6161-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/17e76fd4e794b861e828fa3d9949dfa0/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'The Opposites',
+		title: 'Slapeloze Nachten',
+		id: 66710304,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1a8472db4b9dd3374f0853c301e5a88c-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/f57566adb25324cadebc6f69c0b5c924/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'The Scene',
+		title: 'Blauw',
+		id: 2181976,
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-fd5bc14400a124f4db78e96a0b8945af-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/11d8486a786a0a4b17f5426cc556921d/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'The Scene',
+		title: 'Iedereen Is Van De Wereld',
+		id: 2181977,
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-421ed506fd5277009808f7a3fa41aaf1-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/11d8486a786a0a4b17f5426cc556921d/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Toontje Lager',
+		title: 'Stiekem Gedanst',
+		id: 74812427,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e2bdb216d86d7fc4f45f0fc91f07b060-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/6c7838352926181b657b520cb47f8935/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Tröckener Kecks',
+		title: 'Met Hart En Ziel',
+		id: 398342922,
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b6ef691a86e0cbd5bb1fe72028cb700e-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/fe3f39b36732cb35bd560056d22d2e19/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Twarres',
+		title: 'Wêr Bisto',
+		id: 987956312,
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4f127500b522c16c8f8f842a1397b0c5-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d250ce0a3ac5921fb0266d6e349b69e8/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Typhoon',
+		title: 'Hemel Valt',
+		id: 79552624,
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4534908b2c0e92446b5556d6c6bd3bb6-1.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/149ae589da32a6b14991051a247ebd37/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Typhoon',
+		title: 'Zandloper',
+		id: 79552632,
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8e77c58adfd62949b770418d4dc937e0-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/149ae589da32a6b14991051a247ebd37/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Veldhuis & Kemper',
+		title: 'Ik Wou Dat Ik Jou Was',
+		id: 3212428,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e6a459254c832d293b48a0a3cef32250-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/6e685ebf8ecbf43b3726952c22eb4345/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Wim Sonneveld',
+		title: 'Het Dorp',
+		id: 110146924,
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bd2dabde917c4e06799ec4c7bccd5de2-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/6c9eca420bfecff892ad836d85e63447/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: "Youp van 't Hek",
+		title: 'Flappie',
+		id: 1176900432,
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-064fed4f927af28e96855b2207f9ed3b-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/2d3fe470c94025c34d50d300b8739cf6/250x250-000000-80-0-0.jpg'
 	}
 ];
