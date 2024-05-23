@@ -21330,14 +21330,6 @@ export const bandle = [
 	},
 	{
 		artist: 'Talk Talk',
-		title: "It's My Life",
-		id: 3129542,
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4969a7e1b2425888bc44217dcd04a16a-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/f258b1f28efc318baf8f507839f1dcbc/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Talk Talk',
 		title: "Life's What You Make It",
 		id: 3129549,
 		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7fa40add952a0d16c36a0ae65f0dc833-13.mp3',

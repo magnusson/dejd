@@ -94,6 +94,7 @@
 	const skip = () => {
 		$stats.skips++;
 		guesses = [...guesses, 'Skipped'];
+		search = '';
 	};
 
 	const newGame = async () => {
@@ -104,6 +105,7 @@
 
 		await newTrack();
 		previousTrackCorrect = false;
+		search = '';
 		guesses = [];
 	};
 
@@ -113,7 +115,7 @@
 </script>
 
 <header class="mx-auto mb-4 grid max-w-lg grid-cols-3 items-center">
-	<h1 class=" col-start-2 justify-center text-center font-lilita text-5xl text-white">DEJD</h1>
+	<h1 class="col-start-2 justify-center text-center font-lilita text-5xl text-white">DEJD</h1>
 	<div class="flex justify-self-end">
 		<PlaylistsModal playlists={$playlists} {availablePlaylists} {playlistsChanged} />
 		<StatsModal stats={$stats} />
