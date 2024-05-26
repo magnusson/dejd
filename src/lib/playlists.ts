@@ -10240,6 +10240,14 @@ export const original = [
 		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bcd374ed093ec46f2445b7af7474e769-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/cee36f32c176f897bf6efab7482ebb70/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'The Collapsable Hearts Club',
+		title: 'Easy Street',
+		id: 135129596,
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3dd3032b0c7d54d08d8e1ee1d4838176-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/8f0bc3c46cf7f06bed4729c6d3049e8a/250x250-000000-80-0-0.jpg'
 	}
 ];
 
@@ -13120,6 +13128,15 @@ export const swedish = [
 		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b5218b4ce97a1220b6b30969b3cbe16c-1.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/4ddc2cb93354614b47814230c9d68d13/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Björn Afzelius',
+		title: 'Sång till friheten',
+		release_date: '1982-01-01',
+		id: 14500923,
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f50350152ec6051f2a479eaf166a19be-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/6c11ebe304dcd278f4ab7f8fc126d89f/250x250-000000-80-0-0.jpg'
 	}
 ];
 
