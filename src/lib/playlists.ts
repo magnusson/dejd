@@ -10248,6 +10248,54 @@ export const original = [
 		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3dd3032b0c7d54d08d8e1ee1d4838176-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/8f0bc3c46cf7f06bed4729c6d3049e8a/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Céline Dion',
+		title: 'Ten days',
+		id: 763662002,
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f3d1b199a566d93d58396bac9f0e58f0-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/05908fa1edac622facfa411ec1c80a82/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Céline Dion',
+		title: 'A new day has come',
+		id: 763662102,
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-976d678bba36c5c43712e43dc797b0d4-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/05908fa1edac622facfa411ec1c80a82/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Céline Dion',
+		title: 'Have You Ever Been in Love',
+		id: 763661972,
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-92b65dc8511ca807c0b5082c8af9fe57-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/05908fa1edac622facfa411ec1c80a82/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Céline Dion',
+		title: "It's All Coming Back to Me Now",
+		id: 714269192,
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f692d04aff648758bbf7c70afdb722a9-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/348692abbdb9950a998c8d58cbba78b7/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Céline Dion',
+		title: 'One Heart',
+		id: 15220721,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e268f82d0c1f4bb702366687434457ea-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/53c96f0de89ae2c4976f9d43083fb7ea/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Céline Dion',
+		title: 'I Drove All Night',
+		id: 869507,
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-760722c6adf3d84eb5f5c034c5aa4589-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/eb1830bc65b131006eefb4943cfd6da9/250x250-000000-80-0-0.jpg'
 	}
 ];
 
