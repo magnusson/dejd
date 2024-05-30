@@ -13185,6 +13185,14 @@ export const swedish = [
 		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f50350152ec6051f2a479eaf166a19be-7.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/6c11ebe304dcd278f4ab7f8fc126d89f/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Sounds Like 2010',
+		title: 'SM i Bangolf 2012 i Kalmar',
+		id: 2278066497,
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f4f51782a303a6e9cff99c2f6f1488bf-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/5af746e40e44e570a5acaada08cab309/250x250-000000-80-0-0.jpg'
 	}
 ];
 
