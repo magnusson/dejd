@@ -315,15 +315,6 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/1dd96fe2b1ab3ed2b750fad203de61ee/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Empire State of Mind',
-		artist: 'Alicia Keys',
-		id: 4761593,
-		release_date: '2009-12-15',
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1f4fc0d4a1a138682469073181552417-9.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/74406abeb7ba1e28ebf4a7e7a01c4e1f/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: "Fallin'",
 		artist: 'Alicia Keys',
 		id: 959183,
@@ -2842,15 +2833,6 @@ export const original = [
 		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5169f6f7d2e3033c46a074ccd2ef62b8-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/a4cc22c9dd37770bca180cb4e73d4588/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Kom och håll om mig (Loveversion)',
-		artist: 'Eva Dahlgren',
-		id: 13376870,
-		release_date: '1991-12-01',
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-88bf44d6b9f890f5c1996ef3b54d4de5-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/2a989278455093e3e22c9c36729b50af/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Bring Me To Life',
@@ -7614,15 +7596,6 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/e8c62bc59111088c3464be95fd286399/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Joyride (Single Version)',
-		artist: 'Roxette',
-		id: 126423997,
-		release_date: '1995-10-23',
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-27ef7a36a535f908ec0073f72d0caf18-13.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/f42a75dba4efd37f63163434fb11b196/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Listen to Your Heart (Swedish Single Edit)',
 		artist: 'Roxette',
 		id: 89388977,
@@ -10295,6 +10268,46 @@ export const original = [
 		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-209342744d20fa504239212421cc7852-1.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/549ded29464befae122e9862cd1086c3/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Westlife',
+		title: 'My Love',
+		id: 993615,
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-cc34dbf4472a140993f06b0cbc06ab57-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/031a6c4a0067a19d68a215387f1fe2e2/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Westlife',
+		title: 'Fool Again',
+		id: 1170252032,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-19143fa2638f89d86af7729c584094d7-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/cdb92fd82c490801fd67afa7167db351/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Westlife',
+		title: 'If I let you go',
+		id: 1170251852,
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-de0f6be930560bd5f3dac785840f6060-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/cdb92fd82c490801fd67afa7167db351/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Westlife',
+		title: 'Uptown girl',
+		id: 391575892,
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-375ebba11484ea5765a66ebd3afcabfb-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/60a005c42286625a1bf20d3c0c64c394/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Westlife',
+		title: 'Swear It Again',
+		id: 1170251842,
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3e84e21a8d1355b351a966f4b048d6ed-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/cdb92fd82c490801fd67afa7167db351/250x250-000000-80-0-0.jpg'
 	}
 ];
 
@@ -12664,15 +12677,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/883d438b745d9af8069de180caf862c2/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Lasse Berghagen',
-		title: 'Gamma, gamma',
-		release_date: '1980-10-03',
-		id: 133323216,
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-af815a8e051988866e639cc7c76348cc-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/dc1a13c298fda3e386aeddc3b815e8a7/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Kenneth & The Knutters',
 		title: 'Våga välja växel',
 		release_date: '1985-04-13',
@@ -13411,14 +13415,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7e394d0e86d371159dd8809609076618-7.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/7c8139398c392e7fbd4abc15d6b9c73b/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Al Stewart',
-		title: 'Year of the Cat',
-		id: 3144111,
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8930f2c3c8dfeb64d8b6b8ae9ce0c1b9-7.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/b6a9efc18fa05c223900ef8bad4f8b63/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Alain Clark',
@@ -14703,14 +14699,6 @@ export const bandle = [
 		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-fc985a78d2536c99569db356d91bfcb7-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/90e13efedd54cd9b01fce363bd2b92f5/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: "Chef'Special",
-		title: 'Nicotine',
-		id: 1712253687,
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c41c750440f23e4fca8c2386405bf725-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/963c0daa363e0a7610b7d32af63784c5/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Cher',
@@ -18817,14 +18805,6 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/60d8f7635ead9b3c5e571aec47a8c73e/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Marianne Rosenberg',
-		title: 'Ich bin wie du',
-		id: 70524757,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1b2b2fb2f3e50c8492f2dfdf24728f6b-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/cfd6d45e0b7adbfaa7dc923e15f29ad7/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Marillion',
 		title: 'Kayleigh',
 		id: 3346318,
@@ -21493,14 +21473,6 @@ export const bandle = [
 		title: 'Sowing The Seeds Of Love',
 		id: 424565872,
 		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-fd4d44099d78cebcc3e5583bd5ec70cd-8.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/daa2caead59575a02daaa6ba32da2b1f/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Tears For Fears',
-		title: 'Woman In Chains',
-		id: 424565902,
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-fa2c48dc6e0513fa64195f8b40f2a7c9-7.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/daa2caead59575a02daaa6ba32da2b1f/250x250-000000-80-0-0.jpg'
 	},
