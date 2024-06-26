@@ -9090,15 +9090,6 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/731a21d4abce407bf0a7078af00658e6/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Det Löser Sig',
-		artist: 'Timbuktu',
-		id: 583357102,
-		release_date: '2018-11-23',
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-aed83657dfaccf4a67b65ce06dbc47e7-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/1d6c257758921fd5aa26a7905719fa11/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Lika barn avvika bäst del 2',
 		artist: 'Timbuktu',
 		id: 10245760,
@@ -10296,6 +10287,14 @@ export const original = [
 		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-760722c6adf3d84eb5f5c034c5aa4589-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/eb1830bc65b131006eefb4943cfd6da9/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Edith Piaf',
+		title: 'Milord',
+		id: 2817300812,
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-209342744d20fa504239212421cc7852-1.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/549ded29464befae122e9862cd1086c3/250x250-000000-80-0-0.jpg'
 	}
 ];
 
@@ -13193,6 +13192,14 @@ export const swedish = [
 		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f4f51782a303a6e9cff99c2f6f1488bf-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/5af746e40e44e570a5acaada08cab309/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Hästpojken',
+		title: 'Himmel röd och blå',
+		id: 2825019452,
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-34bbb57282f070d9e521e706c4c1150b-1.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/1cca8be6d09aa3942519fd71e22c973f/250x250-000000-80-0-0.jpg'
 	}
 ];
 
