@@ -20,7 +20,7 @@
 		audio.volume = 0.1;
 	});
 
-	const play = () => {
+	export const play = () => {
 		let timeout = PLAY_LENGTH[guessCount] * 1000;
 		clearTimeout(timeoutId);
 

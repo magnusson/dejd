@@ -11,6 +11,7 @@
 	import { formatTrack } from '$lib/utils/formatTrack';
 	import PlaylistsModal from '$lib/components/PlaylistsModal.svelte';
 	import { disney, original, special, swedish, bandle, holland } from '$lib/playlists';
+	import { tick } from 'svelte';
 
 	const availablePlaylists = {
 		Original: original,
@@ -25,6 +26,8 @@
 	let search = '';
 	let guess: Track | null = null;
 	let currentTrack: Track;
+	let isFirstGame = true;
+	let playerPlay: () => void;
 
 	$: playlist = Object.values($playlists)
 		.filter((playlist) => (playlist as { active: boolean; playlist: string }).active)
@@ -108,6 +111,13 @@
 		previousTrackCorrect = false;
 		search = '';
 		guesses = [];
+
+		await tick();
+
+		if (!isFirstGame) {
+			playerPlay();
+		}
+		isFirstGame = false;
 	};
 
 	const playlistsChanged = (updatedPlaylists: { [key: string]: { active: boolean } }) => {
@@ -145,7 +155,7 @@
 			</li>
 		{/each}
 	</ul>
-	<Player track={currentTrack?.preview} guessCount={guesses.length} />
+	<Player track={currentTrack?.preview} guessCount={guesses.length} bind:play={playerPlay} />
 	{#if guesses.length < MAX_GUESSES}
 		<AutoComplete bind:search bind:guess {playlist} />
 		<div class="flex justify-between">
