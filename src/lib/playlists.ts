@@ -12677,6 +12677,15 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/883d438b745d9af8069de180caf862c2/250x250-000000-80-0-0.jpg'
 	},
 	{
+		artist: 'Lasse Berghagen',
+		title: 'Gamma, gamma',
+		release_date: '1980-10-03',
+		id: 133323216,
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-af815a8e051988866e639cc7c76348cc-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/dc1a13c298fda3e386aeddc3b815e8a7/250x250-000000-80-0-0.jpg'
+	},
+	{
 		artist: 'Kenneth & The Knutters',
 		title: 'Våga välja växel',
 		release_date: '1985-04-13',
@@ -13204,6 +13213,14 @@ export const swedish = [
 		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-34bbb57282f070d9e521e706c4c1150b-1.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/1cca8be6d09aa3942519fd71e22c973f/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Martin Wave',
+		title: 'Blomstertid',
+		id: 2244254747,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-eae6851e0c76ddbe778310930cde92b4-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/2e9f495e7bb00a309a381d4ed90b7b8c/250x250-000000-80-0-0.jpg'
 	}
 ];
 
@@ -13415,6 +13432,14 @@ export const bandle = [
 		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7e394d0e86d371159dd8809609076618-7.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/7c8139398c392e7fbd4abc15d6b9c73b/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Al Stewart',
+		title: 'Year of the Cat',
+		id: 3144111,
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8930f2c3c8dfeb64d8b6b8ae9ce0c1b9-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/b6a9efc18fa05c223900ef8bad4f8b63/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Alain Clark',
@@ -14699,6 +14724,14 @@ export const bandle = [
 		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-fc985a78d2536c99569db356d91bfcb7-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/90e13efedd54cd9b01fce363bd2b92f5/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: "Chef'Special",
+		title: 'Nicotine',
+		id: 1712253687,
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c41c750440f23e4fca8c2386405bf725-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/963c0daa363e0a7610b7d32af63784c5/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Cher',
@@ -18805,6 +18838,14 @@ export const bandle = [
 			'https://e-cdns-images.dzcdn.net/images/cover/60d8f7635ead9b3c5e571aec47a8c73e/250x250-000000-80-0-0.jpg'
 	},
 	{
+		artist: 'Marianne Rosenberg',
+		title: 'Ich bin wie du',
+		id: 70524757,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1b2b2fb2f3e50c8492f2dfdf24728f6b-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/cfd6d45e0b7adbfaa7dc923e15f29ad7/250x250-000000-80-0-0.jpg'
+	},
+	{
 		artist: 'Marillion',
 		title: 'Kayleigh',
 		id: 3346318,
@@ -21473,6 +21514,14 @@ export const bandle = [
 		title: 'Sowing The Seeds Of Love',
 		id: 424565872,
 		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-fd4d44099d78cebcc3e5583bd5ec70cd-8.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/daa2caead59575a02daaa6ba32da2b1f/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Tears For Fears',
+		title: 'Woman In Chains',
+		id: 424565902,
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-fa2c48dc6e0513fa64195f8b40f2a7c9-7.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/daa2caead59575a02daaa6ba32da2b1f/250x250-000000-80-0-0.jpg'
 	},

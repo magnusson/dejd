@@ -5,6 +5,8 @@
 	export let playlists: { [key: string]: { active: boolean } };
 	export let playlistsChanged: (playlists: { [key: string]: { active: boolean } }) => void;
 	export let availablePlaylists: { [key: string]: Track[] };
+	export let ignoredTracks: Track[];
+	export let restoreIgnoredTrack: (track: Track) => void;
 
 	let open = false;
 
@@ -16,7 +18,7 @@
 </script>
 
 <div use:clickOutside={() => (open = false)}>
-	<button on:click={() => (open = !open)} class="ml-4" aria-label="About">
+	<button on:click={() => (open = !open)} class="ml-4" aria-label="Playlists">
 		<svg
 			xmlns="http://www.w3.org/2000/svg"
 			fill="none"
@@ -77,6 +79,33 @@
 			>
 				Save
 			</button>
+		</div>
+		<div>
+			<h3 class="font-lilita text-xl">Ignored tracks</h3>
+			<p class="text-sm">Tracks that you've chosen to ignore will not be played again.</p>
+			<ul class="mt-2 max-h-44 overflow-y-auto">
+				{#each ignoredTracks as track}
+					<li
+						class="item-center flex justify-between px-3 py-2 text-sm font-medium hover:bg-slate-200"
+					>
+						{track.artist} - {track.title}
+						<button on:click={() => restoreIgnoredTrack(track)}>
+							<svg
+								xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 16 16"
+								fill="currentColor"
+								class="pointer-events-none size-4"
+							>
+								<path
+									fill-rule="evenodd"
+									d="M9.75 3.5A2.75 2.75 0 0 0 7 6.25v5.19l2.22-2.22a.75.75 0 1 1 1.06 1.06l-3.5 3.5a.75.75 0 0 1-1.06 0l-3.5-3.5a.75.75 0 1 1 1.06-1.06l2.22 2.22V6.25a4.25 4.25 0 0 1 8.5 0v1a.75.75 0 0 1-1.5 0v-1A2.75 2.75 0 0 0 9.75 3.5Z"
+									clip-rule="evenodd"
+								/>
+							</svg>
+						</button>
+					</li>
+				{/each}
+			</ul>
 		</div>
 	</div>
 </div>

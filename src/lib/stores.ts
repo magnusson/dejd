@@ -28,3 +28,8 @@ const storedPlaylists = playlistsStorage
 	: defaultPlaylists;
 export const playlists = writable(browser && storedPlaylists);
 playlists.subscribe((val) => browser && (localStorage.playlists = JSON.stringify(val)));
+
+const ignoredTracksStorage = browser && localStorage.getItem('ignoredTracks');
+const storedIgnoredTracks = ignoredTracksStorage ? JSON.parse(ignoredTracksStorage) : [];
+export const ignoredTracks = writable(browser && storedIgnoredTracks);
+ignoredTracks.subscribe((val) => browser && (localStorage.ignoredTracks = JSON.stringify(val)));

@@ -6,6 +6,14 @@
 		release_date?: string;
 	};
 	export let newGame: () => void;
+	export let ignoreTrack: () => void;
+
+	let ignoredTrack = false;
+
+	const handleIgnoreTrack = () => {
+		ignoredTrack = true;
+		ignoreTrack();
+	};
 </script>
 
 <div class="flex flex-col items-center text-white">
@@ -20,4 +28,13 @@
 	>
 		Next
 	</button>
+	<div class="mt-4 text-xs leading-6 text-neutral-500">
+		{#if ignoredTrack}
+			<p>It's gone, sorry you didn't like it. 🥺</p>
+		{:else}
+			<button class="flex items-center hover:text-rose-500" on:click={handleIgnoreTrack}>
+				Ignore track
+			</button>
+		{/if}
+	</div>
 </div>

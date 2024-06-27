@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { stats, playlists } from '$lib/stores';
+	import { stats, playlists, ignoredTracks } from '$lib/stores';
 	import AboutModal from '$lib/components/AboutModal.svelte';
 	import AutoComplete from '$lib/components/AutoComplete.svelte';
 	import GameOver from '$lib/components/GameOver.svelte';
@@ -35,7 +35,8 @@
 						.playlist as keyof typeof availablePlaylists
 				]
 		)
-		.flat();
+		.flat()
+		.filter((track) => !$ignoredTracks.some((ignoredTrack: Track) => ignoredTrack.id === track.id));
 	$: $playlists && newGame();
 
 	$: formatGuess = (i: number) =>
@@ -112,12 +113,26 @@
 	const playlistsChanged = (updatedPlaylists: { [key: string]: { active: boolean } }) => {
 		playlists.set(updatedPlaylists);
 	};
+
+	const ignoreTrack = () => {
+		$ignoredTracks = [...$ignoredTracks, currentTrack];
+	};
+
+	const restoreIgnoredTrack = (track: Track) => {
+		$ignoredTracks = $ignoredTracks.filter((ignoredTrack: Track) => ignoredTrack.id !== track.id);
+	};
 </script>
 
 <header class="mx-auto mb-4 grid max-w-lg grid-cols-3 items-center">
 	<h1 class="col-start-2 justify-center text-center font-lilita text-5xl text-white">DEJD</h1>
 	<div class="flex justify-self-end">
-		<PlaylistsModal playlists={$playlists} {availablePlaylists} {playlistsChanged} />
+		<PlaylistsModal
+			playlists={$playlists}
+			{availablePlaylists}
+			{playlistsChanged}
+			ignoredTracks={$ignoredTracks}
+			{restoreIgnoredTrack}
+		/>
 		<StatsModal stats={$stats} />
 		<AboutModal />
 	</div>
@@ -150,6 +165,6 @@
 			</button>
 		</div>
 	{:else if currentTrack}
-		<GameOver {currentTrack} {newGame} />
+		<GameOver {currentTrack} {newGame} {ignoreTrack} />
 	{/if}
 </main>
