@@ -53,6 +53,7 @@
 
 	const newTrack = async () => {
 		$stats.played++;
+		$stats.daily.played++;
 
 		// Randomly select a track from the playlist exclude the current track
 		const randomTrack = playlist.filter((track) => track.id !== currentTrack?.id)[
@@ -80,11 +81,18 @@
 			// Update the streak and max streak
 			previousTrackCorrect = true;
 			$stats.streak++;
+			$stats.daily.streak++;
+
 			if ($stats.streak > $stats.maxStreak) {
 				$stats.maxStreak = $stats.streak;
 			}
 
+			if ($stats.daily.streak > $stats.daily.maxStreak) {
+				$stats.daily.maxStreak = $stats.daily.streak;
+			}
+
 			$stats.wins++;
+			$stats.daily.wins++;
 			while (guesses.length < 6) {
 				guesses = [...guesses, ''];
 			}
@@ -97,6 +105,7 @@
 
 	const skip = () => {
 		$stats.skips++;
+		$stats.daily.skips++;
 		guesses = [...guesses, 'Skipped'];
 		search = '';
 	};
@@ -104,7 +113,7 @@
 	const newGame = async () => {
 		// Reset the streak if the previous track was incorrect
 		if (!previousTrackCorrect) {
-			$stats.streak = 0;
+			$stats.streak = $stats.daily.streak = 0;
 		}
 
 		await newTrack();

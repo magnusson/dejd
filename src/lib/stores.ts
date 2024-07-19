@@ -1,18 +1,46 @@
 import { browser } from '$app/environment';
 import { writable } from 'svelte/store';
 
+const getCurrentDate = () => new Date().toISOString().slice(0, 10);
+
 const statsStorage = browser && localStorage.getItem('stats');
-const storedStats = statsStorage
+let storedStats = statsStorage
 	? JSON.parse(statsStorage)
 	: {
 			played: 0,
 			wins: 0,
 			skips: 0,
 			streak: 0,
-			maxStreak: 0
+			maxStreak: 0,
+			daily: {
+				date: getCurrentDate(),
+				played: 0,
+				wins: 0,
+				skips: 0,
+				streak: 0,
+				maxStreak: 0
+			}
 		};
+if (!storedStats.daily || storedStats.daily.date !== getCurrentDate()) {
+	storedStats = {
+		...storedStats,
+		daily: {
+			date: getCurrentDate(),
+			played: 0,
+			wins: 0,
+			skips: 0,
+			streak: 0,
+			maxStreak: 0
+		}
+	};
+}
 export const stats = writable(browser && storedStats);
-stats.subscribe((val) => browser && (localStorage.stats = JSON.stringify(val)));
+stats.subscribe((val) => {
+	if (browser) {
+		val.daily.date = getCurrentDate();
+		localStorage.stats = JSON.stringify(val);
+	}
+});
 
 const defaultPlaylists = {
 	Original: { active: true, playlist: 'Original' },

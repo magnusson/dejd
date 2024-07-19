@@ -7,6 +7,13 @@
 		skips: number;
 		streak: number;
 		maxStreak: number;
+		daily: {
+			played: number;
+			wins: number;
+			skips: number;
+			streak: number;
+			maxStreak: number;
+		};
 	};
 	let open = false;
 </script>
@@ -48,7 +55,35 @@
 				</svg>
 			</button>
 		</div>
+		<h3 class="mt-4 font-lilita text-xl">Today</h3>
 		<div class="grid grid-cols-5">
+			<div class="text-center">
+				<p class="font-lilita text-2xl">{stats.daily?.played}</p>
+				<p class="text-sm">Played</p>
+			</div>
+			<div class="text-center" title={`${stats.daily?.wins} wins`}>
+				<p class="font-lilita text-2xl">
+					{Math.round((stats.daily?.wins / stats.daily?.played) * 100)}%
+				</p>
+				<p class="text-sm">Wins</p>
+			</div>
+			<div class="text-center">
+				<p class="font-lilita text-2xl">{stats.daily?.streak}</p>
+				<p class="text-sm">Current streak</p>
+			</div>
+			<div class="text-center">
+				<p class="font-lilita text-2xl">{stats.daily?.maxStreak}</p>
+				<p class="text-sm">Best streak</p>
+			</div>
+			<div class="text-center">
+				<p class="font-lilita text-2xl">
+					<span class="blur-md hover:blur-none">{stats.daily?.skips}</span>
+				</p>
+				<p class="text-sm">Skips</p>
+			</div>
+		</div>
+		<h3 class="mt-4 font-lilita text-xl">Overall</h3>
+		<div class="grid grid-cols-4">
 			<div class="text-center">
 				<p class="font-lilita text-2xl">{stats.played}</p>
 				<p class="text-sm">Played</p>
@@ -56,10 +91,6 @@
 			<div class="text-center" title={`${stats.wins} wins`}>
 				<p class="font-lilita text-2xl">{Math.round((stats.wins / stats.played) * 100)}%</p>
 				<p class="text-sm">Wins</p>
-			</div>
-			<div class="text-center">
-				<p class="font-lilita text-2xl">{stats.streak}</p>
-				<p class="text-sm">Current streak</p>
 			</div>
 			<div class="text-center">
 				<p class="font-lilita text-2xl">{stats.maxStreak}</p>
