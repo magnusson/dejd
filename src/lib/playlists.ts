@@ -6491,6 +6491,70 @@ export const original = [
 		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-95935b129b3f471ce8f64cf3519b6be7-11.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/706d994a9b906b857db6869183c30274/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Michael Learns To Rock',
+		title: 'The Actor',
+		id: 64507758,
+		preview: 'https://cdn-preview-1.dzcdn.net/stream/c-1bb22db487e83c7c80f7a5835fefcb33-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/e2f0bf5129592b57baa6e6cc657cfc9e/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Cornershop',
+		title: 'Brimful of Asha',
+		id: 1120922,
+		preview: 'https://cdn-preview-8.dzcdn.net/stream/c-893c7cb01666ae60ac4476a968284845-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/6b8d03b553b482d482bfd6d179cead9b/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Dropkick Murphys',
+		title: "I'm Shipping Up To Boston",
+		id: 378350101,
+		preview: 'https://cdn-preview-4.dzcdn.net/stream/c-43361df1083732bdd32fc77cc672d0f0-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/31d2561fda2ed4e5eaed4b6d81ef29d4/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Dropkick Murphys',
+		title: 'Rose Tattoo',
+		id: 72011057,
+		preview: 'https://cdn-preview-f.dzcdn.net/stream/c-f84eb1b36d0ff8ccd21a0439bf401d8d-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/659c527403b587b3a166e21ae4569a62/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Tom Jones',
+		title: "She's a lady",
+		id: 549298332,
+		preview: 'https://cdn-preview-d.dzcdn.net/stream/c-dbbe11c01b16a969cc876ce461c00845-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/2058b5f98d8d3c998b213e7ec9b8432f/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Goldfinger',
+		title: 'Superman',
+		id: 7978573,
+		preview: 'https://cdn-preview-6.dzcdn.net/stream/c-6b1535b852166f32a1ce55ba6ebe9cdc-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/ab9a711817cbf9e24fbfba88c192681c/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Flogging Molly',
+		title: 'Drunken Lullabies',
+		id: 1795591547,
+		preview: 'https://cdn-preview-c.dzcdn.net/stream/c-cc0540561a3b19c2f6696b364e148b44-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/e9465a514efaea0eda0b1b8e3d59f137/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Flogging Molly',
+		title: 'If I Ever Leave This World Alive',
+		id: 67292556,
+		preview: 'https://cdn-preview-1.dzcdn.net/stream/c-124a09b3bd8144564dc3f8664af69598-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/44e5c33129f1a78f2e744820b7130be3/250x250-000000-80-0-0.jpg'
 	}
 ];
 
@@ -13057,6 +13121,14 @@ export const swedish = [
 		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d0a319f438b667305e760c77e2d9c270-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/d4ad38e447cb41027839a50f1219f19e/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Frölunda',
+		title: 'Bära hjälmar av guld',
+		id: 1657444622,
+		preview: 'https://cdn-preview-6.dzcdn.net/stream/c-6a648144dfaddccc9b152bd78da53d48-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/99cf6cb7a8c2e0c957ca5eb708e566db/250x250-000000-80-0-0.jpg'
 	}
 ];
 
