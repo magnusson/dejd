@@ -188,7 +188,7 @@
 				Thanks for playing. ❤️
 			</p>
 			<button
-				class="mx-auto mt-4 font-semibold text-neutral-500 hover:text-emerald-500"
+				class="mx-auto mt-4 block font-semibold text-neutral-500 hover:text-emerald-500"
 				on:click={resetPlayedTrack}
 			>
 				Click here to reset and start over
