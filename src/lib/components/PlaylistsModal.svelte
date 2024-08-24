@@ -1,19 +1,26 @@
 <script lang="ts">
 	import type { Track } from '$lib/types/Track';
 	import { clickOutside } from '$lib/utils/clickOutside';
+	import { neverRepeat } from '$lib/stores';
 
 	export let playlists: { [key: string]: { active: boolean } };
 	export let playlistsChanged: (playlists: { [key: string]: { active: boolean } }) => void;
 	export let availablePlaylists: { [key: string]: Track[] };
 	export let ignoredTracks: Track[];
 	export let restoreIgnoredTrack: (track: Track) => void;
+	export let resetPlayedTrack: () => void;
 
 	let open = false;
+	let localNeverRepeat = $neverRepeat;
 
 	$: activePlaylists = Object.values(playlists).filter((playlist) => playlist.active).length;
 
 	const togglePlaylist = (playlist: string) => {
 		playlists[playlist].active = !playlists[playlist].active;
+	};
+
+	const toggleNeverRepeat = () => {
+		localNeverRepeat = !localNeverRepeat;
 	};
 </script>
 
@@ -66,13 +73,38 @@
 						disabled={activePlaylists === 1 && playlists[playlist].active}
 					/>
 					<label for={playlist} class="ml-2 w-full py-3 text-sm font-medium">
-						{playlist} <span class="text-xs">({availablePlaylists[playlist].length} songs)</span>
+						{playlist} <span class="text-xs">({availablePlaylists[playlist].length} tracks)</span>
 					</label>
 				</div>
 			{/each}
+			<hr />
+			<div class="flex items-center">
+				<input
+					id="never-repeat"
+					type="checkbox"
+					class="h-6 w-6 rounded border-gray-300 bg-gray-100 text-blue-600 focus:ring-2"
+					checked={$neverRepeat}
+					on:change={() => toggleNeverRepeat()}
+				/>
+				<span class="ml-2 w-full py-3">
+					<label for="never-repeat" class="py-3 text-sm font-medium"> Never repeat a track </label>
+					(<button
+						class="text-sm text-neutral-500 hover:text-emerald-500"
+						on:click={() => {
+							if (confirm('Do you really want to reset played tracks?')) {
+								resetPlayedTrack();
+								open = false;
+							}
+						}}
+					>
+						Reset
+					</button>)
+				</span>
+			</div>
 			<button
 				class="self-end rounded-md bg-blue-700 px-3 py-2 text-right text-sm font-semibold uppercase leading-6 text-neutral-200"
 				on:click={() => {
+					$neverRepeat = localNeverRepeat;
 					playlistsChanged(playlists);
 					open = false;
 				}}

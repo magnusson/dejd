@@ -61,3 +61,13 @@ const ignoredTracksStorage = browser && localStorage.getItem('ignoredTracks');
 const storedIgnoredTracks = ignoredTracksStorage ? JSON.parse(ignoredTracksStorage) : [];
 export const ignoredTracks = writable(browser && storedIgnoredTracks);
 ignoredTracks.subscribe((val) => browser && (localStorage.ignoredTracks = JSON.stringify(val)));
+
+const neverRepeatStorage = browser && localStorage.getItem('neverRepeat');
+const storedNeverRepeat = neverRepeatStorage ? JSON.parse(neverRepeatStorage) : false;
+export const neverRepeat = writable(browser && storedNeverRepeat);
+neverRepeat.subscribe((val) => browser && (localStorage.neverRepeat = JSON.stringify(val)));
+
+const playedTracksStorage = browser && localStorage.getItem('playedTracks');
+const storedPlayedTracks = playedTracksStorage ? JSON.parse(playedTracksStorage) : [];
+export const playedTracks = writable(browser && storedPlayedTracks);
+playedTracks.subscribe((val) => browser && (localStorage.playedTracks = JSON.stringify(val)));
