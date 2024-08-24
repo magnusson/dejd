@@ -62,6 +62,11 @@ const storedIgnoredTracks = ignoredTracksStorage ? JSON.parse(ignoredTracksStora
 export const ignoredTracks = writable(browser && storedIgnoredTracks);
 ignoredTracks.subscribe((val) => browser && (localStorage.ignoredTracks = JSON.stringify(val)));
 
+const neverRepeatStorageInfo = browser && localStorage.getItem('neverRepeatInfo');
+const storedNeverRepeatInfo = neverRepeatStorageInfo ? JSON.parse(neverRepeatStorageInfo) : true;
+export const neverRepeatInfo = writable(browser && storedNeverRepeatInfo);
+neverRepeatInfo.subscribe((val) => browser && (localStorage.neverRepeatInfo = JSON.stringify(val)));
+
 const neverRepeatStorage = browser && localStorage.getItem('neverRepeat');
 const storedNeverRepeat = neverRepeatStorage ? JSON.parse(neverRepeatStorage) : false;
 export const neverRepeat = writable(browser && storedNeverRepeat);

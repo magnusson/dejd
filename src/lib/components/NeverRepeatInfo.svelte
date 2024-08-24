@@ -1,13 +1,16 @@
 <script lang="ts">
-	export let open: boolean;
+	import { neverRepeatInfo } from '$lib/stores';
 </script>
 
 <div
 	class="absolute top-0 w-full max-w-lg rounded-md bg-blue-50 p-4"
 	role="alert"
-	class:hidden={!open}
+	class:hidden={!$neverRepeatInfo}
 >
-	<button class="absolute right-0 top-0 m-4" on:click={() => (open = !open)}>
+	<button
+		class="absolute right-0 top-0 m-4"
+		on:click={() => ($neverRepeatInfo = !$neverRepeatInfo)}
+	>
 		<svg
 			xmlns="http://www.w3.org/2000/svg"
 			fill="none"

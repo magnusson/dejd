@@ -14,8 +14,6 @@
 	import { tick } from 'svelte';
 	import NeverRepeatInfo from '$lib/components/NeverRepeatInfo.svelte';
 
-	export let data;
-
 	const availablePlaylists = {
 		Original: original,
 		Disney: disney,
@@ -243,5 +241,5 @@
 			/>
 		</svg>
 	{/if}
-	<NeverRepeatInfo open={!!data.neverRepeatInfo} />
+	<NeverRepeatInfo />
 </main>
