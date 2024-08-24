@@ -3,7 +3,7 @@
 </script>
 
 <div
-	class="absolute top-0 w-full max-w-lg rounded-md bg-blue-50 p-4"
+	class="absolute bottom-0 left-1/2 mb-4 w-full max-w-lg -translate-x-1/2 rounded-md bg-blue-50 p-4 lg:bottom-auto lg:top-0 lg:mb-0 lg:mt-4"
 	role="alert"
 	class:hidden={!$neverRepeatInfo}
 >

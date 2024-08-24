@@ -164,8 +164,8 @@
 </script>
 
 <header class="mx-auto mb-4 grid max-w-lg grid-cols-3 items-center">
-	<h1 class="col-start-2 justify-center text-center font-lilita text-5xl text-white">DEJD</h1>
-	<div class="flex justify-self-end">
+	<h1 class="justify-center font-lilita text-5xl text-white lg:col-start-2 lg:text-center">DEJD</h1>
+	<div class="col-start-3 flex justify-self-end">
 		<PlaylistsModal
 			playlists={$playlists}
 			{availablePlaylists}
@@ -241,5 +241,5 @@
 			/>
 		</svg>
 	{/if}
-	<NeverRepeatInfo />
 </main>
+<NeverRepeatInfo />
