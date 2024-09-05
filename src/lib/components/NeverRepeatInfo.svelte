@@ -5,7 +5,7 @@
 <div
 	class="absolute left-1/2 top-20 w-full max-w-md -translate-x-1/2 rounded-md bg-blue-50 p-4 lg:bottom-auto lg:top-4 lg:max-w-lg"
 	role="alert"
-	class:hidden={!$neverRepeatInfo || $stats.played < 3}
+	class:hidden={!$neverRepeatInfo || $stats.played < 250}
 >
 	<button
 		class="absolute right-0 top-0 m-4"
