@@ -1,11 +1,11 @@
 <script lang="ts">
-	import { neverRepeatInfo } from '$lib/stores';
+	import { neverRepeatInfo, stats } from '$lib/stores';
 </script>
 
 <div
 	class="absolute left-1/2 top-20 w-full max-w-md -translate-x-1/2 rounded-md bg-blue-50 p-4 lg:bottom-auto lg:top-4 lg:max-w-lg"
 	role="alert"
-	class:hidden={!$neverRepeatInfo}
+	class:hidden={!$neverRepeatInfo || $stats.played < 3}
 >
 	<button
 		class="absolute right-0 top-0 m-4"
@@ -23,5 +23,5 @@
 		</svg>
 	</button>
 	<p class="text-sm font-semibold text-blue-700">Tired of tracks repeating?</p>
-	<p class="text-sm text-blue-700">Play only unique tracks by enabling it in playlist settings.</p>
+	<p class="text-sm text-blue-700">Enable "Never repeat a track" in the playlists settings. 🤩</p>
 </div>
