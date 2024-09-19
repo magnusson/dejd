@@ -36,6 +36,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/22ab04ebf46e75a8c2c83a774c8831a8/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'In Da Club',
+		artist: '50 Cent',
+		id: 1141668,
+		preview: 'https://cdn-preview-5.dzcdn.net/stream/c-525a1f285d62b7f698f5aab8ec69b426-11.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/8f4dd4d8abf85ceda96b6b4adf217590/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Take on Me',
 		artist: 'a-ha',
 		id: 664107,
@@ -61,6 +69,14 @@ export const original = [
 		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-cf7449dce83b1ae9c037efd50d22dd85-7.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/e6bfa2ee147854dc35fdc5dd4950a084/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Try Again',
+		artist: 'Aaliyah',
+		id: 1459907162,
+		preview: 'https://cdn-preview-5.dzcdn.net/stream/c-55a37c5defd30a317f7d21e7618eadb8-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/807027e9b1cf180d78b96c5b7969172f/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Chiquitita',
@@ -117,6 +133,24 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Money, Money, Money',
+		artist: 'ABBA',
+		id: 884036,
+		release_date: '1978-06-02',
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-95c1fe6523b63bb79e9dc438ca5f9176-15.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'One Of Us',
+		artist: 'ABBA',
+		id: 76376886,
+		release_date: '1974-04-07',
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c5eb8157e41e3673739f7e2954fd4cf0-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0e28b2ad6ec55276c66dae8297c686c6/250x250-000000-80-0-0.jpg'
+	},
+	{
 		artist: 'ABBA',
 		title: 'Super Trouper',
 		id: 884033,
@@ -149,15 +183,6 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Waterloo',
-		artist: 'ABBA',
-		id: 884046,
-		release_date: '1978-06-02',
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-83e3a77be661e984e65dea8d1104abfa-15.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Voulez-Vous',
 		artist: 'ABBA',
 		id: 884040,
@@ -167,20 +192,11 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'One Of Us',
+		title: 'Waterloo',
 		artist: 'ABBA',
-		id: 76376886,
-		release_date: '1974-04-07',
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c5eb8157e41e3673739f7e2954fd4cf0-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/0e28b2ad6ec55276c66dae8297c686c6/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Money, Money, Money',
-		artist: 'ABBA',
-		id: 884036,
+		id: 884046,
 		release_date: '1978-06-02',
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-95c1fe6523b63bb79e9dc438ca5f9176-15.mp3',
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-83e3a77be661e984e65dea8d1104abfa-15.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/250x250-000000-80-0-0.jpg'
 	},
@@ -219,6 +235,14 @@ export const original = [
 		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-21c08c233e8518403c8afa869c07786f-7.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/599c31e92ab91c01f8fb889a96e54544/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Easy On Me',
+		artist: 'Adele',
+		id: 1522223672,
+		preview: 'https://cdn-preview-8.dzcdn.net/stream/c-8b175d5fccd6b1c54973c9307f572010-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/a87ee7c212c7b0f9ae687c378f260324/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Amazing',
@@ -355,6 +379,22 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/4045858b4e63ddeb52d89f3705354673/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Uptown Top Ranking',
+		artist: 'Althea & Donna',
+		id: 3665435,
+		preview: 'https://cdn-preview-3.dzcdn.net/stream/c-3197771d327be81f3efea574bf25d94b-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/f55becb3ca5f54b70c93a9ad6981a09f/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Kelly',
+		artist: 'Amason',
+		id: 1884938827,
+		preview: 'https://cdn-preview-6.dzcdn.net/stream/c-6dde834610a820a0c029fcadb058fc6e-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/42e886e2d849c7eac085fc1ee9c227b3/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Back To Black',
 		artist: 'Amy Winehouse',
 		id: 2176856,
@@ -454,6 +494,22 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/e93cd7e23fbe6968777535dee8dbfd6d/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Alberto Balsalm',
+		artist: 'Aphex Twin',
+		id: 29371581,
+		preview: 'https://cdn-preview-d.dzcdn.net/stream/c-d287b5e7ea05ee9c3f328c2fa219658a-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/5cd2fa04adfb4248c3d7e1f612b5c7fd/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Windowlicker',
+		artist: 'Aphex Twin',
+		id: 29392051,
+		preview: 'https://cdn-preview-9.dzcdn.net/stream/c-9e4bbc9b1e0bcf95df05906d381053bf-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/c41817ed179b3043007cd5309c56a272/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Barbie Girl',
 		artist: 'Aqua',
 		id: 1115044,
@@ -481,6 +537,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/9e9ba9115d0fb62879d1bb672ee67c07/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Thank U, Next',
+		artist: 'Ariana Grande',
+		id: 629899852,
+		preview: 'https://cdn-preview-c.dzcdn.net/stream/c-c14ae11a9ca78fdb0e7b7bf715907d17-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/49e86e935da829b44cb5ffae16826e55/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: '9 PM - Till I come',
 		artist: 'ATB',
 		id: 61639668,
@@ -497,6 +561,14 @@ export const original = [
 		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f908185d140250f1766ba6f04f6c67ec-6.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/5d3af8f49852d373f99a7d9839fcacfe/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Levels',
+		artist: 'Avicii',
+		id: 14383880,
+		preview: 'https://cdn-preview-8.dzcdn.net/stream/c-8e381dd4556dbbc888d4d07a5c15a0c9-9.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/30bc3d8c348ddddb00c44f28d3120ac5/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Avril Lavigne',
@@ -677,6 +749,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/bd1a6798645fb5cc63fd866668e8faa1/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Thirteen',
+		artist: 'Big Star',
+		id: 1419354482,
+		preview: 'https://cdn-preview-d.dzcdn.net/stream/c-d0876d033e2dfcdb607eb957837e16cb-8.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/980ff7766778191338932f72ba16d341/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: "(I've Had) The Time Of My Life",
 		artist: 'Bill Medley',
 		id: 13128250,
@@ -684,6 +764,14 @@ export const original = [
 		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-234cd1a120137e3e8f683c2cf532825d-5.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/f24ac40f8c7a0dbe438399788763a042/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Happier Than Ever',
+		artist: 'Billie Eilish',
+		id: 1449727522,
+		preview: 'https://cdn-preview-c.dzcdn.net/stream/c-c95d882d601b0ced6b263d788d5e80fe-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/9955047483278bd0f93420951226ac44/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Kiss The Rain',
@@ -738,6 +826,30 @@ export const original = [
 		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-88f83bbbb58547db3550aafcf3cf91fd-6.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/3d24aeaaa8ddb94c9e71b36ab1ac690c/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Hyper-Ballad',
+		artist: 'Björk',
+		id: 2629694172,
+		preview: 'https://cdn-preview-1.dzcdn.net/stream/c-1315dd28d836b104625fe46774b09409-1.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/dc248d3f5266afcad366dd78d27fd39a/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Venus As A Boy',
+		artist: 'Björk',
+		id: 2629551152,
+		preview: 'https://cdn-preview-4.dzcdn.net/stream/c-4ddd6abafb72b496fcab1830d49294e7-1.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/411bd25c6f07100bf400b43536188b5d/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Sabbath Bloody Sabbath',
+		artist: 'Black Sabbath',
+		id: 143060488,
+		preview: 'https://cdn-preview-6.dzcdn.net/stream/c-69e7c4ec522cc6a33debe65f06ad2374-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/598fc3f72976e60ec36a56c080856c46/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Inget stoppar oss nu',
@@ -821,6 +933,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/f501ee1cff6f7ecdf0d8f2f67cceb4c4/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Waiting In Vain',
+		artist: 'Bob Marley & The Wailers',
+		id: 530300711,
+		preview: 'https://cdn-preview-6.dzcdn.net/stream/c-69487d317e25a3214e8d7ec7587b92be-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/c43e3b1d83e0107dfff7e4238096fe5b/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: "Don't Worry Be Happy",
 		artist: 'Bobby McFerrin',
 		id: 3127387,
@@ -830,6 +950,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/121ed33882c127248831b9aacfe5220b/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Across 110Th Street',
+		artist: 'Bobby Womack',
+		id: 3403454,
+		preview: 'https://cdn-preview-2.dzcdn.net/stream/c-215ff1f603fb3616ba78519f5fc3ccb8-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/300de93d6e83d15595abce7596b83a31/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Freestyler',
 		artist: "Bomfunk MC's",
 		id: 5363024,
@@ -837,6 +965,14 @@ export const original = [
 		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b3c72bdc22f4d99801d990e8646b2ecb-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/693d6472f1c44dd5a55432acef70d193/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Holocene',
+		artist: 'Bon Iver',
+		id: 75812668,
+		preview: 'https://cdn-preview-f.dzcdn.net/stream/c-f850b2b35db1b9ba1eb3d0d54ad42aeb-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/1457f0d27076538d484625fa706541b7/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Always',
@@ -947,6 +1083,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/4112854d5ad8f7b5dffa421c9df06515/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'First Day Of My Life',
+		artist: 'Bright Eyes',
+		id: 1357792772,
+		preview: 'https://cdn-preview-4.dzcdn.net/stream/c-4be4ebbc51203a68fc8bf1c48b092e6e-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/51dd6bfbb537477480e482d0f265edb6/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: '...Baby One More Time',
 		artist: 'Britney Spears',
 		id: 540175,
@@ -963,6 +1107,14 @@ export const original = [
 		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e7c043c0801ad2c4defcdbd97b9da450-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/34265ac018fe0d973eac131fe04038a2/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Toxic',
+		artist: 'Britney Spears',
+		id: 15391618,
+		preview: 'https://cdn-preview-f.dzcdn.net/stream/c-f6ca5af9dcdbe1a480b3aedbd4622210-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/8a2b95cda407d004d829831d20e2e20b/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Smalltown Boy',
@@ -1055,6 +1207,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/e7be525c05b1942e1844d0073f7b9ab5/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Archangel',
+		artist: 'Burial',
+		id: 10733586,
+		preview: 'https://cdn-preview-8.dzcdn.net/stream/c-84de98d9b258e47f18e9ba050b05841a-8.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/4b2625e8eec6e7368b58180035915014/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Gonna Make You Sweat',
 		artist: 'C+C Music Factory',
 		id: 829895,
@@ -1126,72 +1286,6 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/51515b40c93a2ac8b4aebb2505684802/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'My Heart Will Go On',
-		artist: 'Céline Dion',
-		id: 129225916,
-		release_date: '1998-01-20',
-		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-30f0d78fdc23bfaddebbcb92b9edd43c-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/dc228f24c047970859347d7d3e60be6f/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: "That's the Way It Is",
-		artist: 'Céline Dion',
-		id: 14552286,
-		release_date: '1999-11-07',
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-175572757c7123685ef489988edbfc93-7.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/177346106112348e15ec4f9add0c1ef4/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Céline Dion',
-		title: 'Ten days',
-		id: 763662002,
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f3d1b199a566d93d58396bac9f0e58f0-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/05908fa1edac622facfa411ec1c80a82/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Céline Dion',
-		title: 'A new day has come',
-		id: 763662102,
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-976d678bba36c5c43712e43dc797b0d4-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/05908fa1edac622facfa411ec1c80a82/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Céline Dion',
-		title: 'Have You Ever Been in Love',
-		id: 763661972,
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-92b65dc8511ca807c0b5082c8af9fe57-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/05908fa1edac622facfa411ec1c80a82/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Céline Dion',
-		title: "It's All Coming Back to Me Now",
-		id: 714269192,
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f692d04aff648758bbf7c70afdb722a9-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/348692abbdb9950a998c8d58cbba78b7/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Céline Dion',
-		title: 'One Heart',
-		id: 15220721,
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e268f82d0c1f4bb702366687434457ea-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/53c96f0de89ae2c4976f9d43083fb7ea/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Céline Dion',
-		title: 'I Drove All Night',
-		id: 869507,
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-760722c6adf3d84eb5f5c034c5aa4589-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/eb1830bc65b131006eefb4943cfd6da9/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: "Ain't Nobody",
 		artist: 'Chaka Khan',
 		id: 776220,
@@ -1206,6 +1300,14 @@ export const original = [
 		id: 685227,
 		release_date: '1984-04-18',
 		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-68c0ce584f4cc7368514fd8b782ef8f5-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/1b35699645d63299c0979e679d7f4ee2/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Through The Fire',
+		artist: 'Chaka Khan',
+		id: 685229,
+		preview: 'https://cdn-preview-c.dzcdn.net/stream/c-cf0b3cea0b25972155ea8388e01a2c14-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/1b35699645d63299c0979e679d7f4ee2/250x250-000000-80-0-0.jpg'
 	},
@@ -1380,6 +1482,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/3a31bfbc6678856d2cfe10dbb22b8a24/250x250-000000-80-0-0.jpg'
 	},
 	{
+		artist: 'Cornershop',
+		title: 'Brimful of Asha',
+		id: 1120922,
+		preview: 'https://cdn-preview-8.dzcdn.net/stream/c-893c7cb01666ae60ac4476a968284845-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/6b8d03b553b482d482bfd6d179cead9b/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'The Rhythm of the Night',
 		artist: 'Corona',
 		id: 61723285,
@@ -1405,6 +1515,14 @@ export const original = [
 		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5be18aa169ddb0a4ab2feacdc90c5daa-6.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/3baaace858e4a31dbbe339b5e3584e21/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Helplessly Hoping',
+		artist: 'Crosby Stills & Nash',
+		id: 1024730942,
+		preview: 'https://cdn-preview-b.dzcdn.net/stream/c-b26071be6344c08d72af3e1fbab6ddcb-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/cf8a26e178d317063719add29283860b/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: "Don't Dream It's Over",
@@ -1452,6 +1570,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/93637763db9f47b7a8f8c1e31ff11c0e/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'People Get Ready',
+		artist: 'Curtis Mayfield',
+		id: 533307782,
+		preview: 'https://cdn-preview-b.dzcdn.net/stream/c-b17ab5e8300b4d7cb7a0337461197c42-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d4e738e2803055cb07941a8b1e09d640/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Girls Just Want to Have Fun',
 		artist: 'Cyndi Lauper',
 		id: 76057844,
@@ -1477,6 +1603,72 @@ export const original = [
 		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-86fefd9738a2a6e337736f0261570acc-7.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/ff3a4fbb250a131f8cf3f413814eb29a/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Céline Dion',
+		title: 'A new day has come',
+		id: 763662102,
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-976d678bba36c5c43712e43dc797b0d4-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/05908fa1edac622facfa411ec1c80a82/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Céline Dion',
+		title: 'Have You Ever Been in Love',
+		id: 763661972,
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-92b65dc8511ca807c0b5082c8af9fe57-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/05908fa1edac622facfa411ec1c80a82/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Céline Dion',
+		title: 'I Drove All Night',
+		id: 869507,
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-760722c6adf3d84eb5f5c034c5aa4589-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/eb1830bc65b131006eefb4943cfd6da9/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Céline Dion',
+		title: "It's All Coming Back to Me Now",
+		id: 714269192,
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f692d04aff648758bbf7c70afdb722a9-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/348692abbdb9950a998c8d58cbba78b7/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'My Heart Will Go On',
+		artist: 'Céline Dion',
+		id: 129225916,
+		release_date: '1998-01-20',
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-30f0d78fdc23bfaddebbcb92b9edd43c-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/dc228f24c047970859347d7d3e60be6f/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Céline Dion',
+		title: 'One Heart',
+		id: 15220721,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e268f82d0c1f4bb702366687434457ea-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/53c96f0de89ae2c4976f9d43083fb7ea/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Céline Dion',
+		title: 'Ten days',
+		id: 763662002,
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f3d1b199a566d93d58396bac9f0e58f0-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/05908fa1edac622facfa411ec1c80a82/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: "That's the Way It Is",
+		artist: 'Céline Dion',
+		id: 14552286,
+		release_date: '1999-11-07',
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-175572757c7123685ef489988edbfc93-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/177346106112348e15ec4f9add0c1ef4/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: "You're the One for Me",
@@ -1578,6 +1770,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/5fb91018679f65199308256be3c584ab/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Life On Mars',
+		artist: 'David Bowie',
+		id: 1069457452,
+		preview: 'https://cdn-preview-b.dzcdn.net/stream/c-b74b5b9ebe7c80e7164729abaaba6504-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/1fd016b7aae2b98bb6e7002c632f0583/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Space Oddity',
 		artist: 'David Bowie',
 		id: 107465566,
@@ -1630,6 +1830,14 @@ export const original = [
 		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-25376c5ff0367baa43aec3775818e2b9-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/c4cbc4f2ad6cbd36d1d7549178e301d7/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Speed King',
+		artist: 'Deep Purple',
+		id: 13188557,
+		preview: 'https://cdn-preview-f.dzcdn.net/stream/c-f964eec7cd90d896f4f22cea41e669a6-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/8f04a5e62748979a59de08bfde6abb81/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Hysteria',
@@ -1695,6 +1903,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/3fcbfc72be5ad78fa6277eb5dc5df8d3/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Say My Name',
+		artist: "Destiny's Child",
+		id: 580936,
+		preview: 'https://cdn-preview-a.dzcdn.net/stream/c-a7d50221755ae6e7c0af47b41741afe6-9.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/73da200f9335f752d2f7cb5ed8933cef/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Upside Down',
 		artist: 'Diana Ross',
 		id: 906582,
@@ -1729,6 +1945,14 @@ export const original = [
 		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6a75cb9dca0706fd76ea436b9395c01e-5.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/1f2be3ef09864973a64c60693c0f9f14/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Walk On By',
+		artist: 'Dionne Warwick',
+		id: 10032133,
+		preview: 'https://cdn-preview-0.dzcdn.net/stream/c-0462c20e49d5b5a38ed0c5b76dfef83f-10.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/c4e51ade764a8717863e9e2e2ee1fac9/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Heaven',
@@ -1819,6 +2043,38 @@ export const original = [
 		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-ec842c804215b28adf6a4f5d1b415152-6.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/85494b32954ac1611bbdc51e991f6356/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: "Someday We'll All Be Free",
+		artist: 'Donny Hathaway',
+		id: 114794882,
+		preview: 'https://cdn-preview-e.dzcdn.net/stream/c-ecaf1456f9ab3a14b67fdb0f1c8997e3-11.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/48b403829df11bdb72cd2c6a9cdbfe64/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'One Dance',
+		artist: 'Drake',
+		id: 124603270,
+		preview: 'https://cdn-preview-d.dzcdn.net/stream/c-d63a57a6516bbeb921f70acd48c20fe1-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/56bdb7a86a27fadb96332c0c8f1b8e81/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Dropkick Murphys',
+		title: "I'm Shipping Up To Boston",
+		id: 378350101,
+		preview: 'https://cdn-preview-4.dzcdn.net/stream/c-43361df1083732bdd32fc77cc672d0f0-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/31d2561fda2ed4e5eaed4b6d81ef29d4/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Dropkick Murphys',
+		title: 'Rose Tattoo',
+		id: 72011057,
+		preview: 'https://cdn-preview-f.dzcdn.net/stream/c-f84eb1b36d0ff8ccd21a0439bf401d8d-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/659c527403b587b3a166e21ae4569a62/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: "Don't Start Now",
@@ -2090,6 +2346,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/e2b36a9fda865cb2e9ed1476b6291a7d/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Red Dirt Girl',
+		artist: 'Emmylou Harris',
+		id: 14613677,
+		preview: 'https://cdn-preview-7.dzcdn.net/stream/c-71561803d34578e5fc45eef05f54ea07-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d66f319feeffc14e00c81c3a1a2bbb5f/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Return To Innocence',
 		artist: 'Enigma',
 		id: 3132752,
@@ -2108,6 +2372,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/d5909ac32e17d6f7c12cc1443aa88428/250x250-000000-80-0-0.jpg'
 	},
 	{
+		artist: 'Enrique Iglesias',
+		title: 'Hero',
+		id: 2276253,
+		preview: 'https://cdn-preview-f.dzcdn.net/stream/c-f8757b5905f749e8b282baab6df24193-8.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/84f577b7831d068836d37b06673a3f06/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Rhythm Divine',
 		artist: 'Enrique Iglesias',
 		id: 2604912,
@@ -2115,14 +2387,6 @@ export const original = [
 		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9da64cd913a4780abad50a792d35b27d-10.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/d5909ac32e17d6f7c12cc1443aa88428/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Enrique Iglesias',
-		title: 'Hero',
-		id: 2276253,
-		preview: 'https://cdn-preview-f.dzcdn.net/stream/c-f8757b5905f749e8b282baab6df24193-8.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/84f577b7831d068836d37b06673a3f06/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'A Little Respect',
@@ -2169,15 +2433,6 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/2971537322dde7f40381a8586c08cd8e/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'The Final Countdown',
-		artist: 'Europe',
-		id: 619310,
-		release_date: '1984-03-01',
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-ecbb97adf10b2aae1d16b5cc502c9666-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/da44873bbb18e25f946863209fcbbbe0/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Cherokee',
 		artist: 'Europe',
 		id: 858566,
@@ -2185,6 +2440,15 @@ export const original = [
 		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f762a7e0cee1b8805698fa7df5eb18a3-7.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/2971537322dde7f40381a8586c08cd8e/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'The Final Countdown',
+		artist: 'Europe',
+		id: 619310,
+		release_date: '1984-03-01',
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-ecbb97adf10b2aae1d16b5cc502c9666-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/da44873bbb18e25f946863209fcbbbe0/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Here Comes the Rain Again',
@@ -2304,6 +2568,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/0ce857515b6285c7d08d4d264a52fc5e/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Water No Get Enemy',
+		artist: 'Fela Kuti',
+		id: 64321063,
+		preview: 'https://cdn-preview-1.dzcdn.net/stream/c-152f1c9977613cb6c5f49f5de3f664a7-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/3c8207d7d925629d675f6df4cb8e4dc8/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: '(Feels Like) Heaven',
 		artist: 'Fiction Factory',
 		id: 5404615,
@@ -2311,6 +2583,22 @@ export const original = [
 		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8c6a13c163aadda377d5d09db9ebb335-7.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/65689ec5162126a39cf7bff42a28ba50/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Emmylou',
+		artist: 'First Aid Kit',
+		id: 57836541,
+		preview: 'https://cdn-preview-2.dzcdn.net/stream/c-28412778bfdf0599002d9fd9c25485ef-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/ca9a31244959da61047dfb7f43f4a59d/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'O-O-H Child',
+		artist: 'Five stairsteps',
+		id: 13198823,
+		preview: 'https://cdn-preview-3.dzcdn.net/stream/c-322bbbc4b13d2e78e40c48af18ef43f4-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/5999ef0cee3e195692be2a782622025e/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Dreams',
@@ -2338,6 +2626,30 @@ export const original = [
 		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7339f72f30c8c079c94fa573db2b6cc3-8.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/fae8305ef18ac327a4c19436672d5d5b/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Flogging Molly',
+		title: 'Drunken Lullabies',
+		id: 1795591547,
+		preview: 'https://cdn-preview-c.dzcdn.net/stream/c-cc0540561a3b19c2f6696b364e148b44-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/e9465a514efaea0eda0b1b8e3d59f137/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Flogging Molly',
+		title: 'If I Ever Leave This World Alive',
+		id: 67292556,
+		preview: 'https://cdn-preview-1.dzcdn.net/stream/c-124a09b3bd8144564dc3f8664af69598-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/44e5c33129f1a78f2e744820b7130be3/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Shake it Out',
+		artist: 'Florence + The Machine',
+		id: 45594181,
+		preview: 'https://cdn-preview-8.dzcdn.net/stream/c-812ecbfb34748216ea253945d2a822d8-9.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/62d6168fd810482d09252025d9f69b0a/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Everlong',
@@ -2394,6 +2706,22 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/18b4eeac942cf8f4e4fee33fd954ff17/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Self Control',
+		artist: 'Frank Ocean',
+		id: 717273902,
+		preview: 'https://cdn-preview-1.dzcdn.net/stream/c-1ce7fde914f39b17a46b68087769856f-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/f798a866107715dd6dc1049e498ce21f/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Thinkin Bout You',
+		artist: 'Frank Ocean',
+		id: 97328562,
+		preview: 'https://cdn-preview-c.dzcdn.net/stream/c-c148e63f53c0661828925b514924069f-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/519400e29d268f449cf00af879e71af6/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'If I Were Sorry',
 		artist: 'Frans',
 		id: 120037738,
@@ -2412,6 +2740,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/1d7595597791ccee987ff3d06a239321/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Ready Or Not',
+		artist: 'Fugees',
+		id: 102871672,
+		preview: 'https://cdn-preview-0.dzcdn.net/stream/c-06b2bcf33a9c154c478df6a260f7859b-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0e801686859be7538124aeee8364634a/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Invisible Touch',
 		artist: 'Genesis',
 		id: 3145739,
@@ -2428,6 +2764,14 @@ export const original = [
 		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-20f054ed6667eb1fe1d474a646924448-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/e7d27b5c59a8da92ccf7d24d82aceb0f/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'He Stopped Loving Her Today',
+		artist: 'George Jones',
+		id: 623891,
+		preview: 'https://cdn-preview-6.dzcdn.net/stream/c-61d4b0108804e5529d694fbd44a0e119-9.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/428f3326ee98ba3535cb78d8c4a328c1/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: "Freedom! '90",
@@ -2457,6 +2801,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/a4a40656ade105b7010c58687a14bd06/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Mind Playing Tricks On Me',
+		artist: 'Geto Boys',
+		id: 70816229,
+		preview: 'https://cdn-preview-3.dzcdn.net/stream/c-38ea81a0307eb7878cda17b63a588181-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/ec84cf4d9fa48baaca01be74bc341b65/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: "L'Amour Toujours",
 		artist: "Gigi D'Agostino",
 		id: 35782811,
@@ -2464,6 +2816,22 @@ export const original = [
 		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bca5828f633d6633f7a51106db6c1f66-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/e19251a60eeae5b1943861dffc23ea5e/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Wichita Lineman',
+		artist: 'Glen Campbell',
+		id: 61037369,
+		preview: 'https://cdn-preview-5.dzcdn.net/stream/c-50a892b56f9e30a3d5b5a45d727cd59f-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/61e60f43096d0f6c196739ab71ed80eb/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'I Will Survive',
+		artist: 'Gloria Gaynor',
+		id: 725636482,
+		preview: 'https://cdn-preview-4.dzcdn.net/stream/c-43364911f3a5a4446aba3e5896fba088-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/99a4b9bc0cd4e3bfd4f783885f6aa8e3/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Crazy',
@@ -2475,6 +2843,22 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/c215199c59acb8099cff54d03cf63269/250x250-000000-80-0-0.jpg'
 	},
 	{
+		artist: 'Goldfinger',
+		title: 'Superman',
+		id: 7978573,
+		preview: 'https://cdn-preview-6.dzcdn.net/stream/c-6b1535b852166f32a1ce55ba6ebe9cdc-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/ab9a711817cbf9e24fbfba88c192681c/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Inner City Life',
+		artist: 'Goldie',
+		id: 541148552,
+		preview: 'https://cdn-preview-1.dzcdn.net/stream/c-1c9081580cb3bc331bb14a43d62db3c6-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/842daeaa4c7a255b6663970346770e5b/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'DARE',
 		artist: 'Gorillaz',
 		id: 3129413,
@@ -2482,6 +2866,14 @@ export const original = [
 		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6314296e111419d818779e578b0f41e3-7.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/8dd837db7a1c6acf7acb20e26c0452c3/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Feel Good Inc',
+		artist: 'Gorillaz',
+		id: 2996910921,
+		preview: 'https://cdn-preview-8.dzcdn.net/stream/c-88e048997f12d2e0ee67589307270507-8.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/a9d499afa26cce606cdc7349850f5b84/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Feel Good Inc.',
@@ -2509,6 +2901,14 @@ export const original = [
 		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8aeb2c37d552e3eb91b9735832ee3403-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/65bd1a8205a65370d723d39e06b7186d/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'The Message',
+		artist: 'Grandmaster Flash & The Furious Five',
+		id: 131227366,
+		preview: 'https://cdn-preview-e.dzcdn.net/stream/c-efc10e431d77ce01736fc9f18cf23e32-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/199633a4a0fe332b8076b714afb95886/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Basket Case',
@@ -2628,6 +3028,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/fcdf815b71950c14d18b54d2ef0eec15/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Violet',
+		artist: 'Hole',
+		id: 6604067,
+		preview: 'https://cdn-preview-8.dzcdn.net/stream/c-851009b7e82d835df9da924f8a077f55-10.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/2d263bd2b6446abf01ac7b668ba76b34/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Americanos',
 		artist: 'Holly Johnson',
 		id: 4275259,
@@ -2671,6 +3079,22 @@ export const original = [
 		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8551f5a74e0499e9589749337798745f-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/36ecda8a42873d1d1d33560622a00d47/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Passenger',
+		artist: 'Iggy Pop',
+		id: 366455981,
+		preview: 'https://cdn-preview-9.dzcdn.net/stream/c-9785b80b2714232ad6703ae7e5a4d9b1-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/124180120beef77fc4949e6b68b64fae/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Hide And Seek',
+		artist: 'Imogen Heap',
+		id: 548645,
+		preview: 'https://cdn-preview-e.dzcdn.net/stream/c-e9804308a9471baf5d84d73d88254627-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/40b8596d1a713ff4e633cc6b14cb9613/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Sweat (A La La La La Long)',
@@ -2861,6 +3285,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/5631571f81b8fbd5d318bf22051fdf87/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Diamonds And Rust',
+		artist: 'Joan Baez',
+		id: 542465692,
+		preview: 'https://cdn-preview-3.dzcdn.net/stream/c-3ef50926ae9fcf4cd55f146358d4700a-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/263cce32a01aade714b933f47b423d57/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: "I Love Rock 'N Roll",
 		artist: 'Joan Jett and the Blackhearts',
 		id: 545992732,
@@ -2897,6 +3329,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/57e4c3c461961e77fab66662fecee013/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Promised Land',
+		artist: 'Joe Smooth',
+		id: 450738792,
+		preview: 'https://cdn-preview-2.dzcdn.net/stream/c-22c984f50e570a1861ab4f5662c14d87-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/cf7b047fe2457bd13ae1e9623a10f6a6/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: "You're the Voice",
 		artist: 'John Farnham',
 		id: 2221501,
@@ -2916,9 +3356,9 @@ export const original = [
 	},
 	{
 		artist: 'John Travolta',
-		title: "You're The One That I Want",
-		id: 1366800412,
-		preview: 'https://cdn-preview-2.dzcdn.net/stream/c-2d3fa401e92e77a07bbdb2234cdaeecb-8.mp3',
+		title: 'Summer Nights',
+		id: 1366800352,
+		preview: 'https://cdn-preview-1.dzcdn.net/stream/c-149e5140843b54dfc6c3e758b97f461a-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/fcede72804c1fba83f705b7a7166bb77/250x250-000000-80-0-0.jpg'
 	},
@@ -2932,9 +3372,9 @@ export const original = [
 	},
 	{
 		artist: 'John Travolta',
-		title: 'Summer Nights',
-		id: 1366800352,
-		preview: 'https://cdn-preview-1.dzcdn.net/stream/c-149e5140843b54dfc6c3e758b97f461a-4.mp3',
+		title: "You're The One That I Want",
+		id: 1366800412,
+		preview: 'https://cdn-preview-2.dzcdn.net/stream/c-2d3fa401e92e77a07bbdb2234cdaeecb-8.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/fcede72804c1fba83f705b7a7166bb77/250x250-000000-80-0-0.jpg'
 	},
@@ -2955,6 +3395,14 @@ export const original = [
 		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5ddb85833367c4241be271f918a5267b-8.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/a6f22e152a4a4f2c659b57b4b3789ce5/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'A Case Of You',
+		artist: 'Joni Mitchell',
+		id: 2297465515,
+		preview: 'https://cdn-preview-3.dzcdn.net/stream/c-3516be7ad9c7ff4bd948cad4a0b51898-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/9c8f80954025adb32c551c9c3c22eb7f/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: "Don't Stop Believin'",
@@ -3009,6 +3457,30 @@ export const original = [
 		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-82995b6c93f151ef4dd10c13736e297f-11.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/9d3f9b6f6f1836c8362d8f42ef5f37d4/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Heartless',
+		artist: 'Kanye West',
+		id: 130412300,
+		preview: 'https://cdn-preview-b.dzcdn.net/stream/c-b7c914478d422e502e95a059a23a7493-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/2877c6bf4fad750c54dd212fb50a366b/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Runaway',
+		artist: 'Kanye West',
+		id: 24282021,
+		preview: 'https://cdn-preview-a.dzcdn.net/stream/c-a2e4ca2db16e78a5da1dcdd8d170a5f7-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/58f2b66205a31c42cd1d340b99735d7c/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Ultralight Beam',
+		artist: 'Kanye West',
+		id: 126772729,
+		preview: 'https://cdn-preview-0.dzcdn.net/stream/c-0f6d4405b8a10a6c3e5384621b2afd70-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/e055ecc8d01680cda0460017087728be/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Running Up That Hill',
@@ -3073,6 +3545,22 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/2a33be0dde86b9bc7579703c246f9c33/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Alright',
+		artist: 'Kendrick Lamar',
+		id: 97206068,
+		preview: 'https://cdn-preview-5.dzcdn.net/stream/c-58c55fde65a58da3413d2f304ad11feb-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/00dd0da365a94b1829302d6b7fec70e6/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Sing About Me, Im Dying Of Thirst',
+		artist: 'Kendrick Lamar',
+		id: 67929162,
+		preview: 'https://cdn-preview-3.dzcdn.net/stream/c-300c2580fcb28691d2753d5080c6c9cd-8.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/b5be27644d505bad7bdb516fe4165475/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Heartlight',
 		artist: 'Kenny Loggins',
 		id: 15526148,
@@ -3109,13 +3597,12 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/be74b8af8f2677d8ff8f923a38b0dfb7/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'With Every Heartbeat',
-		artist: 'Kleerup',
-		id: 107745546,
-		release_date: '2009-02-16',
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a0473744cb44ada0c255dfeb2a363ddb-4.mp3',
+		title: 'Dance Again',
+		artist: 'Kite',
+		id: 2348677185,
+		preview: 'https://cdn-preview-6.dzcdn.net/stream/c-6c163b0dd80ad3d08958adb4a65b99c3-4.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/5dc622a193645295360dfb1ff7e02d31/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/be77798ac07d0fd9772d17b42278aa21/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Longing for Lullabies (feat. Titiyo)',
@@ -3125,6 +3612,15 @@ export const original = [
 		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e69cc2fe6c238faa76e50c391382574c-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/41fd16ffdf984bc56c5a48541d226357/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'With Every Heartbeat',
+		artist: 'Kleerup',
+		id: 107745546,
+		release_date: '2009-02-16',
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a0473744cb44ada0c255dfeb2a363ddb-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/5dc622a193645295360dfb1ff7e02d31/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Celebration',
@@ -3226,6 +3722,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/cc24d60a998e1a296f0c22efa8ddffd2/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Ride',
+		artist: 'Lana Del Rey',
+		id: 62220866,
+		preview: 'https://cdn-preview-9.dzcdn.net/stream/c-978ab1368f764cddc13587dfadec39ba-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/de9496f611d6d7391fa57401bac99d5b/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'The Ketchup Song',
 		artist: 'Las Ketchup',
 		id: 476739472,
@@ -3242,6 +3746,14 @@ export const original = [
 		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d6a5dc085c3710f46710d518a804349b-7.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/e8d7d2bb9f156110a5be3734c246c99a/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Ex-Factor',
+		artist: 'Lauryn Hill',
+		id: 400418882,
+		preview: 'https://cdn-preview-d.dzcdn.net/stream/c-dfb30775cf3abebf19a6cea3a1a27ec7-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/79ea9d5f45c41d82e511c59f0bd8fc5a/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: "Can't Fight The Moonlight",
@@ -3262,6 +3774,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/460a0edd96f743be03b7405eac38c633/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Electric',
+		artist: 'Leila K',
+		id: 61592315,
+		preview: 'https://cdn-preview-0.dzcdn.net/stream/c-0d05915530d8bbb4e1ae6ffbf66d3260-1.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/74ceca6d6d69d3e59b6c1878213951fd/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Sitting Down Here',
 		artist: 'Lene Marlin',
 		id: 3134928,
@@ -3278,6 +3798,14 @@ export const original = [
 		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6d486e9895a3f9bb09da7fc7f470a92b-6.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/53a797aae2e6b3894743c390d57387ca/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'A Milli',
+		artist: 'Lil Wayne',
+		id: 2124739,
+		preview: 'https://cdn-preview-b.dzcdn.net/stream/c-b0355c9f0edeb1591f2c0b7d75856801-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/88745de8073d0cebfd86ee856b39ab9e/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Smile',
@@ -3379,6 +3907,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/a882f510354221bce39fde00397f0c29/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Green Light',
+		artist: 'Lorde',
+		id: 371625771,
+		preview: 'https://cdn-preview-1.dzcdn.net/stream/c-10f057c6d651c5f3a70141b5de6ebb97-16.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0c424dbe627530cd06a6fd408baba3f3/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'La Bamba',
 		artist: 'Los Lobos',
 		id: 3819736,
@@ -3451,6 +3987,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/0da8b7dd2dcf02359cb82f30eead27a1/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Never Too Much',
+		artist: 'Luther Vandross',
+		id: 608507,
+		preview: 'https://cdn-preview-a.dzcdn.net/stream/c-a799acef323b3bdc4ae73ebad1d09807-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/126ed17264d4e4109e00291744b20dbf/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Moving on Up',
 		artist: 'M People',
 		id: 600153,
@@ -3458,6 +4002,22 @@ export const original = [
 		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4c00990367657165e695b25c81baa3ea-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/03ae0d6ea06504c955ff6661049af62b/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Paper Planes',
+		artist: 'M.I.A.',
+		id: 943376,
+		preview: 'https://cdn-preview-0.dzcdn.net/stream/c-05c656bea76864854d0986e0d8278782-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/1306c2e40cbdfa2ef7643880d22caff9/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Midnight City',
+		artist: 'M83',
+		id: 92213550,
+		preview: 'https://cdn-preview-b.dzcdn.net/stream/c-bccc408f02043494e6ed9186cea043cf-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/581c7924d28e44142e48cbcf52451182/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'I Try',
@@ -3622,6 +4182,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/00ce09d9b4267630242eb0063a10f3ee/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Teardrop',
+		artist: 'Massive Attack, Elizabeth Fraser',
+		id: 734487892,
+		preview: 'https://cdn-preview-6.dzcdn.net/stream/c-67937d82f78c793e4bc46512534535d2-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/df85f86252ad9bb3759de26d659ec824/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Get A Way',
 		artist: 'Maxx',
 		id: 16204632,
@@ -3629,6 +4197,14 @@ export const original = [
 		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a342b780b18f24b9705bcbe3f2c5ec9e-5.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/d0eba2c7261d4dd4a09d1b9629e339b7/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Fade Into You',
+		artist: 'Mazzy Star',
+		id: 3360821,
+		preview: 'https://cdn-preview-5.dzcdn.net/stream/c-5b3e646e5ce949fda8d7be186fbbd41c-8.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/5d3703e81301662626cc06a8b2843c78/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: "U Can't Touch This",
@@ -3701,6 +4277,14 @@ export const original = [
 		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0dc6a3ad317ca8a82610123e0fc5ff37-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/37c5bd270ca19bcf6bd5e9354f9f3df0/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Time To Pretend',
+		artist: 'Mgmt',
+		id: 536481,
+		preview: 'https://cdn-preview-f.dzcdn.net/stream/c-ffde745a6776b04b16a963271c386c71-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d910a6585e4a80f06e6fddce4f6f859d/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Conga!',
@@ -3910,6 +4494,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/fbed9a8cfcdd8a5e48cebbea8d8078ea/250x250-000000-80-0-0.jpg'
 	},
 	{
+		artist: 'Michael Learns To Rock',
+		title: 'The Actor',
+		id: 64507758,
+		preview: 'https://cdn-preview-1.dzcdn.net/stream/c-1bb22db487e83c7c80f7a5835fefcb33-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/e2f0bf5129592b57baa6e6cc657cfc9e/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Moonlight Shadow',
 		artist: 'Mike Oldfield',
 		id: 3978859,
@@ -3926,6 +4518,30 @@ export const original = [
 		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3a196512ceaef7b5efe44098bc0e4807-8.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/2b3e7d77cf4454c3de4aad41fa9abdb4/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Les Fleurs',
+		artist: 'Minnie Riperton',
+		id: 3332223,
+		preview: 'https://cdn-preview-9.dzcdn.net/stream/c-92d2deede83d7a0f24634aa24f0ec29b-8.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/cb25571575b50f373d9d74e080814519/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Get Ur Freak On',
+		artist: 'Missy Elliott',
+		id: 671140,
+		preview: 'https://cdn-preview-3.dzcdn.net/stream/c-3256f311ca0a348ee0b7431a5047957d-81.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d506a6d8b28483240daee6f379fd866c/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Shook Ones, Pt. II',
+		artist: 'Mobb Deep',
+		id: 1044157,
+		preview: 'https://cdn-preview-8.dzcdn.net/stream/c-81b4bfa521543267184c3b4076424b59-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d6e9c1a3ce072c0ecfe60abff98f06b9/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Brother Louie',
@@ -3982,6 +4598,22 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/84d654a1c8cd9281bfa2f1f118e361c4/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Only Shallow',
+		artist: 'My Bloody Valentine',
+		id: 1265932462,
+		preview: 'https://cdn-preview-4.dzcdn.net/stream/c-4b7c7d184e4f8997e535d97b5de912f5-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/217f6c70913d113d09a561cb17b64f6e/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Straight Outta Compton',
+		artist: 'N.W.A.',
+		id: 827450962,
+		preview: 'https://cdn-preview-8.dzcdn.net/stream/c-8765259190aea7089cd422213fd463ad-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/2c39cc2fea88e2136bd23945ee20c9da/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Summer Wine',
 		artist: 'Nancy Sinatra',
 		id: 4356542,
@@ -3989,6 +4621,14 @@ export const original = [
 		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e3e8ca343add54784addb8367a967c7b-6.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/fcf8669f7aebb982798cf026aa6b872b/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'N.Y State of Mind',
+		artist: 'Nas',
+		id: 77096688,
+		preview: 'https://cdn-preview-2.dzcdn.net/stream/c-27e3f21d07fbafd9b78ed80f87a302fb-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/4c2dc31af4f87864afcdb6ab599c7960/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Torn',
@@ -4018,6 +4658,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/1d3625d9f19527440769e7f8cc09db85/250x250-000000-80-0-0.jpg'
 	},
 	{
+		artist: 'Nelly Furtado',
+		title: "I'm Like A Bird",
+		id: 7562977,
+		preview: 'https://cdn-preview-c.dzcdn.net/stream/c-cc255cf2ec68d88c13e5c691fc0657b9-9.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/fbd6d06c71d72755bba27af0b1e3c88e/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Maneater',
 		artist: 'Nelly Furtado',
 		id: 1151141,
@@ -4036,12 +4684,12 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/fbd6d06c71d72755bba27af0b1e3c88e/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Nelly Furtado',
-		title: "I'm Like A Bird",
-		id: 7562977,
-		preview: 'https://cdn-preview-c.dzcdn.net/stream/c-cc255cf2ec68d88c13e5c691fc0657b9-9.mp3',
+		title: 'Buffalo Stance',
+		artist: 'Neneh Cherry',
+		id: 3324536,
+		preview: 'https://cdn-preview-9.dzcdn.net/stream/c-97c63ca110fa3c3a984042d1507af087-7.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/fbd6d06c71d72755bba27af0b1e3c88e/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/bdeb514b534c737aba92a28e0264a8c5/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: "Blue Monday '88",
@@ -4053,6 +4701,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/36f64eb1dee209e6510f4805a77f2362/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'River Man',
+		artist: 'Nick Drake',
+		id: 2282995,
+		preview: 'https://cdn-preview-d.dzcdn.net/stream/c-d05a463cb0eea3da065524169bb535d7-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/8e1330155275bbb3df49a7a623d2ed54/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'How You Remind Me',
 		artist: 'Nickelback',
 		id: 810179,
@@ -4060,6 +4716,14 @@ export const original = [
 		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-abb9372d51cf773c9817c8a32ef28a4c-7.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/61395db55522768a7a42e085c487d045/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'These Days',
+		artist: 'Nico',
+		id: 549277422,
+		preview: 'https://cdn-preview-8.dzcdn.net/stream/c-842a6681923f79482ffda575450a6502-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/883778e5de33b96f7352351bcbf09e4d/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Push The Feeling On',
@@ -4080,6 +4744,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/ce29a69eecc2c08d2b772bf0c5cca02f/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Baltimore',
+		artist: 'Nina Simone',
+		id: 1027214,
+		preview: 'https://cdn-preview-e.dzcdn.net/stream/c-e88513ae394d127ba6def6bd05cb3e15-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/27f1b847991acf586cce9b37c0efff58/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Feeling Good',
 		artist: 'Nina Simone',
 		id: 1707933617,
@@ -4087,6 +4759,14 @@ export const original = [
 		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c96464869490f4464b6545c5096c1c75-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/2b1664b2dc4a4bd7a95aca09d67bc47f/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'I Wish I Knew How It Would Feel To Be Free',
+		artist: 'Nina Simone',
+		id: 632335,
+		preview: 'https://cdn-preview-e.dzcdn.net/stream/c-eab34a472fa4eda50ac23f2dd6775868-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0c5f23a0a5a36f52028ca6afa85e0de4/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Suzanne',
@@ -4161,6 +4841,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/75b5b2eca192562caf0a85f65f12d371/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Live Forever',
+		artist: 'Oasis',
+		id: 2785951422,
+		preview: 'https://cdn-preview-e.dzcdn.net/stream/c-e8e211575b2654b62b7dd5dd3a4c1c35-1.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/62f871c0944ba89eb9308507de7b5cc1/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Wonderwall',
 		artist: 'Oasis',
 		id: 84572613,
@@ -4204,6 +4892,14 @@ export const original = [
 		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-adc4965ae3a8b122a10814ee15828ab3-8.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/f81783b6cc6030733cd475f820855562/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Ms. Jackson',
+		artist: 'Outkast',
+		id: 963042,
+		preview: 'https://cdn-preview-0.dzcdn.net/stream/c-02974f7bff502cd2f6661589cf71739a-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/646d6414a24faaccf67c1d7e01f7d095/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Fireflies',
@@ -4440,6 +5136,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/4720f991d5806bd8dcf46f9460737cad/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Down By The Water',
+		artist: 'Pj Harvey',
+		id: 2993713081,
+		preview: 'https://cdn-preview-7.dzcdn.net/stream/c-7143f144e8b617f999388510dd84ab7c-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/58d29bbdd2679320c22373eaaefa585e/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Feel It Still',
 		artist: 'Portugal. The Man',
 		id: 143171642,
@@ -4447,6 +5151,14 @@ export const original = [
 		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5be7ed5b78972bf8362a628a0fa9bc6f-9.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/6f204aa755d4354a8d548334f193fd86/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Loaded',
+		artist: 'Primal Scream',
+		id: 15621742,
+		preview: 'https://cdn-preview-f.dzcdn.net/stream/c-f072ce5a3e688e981091361dbe20f3e6-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/c5f2bb731a6a49b6f14d1bb23537a2d0/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: '1999',
@@ -4465,6 +5177,14 @@ export const original = [
 		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-88bda5b7d6476ed5b7b5d4c335958ead-7.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/07d3890b48303d09025f92ba7b9d67ac/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Little Red Corvette',
+		artist: 'Prince',
+		id: 819557562,
+		preview: 'https://cdn-preview-4.dzcdn.net/stream/c-43733c2c3af951b24478b83e7f834ae0-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/bd4a7d0533a6d707c263f3a38b26de05/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Purple Rain',
@@ -4501,6 +5221,14 @@ export const original = [
 		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-57793edd9b2473c82d250249b623793f-11.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/45e4493fcc15997085491debddcf049e/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Common People',
+		artist: 'Pulp',
+		id: 910074,
+		preview: 'https://cdn-preview-b.dzcdn.net/stream/c-b4be0d2a5bd4c0f3cfcf0de9328591b8-8.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d9ad01bd9de95f5a8ed88ea31799c81c/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'A Kind Of Magic',
@@ -4692,6 +5420,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/58ba0c77278cb7f63bb9fbd094e2fabd/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'New Noise',
+		artist: 'Refused',
+		id: 378236081,
+		preview: 'https://cdn-preview-6.dzcdn.net/stream/c-6a4fe9f779533be5d9866235c1e3eae7-9.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/01e29ab3813c97f05c0ac2c2584f89f5/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Desperado',
 		artist: 'Rhapsody In Rock (Jill Johnson)',
 		id: 4101087,
@@ -4755,6 +5491,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/91276466fbc876d96be9e6926060af60/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Work',
+		artist: 'Rihanna',
+		id: 118190298,
+		preview: 'https://cdn-preview-e.dzcdn.net/stream/c-e8850cd33ce8d17c90d5c71ed028e243-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/4fc5f387624c25de0ec96b4719e3a36d/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Dragula',
 		artist: 'Rob Zombie',
 		id: 2307303,
@@ -4773,11 +5517,28 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/d260fa442f925e1eb1c95bb29941f636/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Be Mine! (Album Version)',
+		artist: 'Robyn',
+		id: 14700269,
+		release_date: '2014-12-18',
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d02b7320f6546d169a125352a2330b75-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/a7e5e258aec87cf2f4d95ca7542f61be/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Call Your Girlfriend',
 		artist: 'Robyn',
 		id: 942969832,
 		release_date: '2010-11-22',
 		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9a643a44b69c718a96974af7521bbb08-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/a439b010cd887fd9cd98de54cc9bb977/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Dancing On My Own',
+		artist: 'Robyn',
+		id: 942969782,
+		preview: 'https://cdn-preview-2.dzcdn.net/stream/c-2cb7e8d5e14577a852189ff91bef5b09-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/a439b010cd887fd9cd98de54cc9bb977/250x250-000000-80-0-0.jpg'
 	},
@@ -4791,6 +5552,15 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/2a8d12f24eb7ea64082d31d12817ca10/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: "Don't Fucking Tell Me What to Do (The Mekanism Remix)",
+		artist: 'Robyn',
+		id: 127076575,
+		release_date: '2016-06-24',
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b4fec1403792fb75c4d6450a2a4e5634-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/5dad7c5029f6defb3d36edc82b1ed6d4/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Hang with Me',
 		artist: 'Robyn',
 		id: 942969822,
@@ -4800,22 +5570,12 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/a439b010cd887fd9cd98de54cc9bb977/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Konichiwa Bitches',
+		title: 'Honey',
 		artist: 'Robyn',
-		id: 14700265,
-		release_date: '2008-08-29',
-		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-deccc89226bcbb3e7db799c66e44a5a7-4.mp3',
+		id: 557392902,
+		preview: 'https://cdn-preview-2.dzcdn.net/stream/c-25d70f1c4c49f0e4a9af9b55920c6b22-12.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/a7e5e258aec87cf2f4d95ca7542f61be/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: "Don't Fucking Tell Me What to Do (The Mekanism Remix)",
-		artist: 'Robyn',
-		id: 127076575,
-		release_date: '2016-06-24',
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b4fec1403792fb75c4d6450a2a4e5634-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/5dad7c5029f6defb3d36edc82b1ed6d4/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/76bd80e6bea27764c47ec3426ed69a9f/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Indestructible',
@@ -4827,11 +5587,11 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/a439b010cd887fd9cd98de54cc9bb977/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Be Mine! (Album Version)',
+		title: 'Konichiwa Bitches',
 		artist: 'Robyn',
-		id: 14700269,
-		release_date: '2014-12-18',
-		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d02b7320f6546d169a125352a2330b75-3.mp3',
+		id: 14700265,
+		release_date: '2008-08-29',
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-deccc89226bcbb3e7db799c66e44a5a7-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/a7e5e258aec87cf2f4d95ca7542f61be/250x250-000000-80-0-0.jpg'
 	},
@@ -4935,6 +5695,22 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/795b45e8a76e80ef4c342b00f9d37845/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Gabriel (Live Garage Version)',
+		artist: 'Roy Davis Jr, Peven Everett',
+		id: 2766205551,
+		preview: 'https://cdn-preview-b.dzcdn.net/stream/c-b1c4824dd3679c63e7db8775035e5a99-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d57e23f50f78bb7608143888ddfff9c6/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'The Art Teacher',
+		artist: 'Rufus Wainwright',
+		id: 978798,
+		preview: 'https://cdn-preview-d.dzcdn.net/stream/c-d1e77dd666766a5074f25130dbd7b1cc-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/5771d76beec491e5a7a2d77bab8efa27/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Effortless',
 		artist: 'Sabina Ddumba',
 		id: 134952096,
@@ -4942,6 +5718,22 @@ export const original = [
 		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-201de15a87b607c021edb7cec9dfa03e-9.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/b4fd55d4983487a564b158da458b2443/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'By Your Side',
+		artist: 'Sade',
+		id: 10686142,
+		preview: 'https://cdn-preview-d.dzcdn.net/stream/c-d26c992620b7cb71e6663dc4add7ebaf-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/e2fd836cedf9336dc5c725dc3c4df5e0/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Smooth Operator',
+		artist: 'Sade',
+		id: 1030591232,
+		preview: 'https://cdn-preview-8.dzcdn.net/stream/c-8d289fb5d00e6e960df774774d9c3498-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/45443734d0de7e2f8ee2933992a14899/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Played-A-Live (The Bongo Song)',
@@ -5141,6 +5933,22 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/36694a91ac30b4e08d09bb2d505cf49f/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'La Ritournelle',
+		artist: 'Sebastien Tellier',
+		id: 2751407851,
+		preview: 'https://cdn-preview-7.dzcdn.net/stream/c-75ed3037482f4e59f795817f64def9b6-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/7036c5cb887a7ac7516057ca04774e2d/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Younger',
+		artist: 'Seinabo Sey',
+		id: 110150136,
+		preview: 'https://cdn-preview-d.dzcdn.net/stream/c-d4eb4d62e6e971d59b49cd38af7b454c-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/5dba373424a03ac53c465b5f61fba1b8/250x250-000000-80-0-0.jpg'
+	},
+	{
 		artist: 'Shaggy',
 		title: "It Wasn't Me",
 		id: 2122532,
@@ -5239,6 +6047,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/36ef26001118282b59659568f267bc36/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Magnetic City',
+		artist: 'Silverbullit',
+		id: 702004592,
+		preview: 'https://cdn-preview-b.dzcdn.net/stream/c-b15dcbe0d30b47fdd1d9f893d5c2fb44-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0be85995d31ee9159eede32e05b754bf/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Alive And Kicking',
 		artist: 'Simple Minds',
 		id: 58831541,
@@ -5275,6 +6091,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/0859b2389fd038c2f764a0d7166e1ddd/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Bam Bam',
+		artist: 'Sister Nancy',
+		id: 709090552,
+		preview: 'https://cdn-preview-e.dzcdn.net/stream/c-edcaddbbe23bca3de1a9951379c56f95-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/151db2017f67fb63c1d70efc45eb87a9/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Lost in Music',
 		artist: 'Sister Sledge',
 		id: 846328,
@@ -5300,6 +6124,14 @@ export const original = [
 		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-038591e63d61995293b17b85ff5ce11d-7.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/c37356b5ada5f3a79689653f7a6f5067/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'If You Want Me To Stay',
+		artist: 'Sly & The Family Stone',
+		id: 1069463452,
+		preview: 'https://cdn-preview-4.dzcdn.net/stream/c-43a4c58a7a6864c5ffea7dede5198a08-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/6d7ba92d5138f0ce8164da342c8e3b63/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'All Star',
@@ -5338,6 +6170,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/a809e8767a0cc557be1c894c5ed1c71e/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Losing You',
+		artist: 'Solange',
+		id: 1947524347,
+		preview: 'https://cdn-preview-5.dzcdn.net/stream/c-523171ec195defbf413333eab2ab22e7-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/84445c218db2e259512b3e3a59dd519e/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Cry to Me',
 		artist: 'Solomon Burke',
 		id: 672732,
@@ -5354,6 +6194,14 @@ export const original = [
 		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-750099e4fc8d5ddfbb110441af5eef44-11.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/1ebbc4b4ee98befdb3c342aef82af73e/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Bipp',
+		artist: 'Sophie',
+		id: 1054951722,
+		preview: 'https://cdn-preview-e.dzcdn.net/stream/c-e54c0f0546f67545387585b464831a5c-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/95b5f29f2325ec9e039c09f929c9b4cb/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Runaway Train',
@@ -5419,6 +6267,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/ba80f264e3b7c2426e409399d3c22f84/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Music Sounds Better With You',
+		artist: 'Stardust',
+		id: 695110932,
+		preview: 'https://cdn-preview-a.dzcdn.net/stream/c-acb9bc3b9e2fdc99aa9b35cd473fc33a-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/ee56e4b369c91ad8d2c9f7b419d5f600/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: "Nothing's Gonna Stop Us Now",
 		artist: 'Starship',
 		id: 602137932,
@@ -5462,6 +6318,14 @@ export const original = [
 		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-028af9e88956de62defabf7dc8293723-12.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/cca2a5854f722f615dddf22ca9d93804/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Superstition',
+		artist: 'Stevie Wonder',
+		id: 596034702,
+		preview: 'https://cdn-preview-4.dzcdn.net/stream/c-4ea705a7afa840ef44a546e295397bd2-15.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/dc11aaf0240dbaf1548639e1c5df8db8/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Desert Rose',
@@ -5608,6 +6472,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/1f829d18efbdb8a54fbca7701d5098a9/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'This Must Be The Place',
+		artist: 'Talking Heads',
+		id: 2996826931,
+		preview: 'https://cdn-preview-6.dzcdn.net/stream/c-6738b113839e6b14ae60342bbd6b8156-11.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/f00b1d6d6d9552192caffba792d2643c/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Sleeping Satellite',
 		artist: 'Tasmin Archer',
 		id: 3115574,
@@ -5642,6 +6514,22 @@ export const original = [
 		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e2644d171e6b7832e3555cf8f5d50ff1-7.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/8ddb94a0ba17254188a54d18b6173f7f/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Marquee Moon',
+		artist: 'Television',
+		id: 2871955992,
+		preview: 'https://cdn-preview-7.dzcdn.net/stream/c-726e012d7ca8f48a8a0d4637933e3076-1.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/09fbba314e105e9e4e346cb369ab58ba/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'It Takes A Fool To Remain Sane',
+		artist: 'The Ark',
+		id: 3254663,
+		preview: 'https://cdn-preview-8.dzcdn.net/stream/c-8f3713c8fd978eb07b3b421e09c50986-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/365e9884a2e58e3afc9633f6c03c4108/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Love Shack',
@@ -5680,6 +6568,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/0a9121464332223e7cb452040f5ddb70/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'A Day In The Life',
+		artist: 'The Beatles',
+		id: 126848611,
+		preview: 'https://cdn-preview-2.dzcdn.net/stream/c-282377c2ac40979e1cc6416e064df8b3-10.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/35621b78e11aeeca37f6fa275100482f/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'All You Need Is Love',
 		artist: 'The Beatles',
 		id: 116348734,
@@ -5687,6 +6583,22 @@ export const original = [
 		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2cbea4cbaf6cc54b8bd66dcaaa2b59c9-7.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/c105ffd0f6855c565cd3a0be47a1ee31/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Let It Be',
+		artist: 'The Beatles',
+		id: 116348656,
+		preview: 'https://cdn-preview-e.dzcdn.net/stream/c-e7e6e2142422aa4599294dee57197be9-13.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/fcf05300b7c17ec77a6d01028a4bef61/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Something',
+		artist: 'The Beatles',
+		id: 116348454,
+		preview: 'https://cdn-preview-b.dzcdn.net/stream/c-b6e3344d5944b91ae070ca84d526c99b-11.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/aa94ab293730bb7845d2aa8c672b2c29/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'I Gotta Feeling',
@@ -5796,6 +6708,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/1dadf15bb8ea7e829bd69b2f3966c701/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Just Like Heaven',
+		artist: 'The Cure',
+		id: 1143636,
+		preview: 'https://cdn-preview-2.dzcdn.net/stream/c-2a3fc9c2b97c5a19b10108ad2edcfe64-9.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/21d780d99cbe7eb5e1d8b5d31fce28c8/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Iris',
 		artist: 'The Goo Goo Dolls',
 		id: 4209117,
@@ -5850,6 +6770,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/65689ec5162126a39cf7bff42a28ba50/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Waterloo Sunset',
+		artist: 'The Kinks',
+		id: 143120830,
+		preview: 'https://cdn-preview-8.dzcdn.net/stream/c-895911fe707000ddcd1917257a5cdcb2-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/6c6fe9d652ab6c1e87e4005347b7ebdf/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'My Sharona',
 		artist: 'The Knack',
 		id: 6812046,
@@ -5859,6 +6787,22 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/87655ffd4c1910baa30c5459cbfaadb9/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Silent Shout',
+		artist: 'The Knife',
+		id: 1895198677,
+		preview: 'https://cdn-preview-6.dzcdn.net/stream/c-6c68bd7d62bdc42aa03daf798b131e57-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/67a54076a8be26f66f38ec15f22a22f6/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: "California Dreamin'",
+		artist: 'The Mamas & The Papas',
+		id: 1700431817,
+		preview: 'https://cdn-preview-9.dzcdn.net/stream/c-9ee1d21aabc5e506d9d52e91aaf700ea-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/930d018d6832e4ad74e80820de12b490/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Daydream Believer',
 		artist: 'The Monkees',
 		id: 728925,
@@ -5866,6 +6810,14 @@ export const original = [
 		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-af13deb9955b853252841efe7f53f6f3-6.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/8ca2f96e8c7bb5c148f18b2d6e065662/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Juicy',
+		artist: 'The Notorious B.I.G.',
+		id: 3616616,
+		preview: 'https://cdn-preview-a.dzcdn.net/stream/c-a2dad7fb4bbf98c087b0584c43a4d110-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/040e3ac9807dc840e8139a29e1ba6c7d/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Pretty Fly (For A White Guy)',
@@ -5931,6 +6883,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/566d28d32080a6d82a2d4d145ea5ea7e/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Pulling Our Weight',
+		artist: 'The Radio Dept.',
+		id: 1881046607,
+		preview: 'https://cdn-preview-e.dzcdn.net/stream/c-e7ef19edceaf0c1dbc0776b8ada29a04-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/3ef8ccef43e690a2cadc11ac30b9bfb9/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Unchained Melody',
 		artist: 'The Righteous Brothers',
 		id: 885544,
@@ -5938,6 +6898,22 @@ export const original = [
 		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-00591b3adbdd0ee9879ebf9252d41316-6.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/4d10d999f93483e2ea1a4e3496d8d72e/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'You Got Me',
+		artist: 'The Roots',
+		id: 1005379642,
+		preview: 'https://cdn-preview-d.dzcdn.net/stream/c-d04e40a8ed3971946d74b363ef5a2e62-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/f94c54a7d4332f98af7d057ae229a701/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Cherry Bomb',
+		artist: 'The Runaways',
+		id: 555257492,
+		preview: 'https://cdn-preview-6.dzcdn.net/stream/c-6586d60f5b0b346fd6c0235b76c45e16-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/334efcf8820aee127968c4f6a404c58c/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'This Charming Man',
@@ -5949,6 +6925,30 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/57d3a0dd210f59a53b889d2afb20c402/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Ghost Town',
+		artist: 'The Specials',
+		id: 1798538807,
+		preview: 'https://cdn-preview-4.dzcdn.net/stream/c-4809922352abb60b1dd74a4b1319629c-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/add720bfc9c12dc58dd19911344b0f07/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'I Wanna Be Adored',
+		artist: 'The Stone Roses',
+		id: 15593069,
+		preview: 'https://cdn-preview-f.dzcdn.net/stream/c-fe3824d792bd8e4ccdc6e9c8276ecab2-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/25441fdb2226898b98a68242b7f52b0f/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'I Wanna Be Your Dog',
+		artist: 'The Stooges',
+		id: 7230321,
+		preview: 'https://cdn-preview-2.dzcdn.net/stream/c-268cda08922e936854371d3c57f53aa1-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/1f7dae00f754a66935becf64f6f3dbc6/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Golden Brown',
 		artist: 'The Stranglers',
 		id: 3152622,
@@ -5958,6 +6958,22 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/510f299a5e25a267f0dde2dcfd41d0f1/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Has It Come To This',
+		artist: 'The Streets',
+		id: 873931222,
+		preview: 'https://cdn-preview-7.dzcdn.net/stream/c-71dee7ef4f77f6f53f487aa637023a73-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/5e00865088059bd00665b83029f13b93/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Last Nite',
+		artist: 'The Strokes',
+		id: 958109,
+		preview: 'https://cdn-preview-1.dzcdn.net/stream/c-18fb0e88bdaef1e6b00e73b4caf170f3-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/700f0375d5ac8570f16a2c7eb128303f/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'My Girl',
 		artist: 'The Temptations',
 		id: 1156952,
@@ -5965,6 +6981,14 @@ export const original = [
 		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e210a366364e907920d40326238d9dbb-11.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/4b491c556300c84af39e5fe07dd1e34c/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Teenage Kicks',
+		artist: 'The Undertones',
+		id: 143056480,
+		preview: 'https://cdn-preview-0.dzcdn.net/stream/c-0c8b391234649be4a18bc9f9c18853cb-1.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0f62bda93d35bcf23aa842250ccfe3a8/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Bitter Sweet Symphony',
@@ -5994,6 +7018,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/9fe1f7455be7fa598bf2777ad15f08d8/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Save Your Tears',
+		artist: 'The Weeknd',
+		id: 908604632,
+		preview: 'https://cdn-preview-3.dzcdn.net/stream/c-31bb797f043b544baa792ccf827e5cd8-8.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/fd00ebd6d30d7253f813dba3bb1c66a9/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'And the Beat Goes On',
 		artist: 'The Whispers',
 		id: 131212454,
@@ -6001,6 +7033,14 @@ export const original = [
 		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-74fc7254eda3b1be43785714bed70fa1-5.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/1576b2e2f508ed996238bc9913c0fed0/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Intro',
+		artist: 'The Xx',
+		id: 3787855,
+		preview: 'https://cdn-preview-c.dzcdn.net/stream/c-c1ce92636d9b37c0cb2d6210b772d76b-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0e6287242c26c8e469c65c47198dd4f3/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Give It To Me',
@@ -6039,15 +7079,6 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/6fcc0f75aaa955309c6377b1b6387ad9/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Talking to the Man In the Moon',
-		artist: 'Titiyo',
-		id: 371781181,
-		release_date: '2014-10-09',
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c032c244a8d72a614b172fa674bc0c1a-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/2c3c1951939e36e9e0d4b80b72fc91b1/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Come Along (Active Dance Remix - Remastered)',
 		artist: 'Titiyo',
 		id: 72213544,
@@ -6055,6 +7086,15 @@ export const original = [
 		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c67047321313115757de6235da77d3ed-0.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/3da1a9ddd77675cfeeed813aff749649/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Talking to the Man In the Moon',
+		artist: 'Titiyo',
+		id: 371781181,
+		release_date: '2014-10-09',
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c032c244a8d72a614b172fa674bc0c1a-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/2c3c1951939e36e9e0d4b80b72fc91b1/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Creep',
@@ -6093,6 +7133,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/3134fd3fba883b4e6c8df8dc1487dbef/250x250-000000-80-0-0.jpg'
 	},
 	{
+		artist: 'Tom Jones',
+		title: "She's a lady",
+		id: 549298332,
+		preview: 'https://cdn-preview-d.dzcdn.net/stream/c-dbbe11c01b16a969cc876ce461c00845-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/2058b5f98d8d3c998b213e7ec9b8432f/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Un-Break My Heart',
 		artist: 'Toni Braxton',
 		id: 632936,
@@ -6125,6 +7173,14 @@ export const original = [
 		id: 84669141,
 		release_date: '2014-09-29',
 		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6a9048c1a025d1dfff739feb43df4c28-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/bca07a0bfaaf112657e078b3cbc48d82/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Stay High (Habits Remix)',
+		artist: 'Tove Lo',
+		id: 84669149,
+		preview: 'https://cdn-preview-4.dzcdn.net/stream/c-4358220637e85f5e965d805753f3c072-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/bca07a0bfaaf112657e078b3cbc48d82/250x250-000000-80-0-0.jpg'
 	},
@@ -6210,6 +7266,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/57ffff16dc7fff50b677277367f3fb6f/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Confessions Part II',
+		artist: 'Usher',
+		id: 837916,
+		preview: 'https://cdn-preview-2.dzcdn.net/stream/c-22d8736517bb7384b40ef450026e8d17-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/1a727988b4762a5bd8f05e064753d381/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Jump',
 		artist: 'Van Halen',
 		id: 97098410,
@@ -6273,6 +7337,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/5b9f7f702c76d22e23cabc3fa706a100/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'In League With Satan',
+		artist: 'Venom',
+		id: 131296084,
+		preview: 'https://cdn-preview-1.dzcdn.net/stream/c-13af49cc6870bd89a90e66dd30723a8a-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/fab7b8490e9f669967d00e53d5506ab8/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'YMCA',
 		artist: 'Village People',
 		id: 78595927,
@@ -6309,15 +7381,6 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/20b10e7e4c9c3eb5ebcf389958d0deef/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Touch Me',
-		artist: 'Weeping Willows',
-		id: 522925882,
-		release_date: '2001-12-01',
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0fed6416906abf262c6a133901ce9ff5-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/9e39c2494e77c093f77b804d177939e9/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'The Burden',
 		artist: 'Weeping Willows',
 		id: 12764059,
@@ -6327,12 +7390,13 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/4d299491ed3b455ba0c586a6d0d857de/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Westlife',
-		title: 'My Love',
-		id: 993615,
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-cc34dbf4472a140993f06b0cbc06ab57-6.mp3',
+		title: 'Touch Me',
+		artist: 'Weeping Willows',
+		id: 522925882,
+		release_date: '2001-12-01',
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0fed6416906abf262c6a133901ce9ff5-3.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/031a6c4a0067a19d68a215387f1fe2e2/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/9e39c2494e77c093f77b804d177939e9/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Westlife',
@@ -6352,11 +7416,11 @@ export const original = [
 	},
 	{
 		artist: 'Westlife',
-		title: 'Uptown girl',
-		id: 391575892,
-		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-375ebba11484ea5765a66ebd3afcabfb-6.mp3',
+		title: 'My Love',
+		id: 993615,
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-cc34dbf4472a140993f06b0cbc06ab57-6.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/60a005c42286625a1bf20d3c0c64c394/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/031a6c4a0067a19d68a215387f1fe2e2/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Westlife',
@@ -6365,6 +7429,14 @@ export const original = [
 		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3e84e21a8d1355b351a966f4b048d6ed-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/cdb92fd82c490801fd67afa7167db351/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Westlife',
+		title: 'Uptown girl',
+		id: 391575892,
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-375ebba11484ea5765a66ebd3afcabfb-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/60a005c42286625a1bf20d3c0c64c394/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Love Is All Around',
@@ -6439,6 +7511,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/e06e37cd6c0b10dde07ff71b4a95fc2a/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'C.R.E.A.M.',
+		artist: 'Wu Tang Clan',
+		id: 7860736,
+		preview: 'https://cdn-preview-f.dzcdn.net/stream/c-fd95038cdfe8cff6ea96b5894d096232-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/4b5a4310d9801512abcfd4b4ae04db77/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: "Don't Go",
 		artist: 'Yazoo',
 		id: 143039072,
@@ -6466,6 +7546,14 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/822810b3bfcfbe2fa10634a5d5fb580b/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Agony',
+		artist: 'Yung Lean',
+		id: 1692469987,
+		preview: 'https://cdn-preview-7.dzcdn.net/stream/c-7ff62f52264af8d447c694b0470eeb91-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/2f5ca2bf63b8fbff99582c9119bcff22/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'In the Year 2525',
 		artist: 'Zager & Evans',
 		id: 392461892,
@@ -6491,70 +7579,6 @@ export const original = [
 		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-95935b129b3f471ce8f64cf3519b6be7-11.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/706d994a9b906b857db6869183c30274/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Michael Learns To Rock',
-		title: 'The Actor',
-		id: 64507758,
-		preview: 'https://cdn-preview-1.dzcdn.net/stream/c-1bb22db487e83c7c80f7a5835fefcb33-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/e2f0bf5129592b57baa6e6cc657cfc9e/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Cornershop',
-		title: 'Brimful of Asha',
-		id: 1120922,
-		preview: 'https://cdn-preview-8.dzcdn.net/stream/c-893c7cb01666ae60ac4476a968284845-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/6b8d03b553b482d482bfd6d179cead9b/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Dropkick Murphys',
-		title: "I'm Shipping Up To Boston",
-		id: 378350101,
-		preview: 'https://cdn-preview-4.dzcdn.net/stream/c-43361df1083732bdd32fc77cc672d0f0-7.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/31d2561fda2ed4e5eaed4b6d81ef29d4/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Dropkick Murphys',
-		title: 'Rose Tattoo',
-		id: 72011057,
-		preview: 'https://cdn-preview-f.dzcdn.net/stream/c-f84eb1b36d0ff8ccd21a0439bf401d8d-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/659c527403b587b3a166e21ae4569a62/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Tom Jones',
-		title: "She's a lady",
-		id: 549298332,
-		preview: 'https://cdn-preview-d.dzcdn.net/stream/c-dbbe11c01b16a969cc876ce461c00845-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/2058b5f98d8d3c998b213e7ec9b8432f/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Goldfinger',
-		title: 'Superman',
-		id: 7978573,
-		preview: 'https://cdn-preview-6.dzcdn.net/stream/c-6b1535b852166f32a1ce55ba6ebe9cdc-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/ab9a711817cbf9e24fbfba88c192681c/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Flogging Molly',
-		title: 'Drunken Lullabies',
-		id: 1795591547,
-		preview: 'https://cdn-preview-c.dzcdn.net/stream/c-cc0540561a3b19c2f6696b364e148b44-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/e9465a514efaea0eda0b1b8e3d59f137/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Flogging Molly',
-		title: 'If I Ever Leave This World Alive',
-		id: 67292556,
-		preview: 'https://cdn-preview-1.dzcdn.net/stream/c-124a09b3bd8144564dc3f8664af69598-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/44e5c33129f1a78f2e744820b7130be3/250x250-000000-80-0-0.jpg'
 	}
 ];
 
@@ -6732,19 +7756,19 @@ export const disney = [
 	},
 	{
 		artist: 'Haakon Pedersen',
-		title: 'Här kommer Piff och Puff (Räddningspatrullen)',
+		title: 'Här kommer Bumbibjörnarna',
 		release_date: '2017-10-27',
-		id: 420173622,
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bb4ea03008e0d122db21f8d766a9bb8c-2.mp3',
+		id: 420173612,
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-597321c760b354111f57bf65f2346783-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/73c819fb5b88d36cc51d2bf82961260f/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Haakon Pedersen',
-		title: 'Här kommer Bumbibjörnarna',
+		title: 'Här kommer Piff och Puff (Räddningspatrullen)',
 		release_date: '2017-10-27',
-		id: 420173612,
-		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-597321c760b354111f57bf65f2346783-3.mp3',
+		id: 420173622,
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bb4ea03008e0d122db21f8d766a9bb8c-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/73c819fb5b88d36cc51d2bf82961260f/250x250-000000-80-0-0.jpg'
 	},
@@ -6759,21 +7783,21 @@ export const disney = [
 	},
 	{
 		artist: 'Heléne Lundström',
-		title: 'Färger i en vind (Pocahontas)',
-		release_date: '2009-01-01',
-		id: 15669310,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1d6e3c7bfddaeb90ae270c1e9d2fb27d-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/a312835b98be7fea57e2747708ff5ed8/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Heléne Lundström',
 		title: 'Floden har sin egen väg (Pocahontas)',
 		release_date: '2016-10-07',
 		id: 133638290,
 		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b7814fab8e379584e62637c6866c277b-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/9474007d32943047e90520e8a7453af9/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Heléne Lundström',
+		title: 'Färger i en vind (Pocahontas)',
+		release_date: '2009-01-01',
+		id: 15669310,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1d6e3c7bfddaeb90ae270c1e9d2fb27d-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/a312835b98be7fea57e2747708ff5ed8/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Jill Johnson',
@@ -6885,19 +7909,19 @@ export const disney = [
 	},
 	{
 		artist: 'Molly Sandén',
-		title: 'När börjar livet (Trassel)',
-		release_date: '2016-10-07',
-		id: 136863590,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-16a818ef3e2353a8ed77434d87fc3597-2.mp3',
+		title: 'En dröm som kan bli sann (Trassel)',
+		release_date: '2016-11-25',
+		id: 136863568,
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a2bdf5713ecc6a7c2468b7f893f3272b-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/1117683f731c91a2f14e6d94ec43127b/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Molly Sandén',
-		title: 'En dröm som kan bli sann (Trassel)',
-		release_date: '2016-11-25',
-		id: 136863568,
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a2bdf5713ecc6a7c2468b7f893f3272b-3.mp3',
+		title: 'När börjar livet (Trassel)',
+		release_date: '2016-10-07',
+		id: 136863590,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-16a818ef3e2353a8ed77434d87fc3597-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/1117683f731c91a2f14e6d94ec43127b/250x250-000000-80-0-0.jpg'
 	},
@@ -6948,21 +7972,21 @@ export const disney = [
 	},
 	{
 		artist: 'Per Myrberg',
-		title: 'Havet är djupt (Den lilla sjöjungfrun)',
-		release_date: '2012-01-01',
-		id: 61873234,
-		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-de0a7474b3e2d4e3b023325f66737a42-1.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/c86f7eda82e2764430710f22963d9cb6/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Per Myrberg',
 		title: 'Alla Snubbar Vill Ju Vara Katt (Aristocats)',
 		release_date: '2009-01-01',
 		id: 15669283,
 		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-642a4b75a3e1de3e0e293d4ac6ac0f12-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/a312835b98be7fea57e2747708ff5ed8/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Per Myrberg',
+		title: 'Havet är djupt (Den lilla sjöjungfrun)',
+		release_date: '2012-01-01',
+		id: 61873234,
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-de0a7474b3e2d4e3b023325f66737a42-1.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/c86f7eda82e2764430710f22963d9cb6/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Per Myrberg',
@@ -7011,6 +8035,15 @@ export const disney = [
 	},
 	{
 		artist: 'Sandra Kassman',
+		title: 'Alla vi (Encanto)',
+		release_date: '2021-11-26',
+		id: 1564448182,
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7c5ad712386e99a2fafaa435056b01d2-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/800ec5b811e969d387f5341dd9c66b0d/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Sandra Kassman',
 		title: 'Familjen Madrigal (Encanto)',
 		release_date: '2021-11-26',
 		id: 1564448122,
@@ -7024,15 +8057,6 @@ export const disney = [
 		release_date: '2021-11-26',
 		id: 1564448132,
 		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-686a9b75ec9df0d197f61fdc6946903f-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/800ec5b811e969d387f5341dd9c66b0d/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Sandra Kassman',
-		title: 'Alla vi (Encanto)',
-		release_date: '2021-11-26',
-		id: 1564448182,
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7c5ad712386e99a2fafaa435056b01d2-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/800ec5b811e969d387f5341dd9c66b0d/250x250-000000-80-0-0.jpg'
 	},
@@ -7056,21 +8080,21 @@ export const disney = [
 	},
 	{
 		artist: 'Sofia Källgren',
-		title: 'Skönheten och Odjuret (Duett)',
-		release_date: '1991-01-01',
-		id: 347346081,
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6fdbfb9a5756c9baa61ac1eb37e10518-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/a9d85f532dc81b01ca182ad65206e59f/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Sofia Källgren',
 		title: 'Nånting som inte fanns förut (Skönheten och odjuret)',
 		release_date: '1991-01-01',
 		id: 15669322,
 		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f3c7081e16410b0250fb30c0be23195d-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/a312835b98be7fea57e2747708ff5ed8/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Sofia Källgren',
+		title: 'Skönheten och Odjuret (Duett)',
+		release_date: '1991-01-01',
+		id: 347346081,
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6fdbfb9a5756c9baa61ac1eb37e10518-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/a9d85f532dc81b01ca182ad65206e59f/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Stran Cetin',
@@ -7104,24 +8128,6 @@ export const special = [
 	},
 	{
 		artist: 'Arvingarna',
-		title: 'Ring om du vill nånting',
-		release_date: '2007',
-		id: 98755060,
-		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d6c403d2938205ab582da0fe9eb84044-0.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/017f94782ce15e986a40ae55fa01cd81/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Arvingarna',
-		title: "Va' hon inte vet",
-		release_date: '2007',
-		id: 98754994,
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a350c887366b89aea8a963ea64a685eb-0.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/62e88c2837c783a02df496c3da66e451/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Arvingarna',
 		title: 'Bo Diddley',
 		release_date: '2017-06-23',
 		id: 98755282,
@@ -7137,6 +8143,24 @@ export const special = [
 		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-52188bfdc392d3bdf6d96cc4f2f9e050-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/6278265f64b4aebc9c8bd2778cfa0da4/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Arvingarna',
+		title: 'Ring om du vill nånting',
+		release_date: '2007',
+		id: 98755060,
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d6c403d2938205ab582da0fe9eb84044-0.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/017f94782ce15e986a40ae55fa01cd81/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Arvingarna',
+		title: "Va' hon inte vet",
+		release_date: '2007',
+		id: 98754994,
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a350c887366b89aea8a963ea64a685eb-0.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/62e88c2837c783a02df496c3da66e451/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Berth Idoffs',
@@ -7194,21 +8218,21 @@ export const special = [
 	},
 	{
 		artist: 'Dolly Parton',
-		title: "Why'd You Come in Here Lookin' Like That",
-		release_date: '2007-03-07',
-		id: 628910,
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0c17aa6343e2833d65b662dd9f14bcbf-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/35c9bf0b81489bd88976f1223fe98e01/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Dolly Parton',
 		title: 'Higher and Higher',
 		release_date: '2004-06-07',
 		id: 580694,
 		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-297aeeb5d8c76e8cfc8e469e458aa01d-5.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/5089f778779f06a1e1e701a6727f0efc/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Dolly Parton',
+		title: "Why'd You Come in Here Lookin' Like That",
+		release_date: '2007-03-07',
+		id: 628910,
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0c17aa6343e2833d65b662dd9f14bcbf-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/35c9bf0b81489bd88976f1223fe98e01/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Egon Kjerrman',
@@ -7230,12 +8254,21 @@ export const special = [
 	},
 	{
 		artist: 'Eva Eastwood',
-		title: 'Vill & Vill Inte',
-		release_date: '2012-04-30',
-		id: 580142272,
-		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3b2771c666bd338477eb914fd9ee4b32-2.mp3',
+		title: 'Allting Om Kjell',
+		release_date: '2004-05-17',
+		id: 580152272,
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d97dc806fab95d55751c8f74f5383a8d-2.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/940519b02ae29ef2ce0c10adcb7e7500/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/99d0072d76d8d5ffbd3c1a8a8a420c52/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Eva Eastwood',
+		title: 'Betala Din Räkning Bill',
+		release_date: '2004-05-17',
+		id: 580152312,
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-76be86da010142f7b9a488ad1c31d894-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/99d0072d76d8d5ffbd3c1a8a8a420c52/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Eva Eastwood',
@@ -7257,12 +8290,30 @@ export const special = [
 	},
 	{
 		artist: 'Eva Eastwood',
-		title: 'Åh, Peter',
-		release_date: '2012-04-30',
-		id: 580205662,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1af0c89360f217a4033aa1d48270ede8-2.mp3',
+		title: 'Bumper To Bumper',
+		release_date: '2003-12-10',
+		id: 580085022,
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-541597d1438e06c576f1ec0f7e3cda01-2.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/e810bb1d963d4c89cdf85e7889319d15/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/f96cbf7581f2f01b4a0d36e35f7f5505/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Eva Eastwood',
+		title: 'En Sådan Romeo',
+		release_date: '2004-05-17',
+		id: 580152222,
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-fd6f985ab5a6d04bfc60cb521de37ad8-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/99d0072d76d8d5ffbd3c1a8a8a420c52/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Eva Eastwood',
+		title: 'Hopplöst Fall',
+		release_date: '2004-05-17',
+		id: 580152212,
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5ffa9916af47f50e502e757ef81f6e09-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/99d0072d76d8d5ffbd3c1a8a8a420c52/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Eva Eastwood',
@@ -7284,30 +8335,21 @@ export const special = [
 	},
 	{
 		artist: 'Eva Eastwood',
+		title: 'Johnny Min Vän',
+		release_date: '2004-05-17',
+		id: 580152332,
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6ec2c4dd51dbec02fcd3e927566d5b55-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/99d0072d76d8d5ffbd3c1a8a8a420c52/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Eva Eastwood',
 		title: "Mama Ain't Coming Back",
 		release_date: '2003-12-10',
 		id: 580084962,
 		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3c29f2681d165902eaf2ebda27676f1d-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/f96cbf7581f2f01b4a0d36e35f7f5505/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Eva Eastwood',
-		title: 'Bumper To Bumper',
-		release_date: '2003-12-10',
-		id: 580085022,
-		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-541597d1438e06c576f1ec0f7e3cda01-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/f96cbf7581f2f01b4a0d36e35f7f5505/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Eva Eastwood',
-		title: 'Vårt Liv I Repris',
-		release_date: '2004-05-17',
-		id: 580152202,
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-28c5183be49d1bdfed235e0ae2c6938d-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/99d0072d76d8d5ffbd3c1a8a8a420c52/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Eva Eastwood',
@@ -7320,48 +8362,30 @@ export const special = [
 	},
 	{
 		artist: 'Eva Eastwood',
-		title: 'Johnny Min Vän',
+		title: 'Vill & Vill Inte',
+		release_date: '2012-04-30',
+		id: 580142272,
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3b2771c666bd338477eb914fd9ee4b32-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/940519b02ae29ef2ce0c10adcb7e7500/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Eva Eastwood',
+		title: 'Vårt Liv I Repris',
 		release_date: '2004-05-17',
-		id: 580152332,
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6ec2c4dd51dbec02fcd3e927566d5b55-2.mp3',
+		id: 580152202,
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-28c5183be49d1bdfed235e0ae2c6938d-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/99d0072d76d8d5ffbd3c1a8a8a420c52/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Eva Eastwood',
-		title: 'Hopplöst Fall',
-		release_date: '2004-05-17',
-		id: 580152212,
-		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5ffa9916af47f50e502e757ef81f6e09-2.mp3',
+		title: 'Åh, Peter',
+		release_date: '2012-04-30',
+		id: 580205662,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1af0c89360f217a4033aa1d48270ede8-2.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/99d0072d76d8d5ffbd3c1a8a8a420c52/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Eva Eastwood',
-		title: 'En Sådan Romeo',
-		release_date: '2004-05-17',
-		id: 580152222,
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-fd6f985ab5a6d04bfc60cb521de37ad8-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/99d0072d76d8d5ffbd3c1a8a8a420c52/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Eva Eastwood',
-		title: 'Allting Om Kjell',
-		release_date: '2004-05-17',
-		id: 580152272,
-		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d97dc806fab95d55751c8f74f5383a8d-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/99d0072d76d8d5ffbd3c1a8a8a420c52/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Eva Eastwood',
-		title: 'Betala Din Räkning Bill',
-		release_date: '2004-05-17',
-		id: 580152312,
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-76be86da010142f7b9a488ad1c31d894-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/99d0072d76d8d5ffbd3c1a8a8a420c52/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/e810bb1d963d4c89cdf85e7889319d15/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Fernandoz',
@@ -7392,15 +8416,6 @@ export const special = [
 	},
 	{
 		artist: 'Grönwalls',
-		title: 'Varje litet ögonkast',
-		release_date: '2008-08-27',
-		id: 12565919,
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-efc96b4f07cf7ae2903656e7958f5047-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/45434a972fc61278e7b78d91f7e00195/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Grönwalls',
 		title: 'Du ringde från Flen',
 		release_date: '2010-11-19',
 		id: 15659693,
@@ -7409,13 +8424,13 @@ export const special = [
 			'https://e-cdns-images.dzcdn.net/images/cover/8aa4a4e8c30612d14b689c18463c459b/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Jerry Lee Lewis',
-		title: "Whole Lotta Shakin' Goin' On",
-		release_date: '2008-06-10',
-		id: 100257036,
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-09d9d3b259fac388621652767d79da85-2.mp3',
+		artist: 'Grönwalls',
+		title: 'Varje litet ögonkast',
+		release_date: '2008-08-27',
+		id: 12565919,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-efc96b4f07cf7ae2903656e7958f5047-3.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/122b7a06cf645fa9105ace09b6b7bc53/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/45434a972fc61278e7b78d91f7e00195/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Jerry Lee Lewis',
@@ -7425,6 +8440,15 @@ export const special = [
 		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-76a4b9aab1f55390487a33ad3956964e-1.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/033948bf4a03d0e6160c554aa8d1b698/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Jerry Lee Lewis',
+		title: "Whole Lotta Shakin' Goin' On",
+		release_date: '2008-06-10',
+		id: 100257036,
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-09d9d3b259fac388621652767d79da85-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/122b7a06cf645fa9105ace09b6b7bc53/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Jerry Williams',
@@ -7464,37 +8488,19 @@ export const special = [
 	},
 	{
 		artist: 'Lasse Stefanz',
-		title: 'Jambalaya (On the Bayou)',
+		title: 'Clap Your Hands and Stamp Your Feet',
 		release_date: '2009-06-01',
-		id: 6640483,
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7fe40d83db0080267931c013e3543132-3.mp3',
+		id: 2138494867,
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-779423b3e5a391e61cde2ffaa76c7580-5.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/a298a2a9af0e2a5bdb766e27f64a95d6/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/2e103d04bb60b38ac459793154b9159b/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Lasse Stefanz',
-		title: 'Skomakar-Anton',
-		release_date: '2006-12-13',
-		id: 3877812,
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-ebe7fd18a88c8f3da08e28c246134623-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/e5c0c78803a47541df2b6cc1eb57b9eb/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Lasse Stefanz',
-		title: 'Oh Julie',
-		release_date: '2006-12-13',
-		id: 3877802,
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-94dbd3b2ed5e5a48720cab206ec794df-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/e5c0c78803a47541df2b6cc1eb57b9eb/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Lasse Stefanz',
-		title: 'Kalla det drömmar om du vill',
-		release_date: '2008-05-15',
-		id: 2138494937,
-		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-dbf26c6fe81aeaf21346bfc793945691-4.mp3',
+		title: 'Du försvann som en vind',
+		release_date: '2015-11-27',
+		id: 2138494547,
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6fd89a6af591cefe99f058209c7c4eef-5.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/2e103d04bb60b38ac459793154b9159b/250x250-000000-80-0-0.jpg'
 	},
@@ -7509,21 +8515,39 @@ export const special = [
 	},
 	{
 		artist: 'Lasse Stefanz',
-		title: 'Clap Your Hands and Stamp Your Feet',
+		title: 'Har du glömt',
+		release_date: '2012-06-25',
+		id: 3529322,
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d0602e81b640d5a817f6c0ff407bec72-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/09313881a751eab854b91d98d4ee86bc/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Lasse Stefanz',
+		title: 'Jambalaya (On the Bayou)',
 		release_date: '2009-06-01',
-		id: 2138494867,
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-779423b3e5a391e61cde2ffaa76c7580-5.mp3',
+		id: 6640483,
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7fe40d83db0080267931c013e3543132-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/a298a2a9af0e2a5bdb766e27f64a95d6/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Lasse Stefanz',
+		title: 'Kalla det drömmar om du vill',
+		release_date: '2008-05-15',
+		id: 2138494937,
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-dbf26c6fe81aeaf21346bfc793945691-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/2e103d04bb60b38ac459793154b9159b/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Lasse Stefanz',
-		title: 'Skattlösa bergen',
+		title: 'Oh Julie',
 		release_date: '2006-12-13',
-		id: 2138494707,
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f674757af31e088442c7edf803b543c4-4.mp3',
+		id: 3877802,
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-94dbd3b2ed5e5a48720cab206ec794df-5.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/2e103d04bb60b38ac459793154b9159b/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/e5c0c78803a47541df2b6cc1eb57b9eb/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Lasse Stefanz',
@@ -7536,21 +8560,21 @@ export const special = [
 	},
 	{
 		artist: 'Lasse Stefanz',
-		title: 'Har du glömt',
-		release_date: '2012-06-25',
-		id: 3529322,
-		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d0602e81b640d5a817f6c0ff407bec72-2.mp3',
+		title: 'Skattlösa bergen',
+		release_date: '2006-12-13',
+		id: 2138494707,
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f674757af31e088442c7edf803b543c4-4.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/09313881a751eab854b91d98d4ee86bc/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/2e103d04bb60b38ac459793154b9159b/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Lasse Stefanz',
-		title: 'Du försvann som en vind',
-		release_date: '2015-11-27',
-		id: 2138494547,
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6fd89a6af591cefe99f058209c7c4eef-5.mp3',
+		title: 'Skomakar-Anton',
+		release_date: '2006-12-13',
+		id: 3877812,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-ebe7fd18a88c8f3da08e28c246134623-5.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/2e103d04bb60b38ac459793154b9159b/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/e5c0c78803a47541df2b6cc1eb57b9eb/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Matz-Ztefanz med Lailaz',
@@ -7607,13 +8631,13 @@ export const special = [
 			'https://e-cdns-images.dzcdn.net/images/cover/6552a1450f30bcaec9401c18ed744e99/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Säwes',
-		title: 'Paloma Blanca',
-		release_date: '1975',
-		id: 368366861,
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e3cdc86611432a826949bbde5ed4f223-8.mp3',
+		artist: 'Schytts',
+		title: 'Moviestar',
+		release_date: '1976',
+		id: 3886028,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-ec971f96908391397935f4dd253f53a5-2.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/773cc62baadedfefce4867f9abce6537/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/649503e7f62b291f7d0b6cd3cd16fb58/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Schytts',
@@ -7630,15 +8654,6 @@ export const special = [
 		release_date: '1974-01-01',
 		id: 3886044,
 		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5f0490122a7f008973626496d3b04c9d-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/649503e7f62b291f7d0b6cd3cd16fb58/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Schytts',
-		title: 'Moviestar',
-		release_date: '1976',
-		id: 3886028,
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-ec971f96908391397935f4dd253f53a5-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/649503e7f62b291f7d0b6cd3cd16fb58/250x250-000000-80-0-0.jpg'
 	},
@@ -7662,6 +8677,15 @@ export const special = [
 	},
 	{
 		artist: 'Sven-Ingvars',
+		title: 'Fröken Fräken',
+		release_date: '1995-01-01',
+		id: 12566990,
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-39295a899beed34a277b03bc178ba602-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/cbbbfc2e00ebc6a8de557224b8c08bd4/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Sven-Ingvars',
 		title: 'Jag ringer på fredag',
 		release_date: '1998-01-01',
 		id: 113835716,
@@ -7679,13 +8703,13 @@ export const special = [
 			'https://e-cdns-images.dzcdn.net/images/cover/7f356eb28c366acf9c8c27b895871b4a/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Sven-Ingvars',
-		title: 'Fröken Fräken',
-		release_date: '1995-01-01',
-		id: 12566990,
-		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-39295a899beed34a277b03bc178ba602-7.mp3',
+		artist: 'Säwes',
+		title: 'Paloma Blanca',
+		release_date: '1975',
+		id: 368366861,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e3cdc86611432a826949bbde5ed4f223-8.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/cbbbfc2e00ebc6a8de557224b8c08bd4/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/773cc62baadedfefce4867f9abce6537/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'The Errols',
@@ -7743,6 +8767,15 @@ export const special = [
 	},
 	{
 		artist: 'Vikingarna',
+		title: 'Djingis Khan - Svensk version',
+		release_date: '1979-01-01',
+		id: 130890810,
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f12dd58341db3768ec1dc44bab727a2c-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/2e3b2395416c664217eb406659ccc6e4/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Vikingarna',
 		title: 'Du försvann som en vind',
 		release_date: '2016-08-26',
 		id: 130890814,
@@ -7756,15 +8789,6 @@ export const special = [
 		release_date: '1978-01-01',
 		id: 130890804,
 		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-80bbec8fb9d3f9e97a606a5b271212f7-9.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/2e3b2395416c664217eb406659ccc6e4/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Vikingarna',
-		title: 'Djingis Khan - Svensk version',
-		release_date: '1979-01-01',
-		id: 130890810,
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f12dd58341db3768ec1dc44bab727a2c-6.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/2e3b2395416c664217eb406659ccc6e4/250x250-000000-80-0-0.jpg'
 	},
@@ -7817,15 +8841,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/ace1740f62f1170292557329195ee582/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Lou Lou',
-		artist: 'Albin Lee Meldau',
-		id: 120354670,
-		release_date: '2016-03-04',
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-665d3eb7bde830f3b1119e0aec510784-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/8ec76e0fb234ac06c97a90f9f5f36ac1/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Josefin',
 		artist: 'Albin Lee Meldau',
 		id: 1493791692,
@@ -7833,6 +8848,15 @@ export const swedish = [
 		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e1be644e776c87bf98a2ec9a231a1421-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/a24d9292679a4f92358e8126ce2389b9/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Lou Lou',
+		artist: 'Albin Lee Meldau',
+		id: 120354670,
+		release_date: '2016-03-04',
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-665d3eb7bde830f3b1119e0aec510784-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/8ec76e0fb234ac06c97a90f9f5f36ac1/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Alcazar',
@@ -7889,15 +8913,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/18ff314119c9c8722cb44d4b909a1a17/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Anders Glenmark',
-		title: 'Mare Mare',
-		release_date: '1991-10-21',
-		id: 1082898,
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8f8413b770c5d6102395178317ac6ef1-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/efe4dc7adc8f66288a55ec729e7e476a/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Hon har blommor i sitt hår',
 		artist: 'Anders Glenmark',
 		id: 1082747,
@@ -7914,6 +8929,15 @@ export const swedish = [
 		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0f5277b2961dd8e7307559bf5efd8375-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/8ba6131ff3f13dd6b32b7f52335e790b/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Anders Glenmark',
+		title: 'Mare Mare',
+		release_date: '1991-10-21',
+		id: 1082898,
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8f8413b770c5d6102395178317ac6ef1-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/efe4dc7adc8f66288a55ec729e7e476a/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Sommaren i City',
@@ -7935,10 +8959,10 @@ export const swedish = [
 	},
 	{
 		artist: 'Ansiktet',
-		title: 'Äckligt',
+		title: 'Låtsas som inget hänt',
 		release_date: '2013-01-01',
-		id: 2246260047,
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-913741b9c0f05f484632bf80c4657156-2.mp3',
+		id: 2246260007,
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bc93be57c364d01e9adfc49b548a5884-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/202a4d51aa52326594b81ea46c081d26/250x250-000000-80-0-0.jpg'
 	},
@@ -7953,10 +8977,10 @@ export const swedish = [
 	},
 	{
 		artist: 'Ansiktet',
-		title: 'Låtsas som inget hänt',
+		title: 'Äckligt',
 		release_date: '2013-01-01',
-		id: 2246260007,
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bc93be57c364d01e9adfc49b548a5884-2.mp3',
+		id: 2246260047,
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-913741b9c0f05f484632bf80c4657156-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/202a4d51aa52326594b81ea46c081d26/250x250-000000-80-0-0.jpg'
 	},
@@ -7968,15 +8992,6 @@ export const swedish = [
 		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b79db0751a8aa749286ecc38995586e8-5.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/800a29edd7b5d177651ec3dba6aa7fb1/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Arvingarna',
-		title: 'Tänker inte alls gå hem',
-		release_date: '2021-02-27',
-		id: 1236624642,
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-92eb0aa12fcf850e44f9b6f8fd3a88e6-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/854f77a966484977e6b9e1efc46071df/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Arvingarna',
@@ -8006,6 +9021,15 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/07542c65bdbb36d0b8154d3bfce6fa12/250x250-000000-80-0-0.jpg'
 	},
 	{
+		artist: 'Arvingarna',
+		title: 'Johanna',
+		release_date: '2017-06-23',
+		id: 660067132,
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-fe5b48ac9c184b3a4cc2ef5b3b93b64c-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/3ab696a1cbbf16d6f636c2f232a3f567/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Kung i stan',
 		artist: 'Arvingarna',
 		id: 98755102,
@@ -8025,12 +9049,12 @@ export const swedish = [
 	},
 	{
 		artist: 'Arvingarna',
-		title: 'Johanna',
-		release_date: '2017-06-23',
-		id: 660067132,
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-fe5b48ac9c184b3a4cc2ef5b3b93b64c-3.mp3',
+		title: 'Tänker inte alls gå hem',
+		release_date: '2021-02-27',
+		id: 1236624642,
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-92eb0aa12fcf850e44f9b6f8fd3a88e6-3.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/3ab696a1cbbf16d6f636c2f232a3f567/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/854f77a966484977e6b9e1efc46071df/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Attack',
@@ -8105,42 +9129,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/6a080c5b83727a8c0797a026f57b129d/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Håll mitt hjärta (Same Old Story)',
-		artist: 'Björn Skifs',
-		id: 3399875,
-		release_date: '2005-04-08',
-		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d3d7a7eb5c849e3bcb99ac902bb8c32a-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/ac28e7915f6a7f85c180893ed3a0824e/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Michelangelo (Men så svara då!)',
-		artist: 'Björn Skifs',
-		id: 3399859,
-		release_date: '2005-04-08',
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0c63cee8c2dcae3c3b94df05206abd41-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/ac28e7915f6a7f85c180893ed3a0824e/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Vild och vacker (2004 Remastered Version)',
-		artist: 'Björn Skifs',
-		id: 3399869,
-		release_date: '2005-04-08',
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-42de4cc9cd8a4f5ee92c1e1fb12bb1dd-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/ac28e7915f6a7f85c180893ed3a0824e/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'No Particular Place to Go',
-		artist: 'Björn Skifs',
-		id: 78871946,
-		release_date: '2014-06-09',
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9fc0acdc4d293e8db46d48e795cbbe4e-0.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/5c2c57c6525da9178cb532349ed53fd5/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Det blir alltid värre framåt natten',
 		artist: 'Björn Skifs',
 		id: 3399866,
@@ -8159,6 +9147,42 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/ac28e7915f6a7f85c180893ed3a0824e/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Håll mitt hjärta (Same Old Story)',
+		artist: 'Björn Skifs',
+		id: 3399875,
+		release_date: '2005-04-08',
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d3d7a7eb5c849e3bcb99ac902bb8c32a-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/ac28e7915f6a7f85c180893ed3a0824e/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Michelangelo (Men så svara då!)',
+		artist: 'Björn Skifs',
+		id: 3399859,
+		release_date: '2005-04-08',
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0c63cee8c2dcae3c3b94df05206abd41-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/ac28e7915f6a7f85c180893ed3a0824e/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'No Particular Place to Go',
+		artist: 'Björn Skifs',
+		id: 78871946,
+		release_date: '2014-06-09',
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9fc0acdc4d293e8db46d48e795cbbe4e-0.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/5c2c57c6525da9178cb532349ed53fd5/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Vild och vacker (2004 Remastered Version)',
+		artist: 'Björn Skifs',
+		id: 3399869,
+		release_date: '2005-04-08',
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-42de4cc9cd8a4f5ee92c1e1fb12bb1dd-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/ac28e7915f6a7f85c180893ed3a0824e/250x250-000000-80-0-0.jpg'
+	},
+	{
 		artist: 'Blond',
 		title: 'Bara Hon Älskar Mig',
 		release_date: '1997-10-27',
@@ -8168,24 +9192,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/c90254804d6ae1e9abc7a86ead820cbc/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Bo Kaspers Orkester',
-		title: 'Semester',
-		release_date: '2014-01-01',
-		id: 4301183,
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-90660f941be1e2a57df4b7899c4f15b5-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/b61650a88c550938423b2e5e4f19368c/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Bo Kaspers Orkester',
-		title: 'Undantag',
-		release_date: '2014-01-01',
-		id: 4301177,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1a0522aa1b9515965ba6e850902eff8a-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/b61650a88c550938423b2e5e4f19368c/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'En jävel vid mitt öra',
 		artist: 'Bo Kaspers Orkester',
 		id: 10157051,
@@ -8193,6 +9199,15 @@ export const swedish = [
 		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b1921c8b330a6a32023ab9cd2fcaa8f6-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/645b5e86013fd6747153fd330d189aee/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Hon är så söt',
+		artist: 'Bo Kaspers Orkester',
+		id: 4301178,
+		release_date: '2009-10-19',
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2e6a5381ab0d728a08f5356439f85d7a-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/b61650a88c550938423b2e5e4f19368c/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'I samma bil',
@@ -8213,20 +9228,11 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/b61650a88c550938423b2e5e4f19368c/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Vi kommer aldrig att dö (2009 Version)',
 		artist: 'Bo Kaspers Orkester',
-		id: 4301174,
-		release_date: '2009-10-19',
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-ca8c502f8cc9c0ee83bf904f1ad3ca47-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/b61650a88c550938423b2e5e4f19368c/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Hon är så söt',
-		artist: 'Bo Kaspers Orkester',
-		id: 4301178,
-		release_date: '2009-10-19',
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2e6a5381ab0d728a08f5356439f85d7a-3.mp3',
+		title: 'Semester',
+		release_date: '2014-01-01',
+		id: 4301183,
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-90660f941be1e2a57df4b7899c4f15b5-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/b61650a88c550938423b2e5e4f19368c/250x250-000000-80-0-0.jpg'
 	},
@@ -8247,6 +9253,24 @@ export const swedish = [
 		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-49875cfff0937fc4c0f52b8a0a44e36f-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/b39fb18cadd29dc159e5df6ebb3e9165/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Bo Kaspers Orkester',
+		title: 'Undantag',
+		release_date: '2014-01-01',
+		id: 4301177,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1a0522aa1b9515965ba6e850902eff8a-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/b61650a88c550938423b2e5e4f19368c/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Vi kommer aldrig att dö (2009 Version)',
+		artist: 'Bo Kaspers Orkester',
+		id: 4301174,
+		release_date: '2009-10-19',
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-ca8c502f8cc9c0ee83bf904f1ad3ca47-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/b61650a88c550938423b2e5e4f19368c/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Vi är såå lyckliga som bara olyckliga människor kan bli',
@@ -8285,11 +9309,20 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/cb97c106683498869f78ba375d714e91/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Shoreline',
+		title: 'Army of Dreamers',
 		artist: 'Broder Daniel',
-		id: 3106541,
+		id: 3405271,
+		release_date: '2003-10-01',
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bed03519844ea3370f1f60f8ed51c051-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/87008eec357857214ac1f95932b19808/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Cadillac (Demo -93)',
+		artist: 'Broder Daniel',
+		id: 3106547,
 		release_date: '2005-03-23',
-		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3898ab47a9b332e975b929e9e4af7a5f-3.mp3',
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b54dcaa91d3c1161d0f5ad5d035aec5a-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/ba1faa226188a4bc15ca3911f4d3bf67/250x250-000000-80-0-0.jpg'
 	},
@@ -8303,13 +9336,22 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/f2e0c3a9c9d6b22ddbe7b63b814df6f1/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'When We Were Winning',
+		title: 'Luke Skywalker',
 		artist: 'Broder Daniel',
-		id: 100421360,
-		release_date: '2015-05-22',
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-23759e677131331fb9545b9ee06fbe8d-3.mp3',
+		id: 3405352,
+		release_date: '2001-07-16',
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-147f1e23c3b81cc647c2cf3b160a793e-3.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/59e131fdca4dccdadd38602df205a984/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/a6a4bcf35fa51dc75155871f8b2c51aa/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Shoreline',
+		artist: 'Broder Daniel',
+		id: 3106541,
+		release_date: '2005-03-23',
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3898ab47a9b332e975b929e9e4af7a5f-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/ba1faa226188a4bc15ca3911f4d3bf67/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Underground',
@@ -8321,13 +9363,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/4832df4bc3e54681fec6b415e63a892f/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Army of Dreamers',
+		title: 'When We Were Winning',
 		artist: 'Broder Daniel',
-		id: 3405271,
-		release_date: '2003-10-01',
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bed03519844ea3370f1f60f8ed51c051-3.mp3',
+		id: 100421360,
+		release_date: '2015-05-22',
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-23759e677131331fb9545b9ee06fbe8d-3.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/87008eec357857214ac1f95932b19808/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/59e131fdca4dccdadd38602df205a984/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Work',
@@ -8337,24 +9379,6 @@ export const swedish = [
 		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-35a23faf6f375679f80a92494140e3ff-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/4832df4bc3e54681fec6b415e63a892f/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Cadillac (Demo -93)',
-		artist: 'Broder Daniel',
-		id: 3106547,
-		release_date: '2005-03-23',
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b54dcaa91d3c1161d0f5ad5d035aec5a-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/ba1faa226188a4bc15ca3911f4d3bf67/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Luke Skywalker',
-		artist: 'Broder Daniel',
-		id: 3405352,
-		release_date: '2001-07-16',
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-147f1e23c3b81cc647c2cf3b160a793e-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/a6a4bcf35fa51dc75155871f8b2c51aa/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Brolle',
@@ -8375,13 +9399,58 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/daf819a32a4e6069ff4b74553edf2838/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Främling',
 		artist: 'Carola',
-		title: 'Säg mig var du står',
+		id: 13208090,
+		release_date: '2008-02-18',
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4cd77ebc59306555a5e94556233986c2-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/ef2ade7c910bb6fa72277b391d7aad06/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Carola',
+		title: 'Fångad av en stormvind',
 		release_date: '1983-03-26',
-		id: 13208077,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1dc8ccc8886e78478bdf3455d085ebe2-5.mp3',
+		id: 13208103,
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d3fbd74cc612c33077a1568e35b7e2aa-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/ef2ade7c910bb6fa72277b391d7aad06/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Gloria',
+		artist: 'Carola',
+		id: 13208078,
+		release_date: '2008-02-09',
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b805078b4b6432cdf626188c81f710cd-6.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/8a28bd948d1f3e10ca1690553e75eb5e/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Mickey',
+		artist: 'Carola',
+		id: 13208096,
+		release_date: '2008-02-18',
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6c502ac6d36a62e69b54aded0ef43c60-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/ef2ade7c910bb6fa72277b391d7aad06/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Mitt i ett äventyr',
+		artist: 'Carola',
+		id: 13208080,
+		release_date: '2008-02-09',
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-84386354ff46f336af96309e9ad953ca-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/8a28bd948d1f3e10ca1690553e75eb5e/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'På egna ben',
+		artist: 'Carola',
+		id: 7779276,
+		release_date: '1991-05-31',
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f611763206bbfe4bb68d5a857256f461-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/666f4cb6e597b0798ebbc2ce923d7a0a/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Carola',
@@ -8394,21 +9463,12 @@ export const swedish = [
 	},
 	{
 		artist: 'Carola',
-		title: 'Fångad av en stormvind',
+		title: 'Säg mig var du står',
 		release_date: '1983-03-26',
-		id: 13208103,
-		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d3fbd74cc612c33077a1568e35b7e2aa-6.mp3',
+		id: 13208077,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1dc8ccc8886e78478bdf3455d085ebe2-5.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/ef2ade7c910bb6fa72277b391d7aad06/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Främling',
-		artist: 'Carola',
-		id: 13208090,
-		release_date: '2008-02-18',
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4cd77ebc59306555a5e94556233986c2-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/ef2ade7c910bb6fa72277b391d7aad06/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/8a28bd948d1f3e10ca1690553e75eb5e/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Tommy tycker om mig',
@@ -8418,42 +9478,6 @@ export const swedish = [
 		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6e07b9e6c9aba94c9f1de757541b86ee-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/6a3190bbe5bbafdfd764f816a0cafff3/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Mickey',
-		artist: 'Carola',
-		id: 13208096,
-		release_date: '2008-02-18',
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6c502ac6d36a62e69b54aded0ef43c60-7.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/ef2ade7c910bb6fa72277b391d7aad06/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'På egna ben',
-		artist: 'Carola',
-		id: 7779276,
-		release_date: '1991-05-31',
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f611763206bbfe4bb68d5a857256f461-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/666f4cb6e597b0798ebbc2ce923d7a0a/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Mitt i ett äventyr',
-		artist: 'Carola',
-		id: 13208080,
-		release_date: '2008-02-09',
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-84386354ff46f336af96309e9ad953ca-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/8a28bd948d1f3e10ca1690553e75eb5e/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Gloria',
-		artist: 'Carola',
-		id: 13208078,
-		release_date: '2008-02-09',
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b805078b4b6432cdf626188c81f710cd-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/8a28bd948d1f3e10ca1690553e75eb5e/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Snälla, snälla',
@@ -8510,13 +9534,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/975b9e01ca0560c2a11bab947738cef3/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Balladen om herr Fredrik Åkare och den söta fröken Cecilia Lind',
 		artist: 'Cornelis Vreeswijk',
-		title: 'Turistens Klagan',
-		release_date: '1978',
-		id: 581881162,
-		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5227eb2f53c35324425fba4b5ba1ee74-2.mp3',
+		id: 92461394,
+		release_date: '2007-01-01',
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3de45b2a0e0edb68e95c5a871e1dcf89-7.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/8e360a331b4fd53db2d14e1c465159c1/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/359dc03c11557732733ca505ef26b54d/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Somliga går med trasiga skor',
@@ -8528,13 +9552,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/b17121f3534a3e9929e102f0e929f119/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Balladen om herr Fredrik Åkare och den söta fröken Cecilia Lind',
 		artist: 'Cornelis Vreeswijk',
-		id: 92461394,
-		release_date: '2007-01-01',
-		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3de45b2a0e0edb68e95c5a871e1dcf89-7.mp3',
+		title: 'Turistens Klagan',
+		release_date: '1978',
+		id: 581881162,
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5227eb2f53c35324425fba4b5ba1ee74-2.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/359dc03c11557732733ca505ef26b54d/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/8e360a331b4fd53db2d14e1c465159c1/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Dag Vag',
@@ -8555,15 +9579,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/f6b603499b12ff7ac4612a4bea6c932c/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Skotthål',
-		artist: 'Daniel Adams-Ray',
-		id: 1582046032,
-		release_date: '2021-12-18',
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6e756ff20ab8279bd531d2c1f346a63d-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/71bebbf2ff5dccbda471ce4afee53ca4/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Gubben i lådan',
 		artist: 'Daniel Adams-Ray',
 		id: 7217375,
@@ -8573,6 +9588,24 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/f931e3c4976a10f8d0ba9aa796637564/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Skotthål',
+		artist: 'Daniel Adams-Ray',
+		id: 1582046032,
+		release_date: '2021-12-18',
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6e756ff20ab8279bd531d2c1f346a63d-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/71bebbf2ff5dccbda471ce4afee53ca4/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Amazing',
+		artist: 'Danny Saucedo',
+		id: 26844811,
+		release_date: '2015-02-07',
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-da4391d4d9c1d3e6be0ed1e8cfefe23d-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/8e4e874c89a9b0f59186a96e781b614c/250x250-000000-80-0-0.jpg'
+	},
+	{
 		artist: 'Danny Saucedo',
 		title: 'Brinner i bröstet (feat. Malcolm B)',
 		release_date: '2016-03-18',
@@ -8580,6 +9613,51 @@ export const swedish = [
 		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2b08ca710db2924cf58c630a81b485d8-1.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/c864c75f7f20a83fbcd1d8f78114c357/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Dör för dig',
+		artist: 'Danny Saucedo',
+		id: 104775736,
+		release_date: '2015-07-31',
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-aab0f1141130911be0764bd46debe225-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/a408aa67a47b83a123c613b1bf7af2eb/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Danny Saucedo',
+		title: 'För kärlekens skull',
+		release_date: '2016-12-11',
+		id: 137925659,
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3eac4fb8482eb89500f67601a55e7fef-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/1f0bcf828510745a381218e27bd17a32/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'If Only You',
+		artist: 'Danny Saucedo',
+		id: 2671520,
+		release_date: '2008-12-22',
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-057cf49ff8135703d22a11d7d1aee777-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/30ef804b6dde9cd94139e96240434466/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Snacket på stan',
+		artist: 'Danny Saucedo',
+		id: 134686774,
+		release_date: '2016-10-24',
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5cf9f417844cf7ba689c29780dfbd348-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/c5563f173a4460ba9e73e45b15784fdf/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Super 8',
+		artist: 'Danny Saucedo',
+		id: 136093950,
+		release_date: '2016-11-14',
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4e06c1ae9a38b811480f627a958fb0aa-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/ae4f4433155367214b0d2aa620fffd39/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Danny Saucedo',
@@ -8592,66 +9670,12 @@ export const swedish = [
 	},
 	{
 		artist: 'Danny Saucedo',
-		title: 'För kärlekens skull',
-		release_date: '2016-12-11',
-		id: 137925659,
-		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3eac4fb8482eb89500f67601a55e7fef-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/1f0bcf828510745a381218e27bd17a32/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Danny Saucedo',
 		title: 'Tokyo',
 		release_date: '2008-12-22',
 		id: 2712054,
 		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-ab1b69121f10ec2973cecffe67b704f1-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/517d2c0ef63efb4d9b62c3a68ede9fd6/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Dör för dig',
-		artist: 'Danny Saucedo',
-		id: 104775736,
-		release_date: '2015-07-31',
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-aab0f1141130911be0764bd46debe225-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/a408aa67a47b83a123c613b1bf7af2eb/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Snacket på stan',
-		artist: 'Danny Saucedo',
-		id: 134686774,
-		release_date: '2016-10-24',
-		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5cf9f417844cf7ba689c29780dfbd348-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/c5563f173a4460ba9e73e45b15784fdf/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Amazing',
-		artist: 'Danny Saucedo',
-		id: 26844811,
-		release_date: '2015-02-07',
-		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-da4391d4d9c1d3e6be0ed1e8cfefe23d-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/8e4e874c89a9b0f59186a96e781b614c/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'If Only You',
-		artist: 'Danny Saucedo',
-		id: 2671520,
-		release_date: '2008-12-22',
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-057cf49ff8135703d22a11d7d1aee777-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/30ef804b6dde9cd94139e96240434466/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Super 8',
-		artist: 'Danny Saucedo',
-		id: 136093950,
-		release_date: '2016-11-14',
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4e06c1ae9a38b811480f627a958fb0aa-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/ae4f4433155367214b0d2aa620fffd39/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Dansbandskungen',
@@ -8717,20 +9741,20 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/f94af67c277aca8e6477643bb9440950/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Vart jag mig i världen vänder',
-		artist: 'Den svenska björnstammen',
-		id: 580150102,
-		release_date: '2012-01-01',
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-ccf28df740dab529a4d2bb02870e9133-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/3c4f0bba78c16bd6287a6e69793c0e89/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Svalkar vinden',
 		artist: 'Den svenska björnstammen',
 		id: 580150052,
 		release_date: '2012-01-01',
 		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e9b0ac7b8038420b65fefd2990d48867-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/3c4f0bba78c16bd6287a6e69793c0e89/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Vart jag mig i världen vänder',
+		artist: 'Den svenska björnstammen',
+		id: 580150102,
+		release_date: '2012-01-01',
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-ccf28df740dab529a4d2bb02870e9133-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/3c4f0bba78c16bd6287a6e69793c0e89/250x250-000000-80-0-0.jpg'
 	},
@@ -8754,21 +9778,21 @@ export const swedish = [
 	},
 	{
 		artist: 'Dolores',
+		title: 'Dansa i neon',
+		release_date: '2020-12-25',
+		id: 1161428212,
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a05ede30799289a5748b681ee22dad1d-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/984a4d2dd9bea8516577b95eac190ad0/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Dolores',
 		title: 'Genom eld & vatten',
 		release_date: '2020-10-23',
 		id: 1103209912,
 		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d53386fea1ec8572594278375495ffc2-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/ef14906ef3b94de8c7420204c5f73699/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Dolores',
-		title: 'Rosa helikopter',
-		release_date: '2019-05-24',
-		id: 684648032,
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a1541c03c8d224ef0d69a0f11784949a-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/676090219f30ee52509ddf62dd93fac8/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Dolores',
@@ -8781,12 +9805,12 @@ export const swedish = [
 	},
 	{
 		artist: 'Dolores',
-		title: 'Dansa i neon',
-		release_date: '2020-12-25',
-		id: 1161428212,
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a05ede30799289a5748b681ee22dad1d-3.mp3',
+		title: 'Rosa helikopter',
+		release_date: '2019-05-24',
+		id: 684648032,
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a1541c03c8d224ef0d69a0f11784949a-2.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/984a4d2dd9bea8516577b95eac190ad0/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/676090219f30ee52509ddf62dd93fac8/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Dolores',
@@ -8807,15 +9831,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/9095d1e8fd8c200ce9db05bc036c5028/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Drängarna',
-		title: 'Vill du bli min fru',
-		release_date: '1995',
-		id: 583655062,
-		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-597d7d4724951dde8661ceb5ae9d48ca-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/b10cba932d02deab5cbad3b520824f18/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Bärsärkagång',
 		artist: 'Drängarna',
 		id: 581987992,
@@ -8823,6 +9838,15 @@ export const swedish = [
 		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-40da995c3ddbdd2580c077d58eff022d-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/43a717e48acc6b5f092878832eda66b2/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Drängarna',
+		title: 'Vill du bli min fru',
+		release_date: '1995',
+		id: 583655062,
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-597d7d4724951dde8661ceb5ae9d48ca-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/b10cba932d02deab5cbad3b520824f18/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Drömhus',
@@ -8870,6 +9894,14 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/670f32dbbe71ecab332a50e570354bd7/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Flyktsoda',
+		artist: 'Ebba Grön',
+		id: 6575767,
+		preview: 'https://cdn-preview-b.dzcdn.net/stream/c-b512a231430cf5a5a529dad86157a422-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/670f32dbbe71ecab332a50e570354bd7/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Mamma pappa barn',
 		artist: 'Ebba Grön',
 		id: 6488372,
@@ -8877,6 +9909,15 @@ export const swedish = [
 		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-85a18a2f33dbd9677e88e34e147ea301-6.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/1176f3677d28ee20a9057b7eeb4476dd/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Eddie Meduza',
+		title: '34:an',
+		release_date: '1981-11-24',
+		id: 79084282,
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-755ebaf86b13d97493d92a33c311bd11-1.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/01131593a145d83e2923ca80cf097d72/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Eddie Meduza',
@@ -8897,13 +9938,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/01131593a145d83e2923ca80cf097d72/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Eddie Meduza',
-		title: '34:an',
-		release_date: '1981-11-24',
-		id: 79084282,
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-755ebaf86b13d97493d92a33c311bd11-1.mp3',
+		title: 'Fulla för kärlekens skull',
+		artist: 'Eldkvarn',
+		id: 368366741,
+		release_date: '2017-06-03',
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-20769626551d1d208d8e6bd5c14bcbef-7.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/01131593a145d83e2923ca80cf097d72/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/773cc62baadedfefce4867f9abce6537/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Eldkvarn',
@@ -8913,15 +9954,6 @@ export const swedish = [
 		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-13e08e63db6b8bfcb7a8a8cffda35927-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/73f1ee405449dc2fe1ed6a9fb38dcdcd/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Fulla för kärlekens skull',
-		artist: 'Eldkvarn',
-		id: 368366741,
-		release_date: '2017-06-03',
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-20769626551d1d208d8e6bd5c14bcbef-7.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/773cc62baadedfefce4867f9abce6537/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Elov & Beny',
@@ -8969,13 +10001,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/10a6145bbb731920e80b13bae021d7b6/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Aldrig mer vara du',
 		artist: 'estraden',
-		title: 'Vårt år',
-		release_date: '2020-08-28',
-		id: 629286172,
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b88764ddd84a46f30dd895bdc0224b93-3.mp3',
+		id: 999669542,
+		release_date: '2020-07-03',
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5dccce73b1f86c3e6d05500551cfcf03-3.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/33a10c67662e6fb8870e0c74f4090767/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/9eb596b7f439976c18d6a6c64545d071/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'estraden',
@@ -8987,13 +10019,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/31c10c3dca1cfff6caafd2c4b94d4a3f/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Aldrig mer vara du',
 		artist: 'estraden',
-		id: 999669542,
-		release_date: '2020-07-03',
-		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5dccce73b1f86c3e6d05500551cfcf03-3.mp3',
+		title: 'Dansar med mig själv',
+		release_date: '2020-08-28',
+		id: 926640312,
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8278029e3e3a3f71fd29b9114ff94d55-3.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/9eb596b7f439976c18d6a6c64545d071/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/0a03032d5118d6356452d06710236ec1/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Vi två',
@@ -9006,12 +10038,12 @@ export const swedish = [
 	},
 	{
 		artist: 'estraden',
-		title: 'Dansar med mig själv',
+		title: 'Vårt år',
 		release_date: '2020-08-28',
-		id: 926640312,
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8278029e3e3a3f71fd29b9114ff94d55-3.mp3',
+		id: 629286172,
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b88764ddd84a46f30dd895bdc0224b93-3.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/0a03032d5118d6356452d06710236ec1/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/33a10c67662e6fb8870e0c74f4090767/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Europe',
@@ -9023,6 +10055,15 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/da44873bbb18e25f946863209fcbbbe0/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Jag klär av mig naken',
+		artist: 'Eva Dahlgren',
+		id: 1082997,
+		release_date: '1992-05-22',
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f1a2d7a9731c0dd0d5d0e8fbc61001c4-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/a797d77c7b1ada73d24012ce8c8a258e/250x250-000000-80-0-0.jpg'
+	},
+	{
 		artist: 'Eva Dahlgren',
 		title: 'Kom och håll om mej',
 		release_date: '1991-09-12',
@@ -9032,13 +10073,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/b26405f202cbfdaa5ff7a11026ffe6c4/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Ängeln i rummet',
+		title: 'Som ett äventyr',
 		artist: 'Eva Dahlgren',
-		id: 1083021,
-		release_date: '1992-05-22',
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6646b052a2e6f4dbc88fd6d6c83ed3eb-3.mp3',
+		id: 3456531,
+		release_date: '2005-10-07',
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5169f6f7d2e3033c46a074ccd2ef62b8-4.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/a797d77c7b1ada73d24012ce8c8a258e/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/a4cc22c9dd37770bca180cb4e73d4588/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Vem tänder stjärnorna',
@@ -9050,22 +10091,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/a797d77c7b1ada73d24012ce8c8a258e/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Jag klär av mig naken',
+		title: 'Ängeln i rummet',
 		artist: 'Eva Dahlgren',
-		id: 1082997,
+		id: 1083021,
 		release_date: '1992-05-22',
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f1a2d7a9731c0dd0d5d0e8fbc61001c4-4.mp3',
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6646b052a2e6f4dbc88fd6d6c83ed3eb-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/a797d77c7b1ada73d24012ce8c8a258e/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Som ett äventyr',
-		artist: 'Eva Dahlgren',
-		id: 3456531,
-		release_date: '2005-10-07',
-		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5169f6f7d2e3033c46a074ccd2ef62b8-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/a4cc22c9dd37770bca180cb4e73d4588/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Vägrar gå hem',
@@ -9104,6 +10136,24 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/ece67a4d13c7e9a84f1da338663e51a3/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Allt man kan önska sig',
+		artist: "Freda'",
+		id: 6770582,
+		release_date: '1993-05-04',
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a49571e97afb334c5e414cb03420e35b-1.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/52abfd38618d21fa156b2f1cf141b8b2/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Det måste gå',
+		artist: "Freda'",
+		id: 126772299,
+		release_date: '2008-06-16',
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f24f4f05034d076c23620aabfde3504f-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/7f3bc033f97bfc661fe8990e848c768c/250x250-000000-80-0-0.jpg'
+	},
+	{
 		artist: "Freda'",
 		title: 'I en annan del av världen',
 		release_date: '2006-01-01',
@@ -9122,24 +10172,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/44e697b9fadeedd87d9a7a80f4b5c230/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Det måste gå',
-		artist: "Freda'",
-		id: 126772299,
-		release_date: '2008-06-16',
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f24f4f05034d076c23620aabfde3504f-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/7f3bc033f97bfc661fe8990e848c768c/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Allt man kan önska sig',
-		artist: "Freda'",
-		id: 6770582,
-		release_date: '1993-05-04',
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a49571e97afb334c5e414cb03420e35b-1.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/52abfd38618d21fa156b2f1cf141b8b2/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Lyssna till ditt hjärta',
 		artist: 'Friends',
 		id: 73917625,
@@ -9147,15 +10179,6 @@ export const swedish = [
 		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-23dfb494a225f36a5e071f78126caaa6-12.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/9edfe43fe7e4b11421c95e653817d289/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Fronda',
-		title: 'Underbar',
-		release_date: '2010-12-14',
-		id: 578911212,
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-06f65052f85d7b2b0e1cd2d3c77250f7-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/08cf903a5b823aaff68dfc92003ec129/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Rullar fram',
@@ -9167,13 +10190,21 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/206441e8f3c5f730d719d55c47556a8e/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Sånger från förut',
-		artist: 'GAMMAL',
-		id: 673106512,
-		release_date: '2019-05-10',
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-cd91df7b82c288096025e065f7c831e7-3.mp3',
+		artist: 'Fronda',
+		title: 'Underbar',
+		release_date: '2010-12-14',
+		id: 578911212,
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-06f65052f85d7b2b0e1cd2d3c77250f7-3.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/332627ffa2149dc5953a9bb337abc2ab/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/08cf903a5b823aaff68dfc92003ec129/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Frölunda',
+		title: 'Bära hjälmar av guld',
+		id: 1657444622,
+		preview: 'https://cdn-preview-6.dzcdn.net/stream/c-6a648144dfaddccc9b152bd78da53d48-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/99cf6cb7a8c2e0c957ca5eb708e566db/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Blommor där du står',
@@ -9194,6 +10225,15 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/2edd79ad42902c4236dd53d4164728c8/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Sånger från förut',
+		artist: 'GAMMAL',
+		id: 673106512,
+		release_date: '2019-05-10',
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-cd91df7b82c288096025e065f7c831e7-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/332627ffa2149dc5953a9bb337abc2ab/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Vem tror du att du är?',
 		artist: 'Georg Riedel',
 		id: 3469030,
@@ -9201,15 +10241,6 @@ export const swedish = [
 		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-74c8ab92aaf21492bb0768e256b0df09-5.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/3d3be985bcb92a50f27fb25e53ed87fd/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'När vi gräver guld i USA',
-		artist: 'Glenmark Eriksson Strömstedt',
-		id: 3612396,
-		release_date: '1995-03-01',
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-77ea517adec16b59df53d8dbf8b3d0bb-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/c591115ea2a6bbf2be5818875b7ac52f/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'En jävel på kärlek',
@@ -9221,6 +10252,15 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/c591115ea2a6bbf2be5818875b7ac52f/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'När vi gräver guld i USA',
+		artist: 'Glenmark Eriksson Strömstedt',
+		id: 3612396,
+		release_date: '1995-03-01',
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-77ea517adec16b59df53d8dbf8b3d0bb-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/c591115ea2a6bbf2be5818875b7ac52f/250x250-000000-80-0-0.jpg'
+	},
+	{
 		artist: 'Grace',
 		title: 'Ingen kan älska som vi',
 		release_date: '1988-10-28',
@@ -9228,78 +10268,6 @@ export const swedish = [
 		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3f3782756b278c1fe44fca7b15aa5c3a-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/497fd68634be0677db1c316a10a8486d/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Gyllene Tider',
-		title: 'Ljudet av ett annat hjärta - 7" Single',
-		release_date: '1981-03-10',
-		id: 635526582,
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e33a4553211a47f6874bf14a8e679eb8-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/d8c59b539c2be81fe9e835fbff7e6593/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Flickorna på TV2',
-		artist: 'Gyllene Tider',
-		id: 3480315,
-		release_date: '2006-05-26',
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8935379ce52bbbb1c3cb01a4312633e8-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/aa78d673fa73854410e16a1e8c5239df/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'När vi två blir en',
-		artist: 'Gyllene Tider',
-		id: 3480458,
-		release_date: '2001-07-16',
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e35bfae525766dda9d3df46946a486ce-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/4f99c267b7657f5f1d3fbf4d43b0d431/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Sommartider',
-		artist: 'Gyllene Tider',
-		id: 3480470,
-		release_date: '2006-05-26',
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b5e4ae74e05d79d9c2011c35305211e2-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/4888a57cd485768f88ca28f2878b3a17/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Ska vi älska, så ska vi älska till Buddy Holly',
-		artist: 'Gyllene Tider',
-		id: 3480321,
-		release_date: '2006-05-26',
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7f5fe896f400f873755c235841d1b89a-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/aa78d673fa73854410e16a1e8c5239df/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Juni, Juli, Augusti',
-		artist: 'Gyllene Tider',
-		id: 1855143127,
-		release_date: '2004-07-02',
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-289ac439b554df576f07a7d35ac65ba3-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/507483378e279764eff5bb56e4546609/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Teaser Japanese',
-		artist: 'Gyllene Tider',
-		id: 3480197,
-		release_date: '2006-05-26',
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2c76e58ae2cdc30523068b026ae178ba-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/562e6f432bd935ee9e4a636948a5c26b/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Ljudet av ett annat hjärta',
-		artist: 'Gyllene Tider',
-		id: 1855143037,
-		release_date: '2004-07-02',
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-420964bac7e944cc59b5a1d91831634c-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/507483378e279764eff5bb56e4546609/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Det blir aldrig som man tänkt sej',
@@ -9320,13 +10288,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/cbb7bbca9f1cdccad841136cff740b83/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Kung av sand',
+		title: 'Flickorna på TV2',
 		artist: 'Gyllene Tider',
-		id: 1855143107,
-		release_date: '2004-07-02',
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a31f2046bc0ccb7915160b97fe41c2b7-6.mp3',
+		id: 3480315,
+		release_date: '2006-05-26',
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8935379ce52bbbb1c3cb01a4312633e8-3.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/507483378e279764eff5bb56e4546609/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/aa78d673fa73854410e16a1e8c5239df/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Gyllene Tider',
@@ -9338,6 +10306,78 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/507483378e279764eff5bb56e4546609/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Juni, Juli, Augusti',
+		artist: 'Gyllene Tider',
+		id: 1855143127,
+		release_date: '2004-07-02',
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-289ac439b554df576f07a7d35ac65ba3-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/507483378e279764eff5bb56e4546609/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Kung av sand',
+		artist: 'Gyllene Tider',
+		id: 1855143107,
+		release_date: '2004-07-02',
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a31f2046bc0ccb7915160b97fe41c2b7-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/507483378e279764eff5bb56e4546609/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Ljudet av ett annat hjärta',
+		artist: 'Gyllene Tider',
+		id: 1855143037,
+		release_date: '2004-07-02',
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-420964bac7e944cc59b5a1d91831634c-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/507483378e279764eff5bb56e4546609/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Gyllene Tider',
+		title: 'Ljudet av ett annat hjärta - 7" Single',
+		release_date: '1981-03-10',
+		id: 635526582,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e33a4553211a47f6874bf14a8e679eb8-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d8c59b539c2be81fe9e835fbff7e6593/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'När vi två blir en',
+		artist: 'Gyllene Tider',
+		id: 3480458,
+		release_date: '2001-07-16',
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e35bfae525766dda9d3df46946a486ce-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/4f99c267b7657f5f1d3fbf4d43b0d431/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Ska vi älska, så ska vi älska till Buddy Holly',
+		artist: 'Gyllene Tider',
+		id: 3480321,
+		release_date: '2006-05-26',
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7f5fe896f400f873755c235841d1b89a-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/aa78d673fa73854410e16a1e8c5239df/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Sommartider',
+		artist: 'Gyllene Tider',
+		id: 3480470,
+		release_date: '2006-05-26',
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b5e4ae74e05d79d9c2011c35305211e2-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/4888a57cd485768f88ca28f2878b3a17/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Teaser Japanese',
+		artist: 'Gyllene Tider',
+		id: 3480197,
+		release_date: '2006-05-26',
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2c76e58ae2cdc30523068b026ae178ba-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/562e6f432bd935ee9e4a636948a5c26b/250x250-000000-80-0-0.jpg'
+	},
+	{
 		artist: 'Hagelstorm',
 		title: 'Tommy tycker om mig',
 		release_date: '2022-07-01',
@@ -9345,105 +10385,6 @@ export const swedish = [
 		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-cd9145ef6f4e78be8f5900786ba3c9df-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/6f9785f464a5559f5de6059541f238fb/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Det kommer aldrig va över för mig',
-		artist: 'Håkan Hellström',
-		id: 65760218,
-		release_date: '2013-04-17',
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-976e9a08ebe304b1906be7c37beb8212-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/9dbf433ab5d7657465cbec097874274b/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Känn ingen sorg för mig Göteborg',
-		artist: 'Håkan Hellström',
-		id: 3480546,
-		release_date: '2000-09-25',
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-ba70125e7a030cfcc4837433beaba1b3-7.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/d60bcb1b9ca11b0d43d61b114e22e360/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Klubbland',
-		artist: 'Håkan Hellström',
-		id: 6517307,
-		release_date: '2010-06-21',
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4ff83077d15588573782fb16ea65a037-7.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/58aeec1131cc6f37867ae6307fcfbaa5/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Ramlar',
-		artist: 'Håkan Hellström',
-		id: 3480548,
-		release_date: '2000-09-25',
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9195e0f53c3a1fadfe878354b8b46de9-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/d60bcb1b9ca11b0d43d61b114e22e360/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Nu kan du få mig så lätt',
-		artist: 'Håkan Hellström',
-		id: 3480549,
-		release_date: '2000-09-25',
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-82afb29fb71b85010ac0072c27a8d375-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/d60bcb1b9ca11b0d43d61b114e22e360/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Uppsnärjd i det blå',
-		artist: 'Håkan Hellström',
-		id: 3480551,
-		release_date: '2000-09-25',
-		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5928346aa818937c7755f5cf0fdccb58-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/d60bcb1b9ca11b0d43d61b114e22e360/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: '2 steg från paradise',
-		artist: 'Håkan Hellström',
-		id: 10394928,
-		release_date: '2011-05-04',
-		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d72230d60fd7689dfd5770493594da4b-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/357499c32d5a7214bbe2563fd07e6e81/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Den fulaste flickan i världen',
-		artist: 'Håkan Hellström',
-		id: 3480361,
-		release_date: '2002-10-28',
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-cd6f0ee1f9d49f894946e0411ba69a6f-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/5062fb1e8d73d052a9b3c1e53d904009/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Valborg',
-		artist: 'Håkan Hellström',
-		id: 65760223,
-		release_date: '2013-04-17',
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4de9e5dd7d0c28c6ef843e1e50cfc32d-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/9dbf433ab5d7657465cbec097874274b/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Den här gången är det på riktigt',
-		artist: 'Håkan Hellström',
-		id: 2196309367,
-		release_date: '2023-04-28',
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-72c01f42dc5f7fdde42db1ba15e134d8-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/aa99446c7282bf1b87767b17142fe8d9/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Jag är en wild story',
-		artist: 'Håkan Hellström',
-		id: 2196309327,
-		release_date: '2023-04-28',
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-02fca219f02d1ac0e38908a421b382d3-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/aa99446c7282bf1b87767b17142fe8d9/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Hansson de Wolfe United',
@@ -9473,12 +10414,12 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/fa6c475f94c3f7b7c51611ad13fcb114/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Hästpojken',
-		title: 'Himmel röd och blå',
-		id: 2825019452,
-		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-34bbb57282f070d9e521e706c4c1150b-1.mp3',
+		title: 'Du Måste Finnas',
+		artist: 'Helen Sjöholm',
+		id: 2081420337,
+		preview: 'https://cdn-preview-4.dzcdn.net/stream/c-454e6890e78db75174b2f57b5a2e2dd8-2.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/1cca8be6d09aa3942519fd71e22c973f/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/129793fe0da178981398627b256681d1/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Helena Paparizou',
@@ -9526,13 +10467,119 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/a4e72672d02b519d1db7245ea1f254c4/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Imperiet',
-		title: 'Du ska va president',
-		release_date: '2007-01-01',
-		id: 7928170,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-12b27276668dde642a64f081ad0e3774-6.mp3',
+		artist: 'Hästpojken',
+		title: 'Himmel röd och blå',
+		id: 2825019452,
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-34bbb57282f070d9e521e706c4c1150b-1.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/6ae39f3e2601594d1fca13511cf70b66/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/1cca8be6d09aa3942519fd71e22c973f/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: '2 steg från paradise',
+		artist: 'Håkan Hellström',
+		id: 10394928,
+		release_date: '2011-05-04',
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d72230d60fd7689dfd5770493594da4b-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/357499c32d5a7214bbe2563fd07e6e81/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Den fulaste flickan i världen',
+		artist: 'Håkan Hellström',
+		id: 3480361,
+		release_date: '2002-10-28',
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-cd6f0ee1f9d49f894946e0411ba69a6f-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/5062fb1e8d73d052a9b3c1e53d904009/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Den här gången är det på riktigt',
+		artist: 'Håkan Hellström',
+		id: 2196309367,
+		release_date: '2023-04-28',
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-72c01f42dc5f7fdde42db1ba15e134d8-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/aa99446c7282bf1b87767b17142fe8d9/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Det kommer aldrig va över för mig',
+		artist: 'Håkan Hellström',
+		id: 65760218,
+		release_date: '2013-04-17',
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-976e9a08ebe304b1906be7c37beb8212-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/9dbf433ab5d7657465cbec097874274b/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Gårdakvarnar och skit',
+		artist: 'Håkan Hellström',
+		id: 3480568,
+		preview: 'https://cdn-preview-3.dzcdn.net/stream/c-345dea5f66a95e74a652014eda15e429-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/a0dc9b9aaf4e9645b0ddc7a7fded0572/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Jag är en wild story',
+		artist: 'Håkan Hellström',
+		id: 2196309327,
+		release_date: '2023-04-28',
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-02fca219f02d1ac0e38908a421b382d3-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/aa99446c7282bf1b87767b17142fe8d9/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Klubbland',
+		artist: 'Håkan Hellström',
+		id: 6517307,
+		release_date: '2010-06-21',
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4ff83077d15588573782fb16ea65a037-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/58aeec1131cc6f37867ae6307fcfbaa5/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Känn ingen sorg för mig Göteborg',
+		artist: 'Håkan Hellström',
+		id: 3480546,
+		release_date: '2000-09-25',
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-ba70125e7a030cfcc4837433beaba1b3-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d60bcb1b9ca11b0d43d61b114e22e360/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Nu kan du få mig så lätt',
+		artist: 'Håkan Hellström',
+		id: 3480549,
+		release_date: '2000-09-25',
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-82afb29fb71b85010ac0072c27a8d375-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d60bcb1b9ca11b0d43d61b114e22e360/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Ramlar',
+		artist: 'Håkan Hellström',
+		id: 3480548,
+		release_date: '2000-09-25',
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9195e0f53c3a1fadfe878354b8b46de9-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d60bcb1b9ca11b0d43d61b114e22e360/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Uppsnärjd i det blå',
+		artist: 'Håkan Hellström',
+		id: 3480551,
+		release_date: '2000-09-25',
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5928346aa818937c7755f5cf0fdccb58-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d60bcb1b9ca11b0d43d61b114e22e360/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Valborg',
+		artist: 'Håkan Hellström',
+		id: 65760223,
+		release_date: '2013-04-17',
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4de9e5dd7d0c28c6ef843e1e50cfc32d-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/9dbf433ab5d7657465cbec097874274b/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'CC Cowboys (Remix 1995)',
@@ -9544,13 +10591,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/6ae39f3e2601594d1fca13511cf70b66/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Precis som du',
-		artist: 'Irma',
-		id: 63623498,
-		release_date: '1991-01-04',
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1209480d7b21a7b372aa33015cc46ad3-2.mp3',
+		artist: 'Imperiet',
+		title: 'Du ska va president',
+		release_date: '2007-01-01',
+		id: 7928170,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-12b27276668dde642a64f081ad0e3774-6.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/70302546e42af1d2e2c01b006608cf65/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/6ae39f3e2601594d1fca13511cf70b66/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Bävling',
@@ -9560,6 +10607,15 @@ export const swedish = [
 		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0a7a2332b2accda362c8097ba7137dda-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/f2fbd8861fc7cdc5282b6b93f01e7fc2/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Precis som du',
+		artist: 'Irma',
+		id: 63623498,
+		release_date: '1991-01-04',
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1209480d7b21a7b372aa33015cc46ad3-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/70302546e42af1d2e2c01b006608cf65/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Ison & Fille',
@@ -9580,13 +10636,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/80a323b3d31112fe25bf604589f7d77d/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Vara vänner',
+		title: 'Hon har ett sätt',
 		artist: 'Jakob Hellman',
-		id: 15659833,
-		release_date: '1989-03-01',
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-ba2f452065f046f452b8f648dd3bc340-3.mp3',
+		id: 7624453,
+		release_date: '2013-04-26',
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a8e6793375d9f68688c502b4074c0faa-4.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/7bffb1bf67ecd65b64a8c499f5b3eadf/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/4d13fa9ba6316ff235decf32dca70b38/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Vackert väder',
@@ -9598,13 +10654,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/7bffb1bf67ecd65b64a8c499f5b3eadf/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Hon har ett sätt',
+		title: 'Vara vänner',
 		artist: 'Jakob Hellman',
-		id: 7624453,
-		release_date: '2013-04-26',
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a8e6793375d9f68688c502b4074c0faa-4.mp3',
+		id: 15659833,
+		release_date: '1989-03-01',
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-ba2f452065f046f452b8f648dd3bc340-3.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/4d13fa9ba6316ff235decf32dca70b38/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/7bffb1bf67ecd65b64a8c499f5b3eadf/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Fan va bra',
@@ -9652,13 +10708,22 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/50ca52d5c38dd508b5cea82b3194d671/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Kärleken är',
+		title: 'Angel (Of The Morning)',
 		artist: 'Jill Johnson',
-		id: 4287209,
-		release_date: '2009-10-16',
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-72dd4d10f85eefa3d77d979bd3569e76-8.mp3',
+		id: 924192,
+		release_date: '2007-11-27',
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f78c49a446a17805bd67bba924d6c44f-4.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/359656443e1209b5370904476e6773e2/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/b7fdf6f3fac44d9d4151c5764aa7565c/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: "Can't Help Falling In Love With You",
+		artist: 'Jill Johnson',
+		id: 888509202,
+		release_date: '2020-02-26',
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a38cbbd1250de8b845ad9ec503420c51-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/6a5df206730d43b20ff6be51e3277463/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Crazy in Love',
@@ -9679,6 +10744,15 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/0726e56887527a65aed428089809faf3/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Kärleken är',
+		artist: 'Jill Johnson',
+		id: 4287209,
+		release_date: '2009-10-16',
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-72dd4d10f85eefa3d77d979bd3569e76-8.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/359656443e1209b5370904476e6773e2/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: "You Think You're The Man",
 		artist: 'Jill Johnson',
 		id: 2602049,
@@ -9686,24 +10760,6 @@ export const swedish = [
 		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-69f02e440142a7dba26446110746b28a-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/e785a637cdd84aa86c866b91402026db/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Angel (Of The Morning)',
-		artist: 'Jill Johnson',
-		id: 924192,
-		release_date: '2007-11-27',
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f78c49a446a17805bd67bba924d6c44f-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/b7fdf6f3fac44d9d4151c5764aa7565c/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: "Can't Help Falling In Love With You",
-		artist: 'Jill Johnson',
-		id: 888509202,
-		release_date: '2020-02-26',
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a38cbbd1250de8b845ad9ec503420c51-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/6a5df206730d43b20ff6be51e3277463/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'JLC',
@@ -9788,15 +10844,6 @@ export const swedish = [
 	},
 	{
 		artist: 'Jonzon',
-		title: 'Jag ska fånga en ängel',
-		release_date: '2022-12-23',
-		id: 2079673917,
-		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d26984e7431996c27538bbe1ee9599e9-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/6c763f8cd0131ae572cf9a95e0182517/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Jonzon',
 		title: 'Inget stoppar oss nu',
 		release_date: '2023-02-03',
 		id: 2117424497,
@@ -9806,12 +10853,12 @@ export const swedish = [
 	},
 	{
 		artist: 'Jonzon',
-		title: 'Ooa hela natten',
-		release_date: '2023-03-10',
-		id: 2168557347,
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6f12f994a248c1d01376bfd967c792ba-2.mp3',
+		title: 'Jag ska fånga en ängel',
+		release_date: '2022-12-23',
+		id: 2079673917,
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d26984e7431996c27538bbe1ee9599e9-2.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/05f2dde44cd473df49e78f2db01b4a84/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/6c763f8cd0131ae572cf9a95e0182517/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Jonzon',
@@ -9821,6 +10868,15 @@ export const swedish = [
 		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6a6a45b7b64c263bc3b7612e5b80ba6b-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/caed3f440db4fa0ed0a963fce2b5ed38/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Jonzon',
+		title: 'Ooa hela natten',
+		release_date: '2023-03-10',
+		id: 2168557347,
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6f12f994a248c1d01376bfd967c792ba-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/05f2dde44cd473df49e78f2db01b4a84/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Julia Kedhammar',
@@ -9868,15 +10924,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/196d184fc54797bd7772e0d92573362f/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Kayo',
-		title: 'Sommar',
-		release_date: '1993-01-01',
-		id: 16994604,
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c8577f34d87274c3aedbc31fd48d7e5d-1.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/d2a3c97c123abbf1da7ffab70b52788a/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Om natten',
 		artist: 'Kayo',
 		id: 16994601,
@@ -9886,13 +10933,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/d2a3c97c123abbf1da7ffab70b52788a/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Kenneth & The Knutters',
-		title: 'Som en riktig man',
-		release_date: '2022-04-29',
-		id: 4761296,
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bb9d14f79c6dc9bf46c9a8d7f5c464fd-2.mp3',
+		artist: 'Kayo',
+		title: 'Sommar',
+		release_date: '1993-01-01',
+		id: 16994604,
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c8577f34d87274c3aedbc31fd48d7e5d-1.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/1dc28d6cd34583fa1e7d2c1b3be1389a/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/d2a3c97c123abbf1da7ffab70b52788a/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Kenneth & The Knutters',
@@ -9905,39 +10952,21 @@ export const swedish = [
 	},
 	{
 		artist: 'Kenneth & The Knutters',
+		title: 'Som en riktig man',
+		release_date: '2022-04-29',
+		id: 4761296,
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bb9d14f79c6dc9bf46c9a8d7f5c464fd-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/1dc28d6cd34583fa1e7d2c1b3be1389a/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Kenneth & The Knutters',
 		title: 'Våga välja växel',
 		release_date: '1985-04-13',
 		id: 4761085,
 		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-30db502395a870f6082d01b14bde1e31-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/cf70981b2374e94ebbe3d0dc19434c1c/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'kent',
-		title: 'Pärlor',
-		release_date: '2002-04-15',
-		id: 972104,
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4dfe96573dabf9038d22791fc9372d56-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/b7f09144c2e304b9db0562b3017df18a/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'kent',
-		title: 'Egoist',
-		release_date: '2016-09-16',
-		id: 132195428,
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e8daca31b2a98b9dc0c2e28eaac05780-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/7270ae0d1e849f082a91091d37f96264/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'kent',
-		title: 'Vi är inte längre där',
-		release_date: '2016-09-16',
-		id: 124992690,
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0b20e804cfb7b85193835d763889592f-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/a8a58f12fac0ed65d06d77bbcbeb7a53/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'kent',
@@ -9949,69 +10978,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/6ecf74293cd11f7bab8af2728a0d1a27/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'kent',
-		title: 'Musik Non Stop',
-		release_date: '2016-09-16',
-		id: 1023918,
-		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5419e3f2ef097c4d43d0ee37ad3c18c3-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/371682f281cb296145e501fa64e4df4d/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Dom andra',
-		artist: 'Kent',
-		id: 972520,
-		release_date: '2002-04-04',
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1f18d1b395af227b4a0243ddb282126f-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/b7f09144c2e304b9db0562b3017df18a/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Kärleken väntar',
-		artist: 'Kent',
-		id: 972112,
-		release_date: '2002-04-04',
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a98509b379ab1ea10cb0d473792caaa3-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/b7f09144c2e304b9db0562b3017df18a/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Längtan skala 3:1',
-		artist: 'Kent',
-		id: 5544959,
-		release_date: '2000-03-08',
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0112d74877a5d90876fa9ac3f744f7a3-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/0bfa5ea168ccee6558b576389185c1ad/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Sverige',
-		artist: 'Kent',
-		id: 972118,
-		release_date: '2002-04-04',
-		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5b57aa7159c0b70d4d3ab0b80ff37fc0-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/b7f09144c2e304b9db0562b3017df18a/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Utan dina andetag',
-		artist: 'Kent',
-		id: 132195408,
-		release_date: '2016-09-16',
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-996681979187870b818812d151c16ba9-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/7270ae0d1e849f082a91091d37f96264/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Ingenting',
-		artist: 'Kent',
-		id: 4761434,
-		release_date: '2007-10-15',
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4cdb3eb3666dd87f4df136b31378932d-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/45f5b20a48407407d7e95d0f531128fd/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: '747 (Swedish Radio Edit)',
 		artist: 'Kent',
 		id: 5105053,
@@ -10019,24 +10985,6 @@ export const swedish = [
 		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-89d64e9b69d0a66ca89d1ea0e8ad12d8-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/557fa0aad323dcafb75a449d0c3cad9b/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Stoppa mig juni (lilla ego)',
-		artist: 'Kent',
-		id: 1023130,
-		release_date: '1999-11-25',
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-27deb343721451ea63c6ccf61c88ce96-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/371682f281cb296145e501fa64e4df4d/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Kräm (så nära får ingen gå)',
-		artist: 'Kent',
-		id: 132195396,
-		release_date: '2016-09-16',
-		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5e750ee90e70176bdd28287ee9e0ce0c-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/7270ae0d1e849f082a91091d37f96264/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Celsius',
@@ -10048,20 +10996,20 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/6ecf74293cd11f7bab8af2728a0d1a27/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Mannen i den vita hatten (16 år senare)',
+		title: 'Dom andra',
 		artist: 'Kent',
-		id: 560025,
-		release_date: '2005-03-03',
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-13af6b19d7c26e9b91b467348a7b5b69-2.mp3',
+		id: 972520,
+		release_date: '2002-04-04',
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1f18d1b395af227b4a0243ddb282126f-2.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/fd0f2d982b820a2eb8dcd6782f897c91/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/b7f09144c2e304b9db0562b3017df18a/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Kevlarsjäl',
-		artist: 'Kent',
-		id: 132195406,
+		artist: 'kent',
+		title: 'Egoist',
 		release_date: '2016-09-16',
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a7934108395503b6d06c9221cfa2d45e-3.mp3',
+		id: 132195428,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e8daca31b2a98b9dc0c2e28eaac05780-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/7270ae0d1e849f082a91091d37f96264/250x250-000000-80-0-0.jpg'
 	},
@@ -10084,6 +11032,78 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/b7f09144c2e304b9db0562b3017df18a/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Ingenting',
+		artist: 'Kent',
+		id: 4761434,
+		release_date: '2007-10-15',
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4cdb3eb3666dd87f4df136b31378932d-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/45f5b20a48407407d7e95d0f531128fd/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Kevlarsjäl',
+		artist: 'Kent',
+		id: 132195406,
+		release_date: '2016-09-16',
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a7934108395503b6d06c9221cfa2d45e-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/7270ae0d1e849f082a91091d37f96264/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Kräm (så nära får ingen gå)',
+		artist: 'Kent',
+		id: 132195396,
+		release_date: '2016-09-16',
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5e750ee90e70176bdd28287ee9e0ce0c-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/7270ae0d1e849f082a91091d37f96264/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Kärleken väntar',
+		artist: 'Kent',
+		id: 972112,
+		release_date: '2002-04-04',
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a98509b379ab1ea10cb0d473792caaa3-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/b7f09144c2e304b9db0562b3017df18a/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Längtan skala 3:1',
+		artist: 'Kent',
+		id: 5544959,
+		release_date: '2000-03-08',
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0112d74877a5d90876fa9ac3f744f7a3-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0bfa5ea168ccee6558b576389185c1ad/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Mannen i den vita hatten (16 år senare)',
+		artist: 'Kent',
+		id: 560025,
+		release_date: '2005-03-03',
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-13af6b19d7c26e9b91b467348a7b5b69-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/fd0f2d982b820a2eb8dcd6782f897c91/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'kent',
+		title: 'Musik Non Stop',
+		release_date: '2016-09-16',
+		id: 1023918,
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5419e3f2ef097c4d43d0ee37ad3c18c3-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/371682f281cb296145e501fa64e4df4d/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'kent',
+		title: 'Pärlor',
+		release_date: '2002-04-15',
+		id: 972104,
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4dfe96573dabf9038d22791fc9372d56-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/b7f09144c2e304b9db0562b3017df18a/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Socker',
 		artist: 'Kent',
 		id: 972114,
@@ -10091,6 +11111,42 @@ export const swedish = [
 		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8848134b2116c7ce819b4756d54a83ff-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/b7f09144c2e304b9db0562b3017df18a/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Stoppa mig juni (lilla ego)',
+		artist: 'Kent',
+		id: 1023130,
+		release_date: '1999-11-25',
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-27deb343721451ea63c6ccf61c88ce96-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/371682f281cb296145e501fa64e4df4d/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Sverige',
+		artist: 'Kent',
+		id: 972118,
+		release_date: '2002-04-04',
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5b57aa7159c0b70d4d3ab0b80ff37fc0-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/b7f09144c2e304b9db0562b3017df18a/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Utan dina andetag',
+		artist: 'Kent',
+		id: 132195408,
+		release_date: '2016-09-16',
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-996681979187870b818812d151c16ba9-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/7270ae0d1e849f082a91091d37f96264/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'kent',
+		title: 'Vi är inte längre där',
+		release_date: '2016-09-16',
+		id: 124992690,
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0b20e804cfb7b85193835d763889592f-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/a8a58f12fac0ed65d06d77bbcbeb7a53/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Kick',
@@ -10111,15 +11167,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/3f97c2956b385ab4045e1b1e89fd0936/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Papaya Coconut',
-		artist: 'Kikki Danielsson',
-		id: 3615143,
-		release_date: '2008-02-25',
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1152737322e38a81d512192fd0c94dbc-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/7cdbf34cd7a3c541dbb716972f863b73/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Bra vibrationer',
 		artist: 'Kikki Danielsson',
 		id: 802874,
@@ -10127,6 +11174,15 @@ export const swedish = [
 		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f70fcd5d82710eeab61052abac53f521-13.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/9adfa103c29545a3b9eb10784e4f7a49/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Papaya Coconut',
+		artist: 'Kikki Danielsson',
+		id: 3615143,
+		release_date: '2008-02-25',
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1152737322e38a81d512192fd0c94dbc-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/7cdbf34cd7a3c541dbb716972f863b73/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Kjell Höglund',
@@ -10147,6 +11203,14 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/352a07a7bcd3c3fe0cc083e343cb9757/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Sex Noll Två',
+		artist: 'KSMB',
+		id: 6603308,
+		preview: 'https://cdn-preview-b.dzcdn.net/stream/c-ba2b5b5c84037bf9af6f9e8164da8fa3-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/53039599bba963c83c18991b8ff08c49/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Aldrig Bli Som Förr',
 		artist: 'Laleh',
 		id: 131386090,
@@ -10165,15 +11229,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/7d9742e5bbb716e87b56551997efec1d/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Some Die Young',
-		artist: 'Laleh',
-		id: 16032013,
-		release_date: '2012-01-10',
-		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-db8710a0fe63d24157a697fcb3285e62-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/5b7da93fa549a241382ca3ae8b871ccb/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Snö',
 		artist: 'Laleh',
 		id: 3615387,
@@ -10183,13 +11238,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/24dca4cdd38480aa25b04d6084125985/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Ängeln i rummet',
+		title: 'Some Die Young',
 		artist: 'Laleh',
-		id: 15107048,
-		release_date: '2011-12-25',
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b06754862f5af98a2286e1fc42d288c5-6.mp3',
+		id: 16032013,
+		release_date: '2012-01-10',
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-db8710a0fe63d24157a697fcb3285e62-4.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/bcec90cfd9b6d1e0df4de3b63801444f/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/5b7da93fa549a241382ca3ae8b871ccb/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Vårens första dag',
@@ -10201,11 +11256,29 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/5b7da93fa549a241382ca3ae8b871ccb/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Ängeln i rummet',
+		artist: 'Laleh',
+		id: 15107048,
+		release_date: '2011-12-25',
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b06754862f5af98a2286e1fc42d288c5-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/bcec90cfd9b6d1e0df4de3b63801444f/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Aldrig riktigt slut',
 		artist: 'Lars Winnerbäck',
 		id: 2296452,
 		release_date: '2004-03-10',
 		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-40723fdc1247932ab87ed0ba6fdcb48d-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d9172f2f8121386521109051d9414c8c/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Du gamla, fria nord',
+		artist: 'Lars Winnerbäck',
+		id: 2296450,
+		release_date: '2004-03-10',
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a5116cadc98855f23e93e1372c8b9f01-5.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/d9172f2f8121386521109051d9414c8c/250x250-000000-80-0-0.jpg'
 	},
@@ -10219,6 +11292,51 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/3e16958f4f6a8548702c0b98ee9e4ca7/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'En tätort på en slätt',
+		artist: 'Lars Winnerbäck',
+		id: 1115404,
+		release_date: '2007-09-26',
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-afa04d1faaf865aaddb7ddaa062d2899-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/1ec60f7591e3b1c71bdd22ca6cf47903/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Faller',
+		artist: 'Lars Winnerbäck',
+		id: 2495624,
+		release_date: '2008-01-01',
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d3205018bb9ef0599c5a0ac5059f8471-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/e98c874fa6892971526076e66f45e0c4/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Granit och morän',
+		artist: 'Lars Winnerbäck',
+		id: 126843963,
+		release_date: '2016-06-17',
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4308b71c7b2f33dc1340ac5e99ab4465-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/602f72b5cd01047875c3ccd2f101bc8a/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Hosianna',
+		artist: 'Lars Winnerbäck',
+		id: 70211274,
+		release_date: '2013-09-18',
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b956951ec89bbca1b53de05d81d58117-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/1639cc2dbf1cc11de7adad71539c3f51/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Hugger i sten',
+		artist: 'Lars Winnerbäck',
+		id: 2296453,
+		release_date: '2004-03-10',
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-83b56be83a9778a55773311c6babe247-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/d9172f2f8121386521109051d9414c8c/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Jag får liksom ingen ordning',
 		artist: 'Lars Winnerbäck',
 		id: 6816992,
@@ -10226,6 +11344,15 @@ export const swedish = [
 		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-915a235169c6b5eda85c125296e12cc2-6.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/c1ce4aea0eeae12728c53af34d030ea4/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Jag vill gå hem med dig',
+		artist: 'Lars Winnerbäck',
+		id: 114698088,
+		release_date: '2015-12-07',
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0e77606e6be1da627a444e0b085769ee-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/59d6e2db7bc2d3eca22b4d6ff56707d4/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Kom änglar',
@@ -10255,42 +11382,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/9116c3e8ceafb3a27abfd6953d68c453/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Hugger i sten',
-		artist: 'Lars Winnerbäck',
-		id: 2296453,
-		release_date: '2004-03-10',
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-83b56be83a9778a55773311c6babe247-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/d9172f2f8121386521109051d9414c8c/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Jag vill gå hem med dig',
-		artist: 'Lars Winnerbäck',
-		id: 114698088,
-		release_date: '2015-12-07',
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0e77606e6be1da627a444e0b085769ee-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/59d6e2db7bc2d3eca22b4d6ff56707d4/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'En tätort på en slätt',
-		artist: 'Lars Winnerbäck',
-		id: 1115404,
-		release_date: '2007-09-26',
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-afa04d1faaf865aaddb7ddaa062d2899-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/1ec60f7591e3b1c71bdd22ca6cf47903/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Faller',
-		artist: 'Lars Winnerbäck',
-		id: 2495624,
-		release_date: '2008-01-01',
-		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d3205018bb9ef0599c5a0ac5059f8471-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/e98c874fa6892971526076e66f45e0c4/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Timglas',
 		artist: 'Lars Winnerbäck',
 		id: 2495632,
@@ -10300,38 +11391,11 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/e98c874fa6892971526076e66f45e0c4/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Du gamla, fria nord',
-		artist: 'Lars Winnerbäck',
-		id: 2296450,
-		release_date: '2004-03-10',
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a5116cadc98855f23e93e1372c8b9f01-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/d9172f2f8121386521109051d9414c8c/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Granit och morän',
-		artist: 'Lars Winnerbäck',
-		id: 126843963,
-		release_date: '2016-06-17',
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4308b71c7b2f33dc1340ac5e99ab4465-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/602f72b5cd01047875c3ccd2f101bc8a/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Utkast till ett brev',
 		artist: 'Lars Winnerbäck',
 		id: 70211271,
 		release_date: '2013-09-18',
 		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6acecd03d679d9559a405f149b539fcb-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/1639cc2dbf1cc11de7adad71539c3f51/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Hosianna',
-		artist: 'Lars Winnerbäck',
-		id: 70211274,
-		release_date: '2013-09-18',
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b956951ec89bbca1b53de05d81d58117-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/1639cc2dbf1cc11de7adad71539c3f51/250x250-000000-80-0-0.jpg'
 	},
@@ -10372,15 +11436,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/dc1a13c298fda3e386aeddc3b815e8a7/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Teddybjörnen Fredriksson',
-		artist: 'Lasse Berghagen',
-		id: 1895356487,
-		release_date: '1998-01-01',
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-07e74f1935257a506f5f63c94e4de6b0-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/6b187ac703e7be58797057fa5c8429cc/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'När vi rör varann',
 		artist: 'Lasse Berghagen',
 		id: 133323212,
@@ -10390,13 +11445,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/dc1a13c298fda3e386aeddc3b815e8a7/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Lasse Holm',
-		title: "E' de' det här du kallar kärlek",
-		release_date: '1986',
-		id: 3615047,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1f8c25423ff6666a94417f24de832fc2-7.mp3',
+		title: 'Teddybjörnen Fredriksson',
+		artist: 'Lasse Berghagen',
+		id: 1895356487,
+		release_date: '1998-01-01',
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-07e74f1935257a506f5f63c94e4de6b0-2.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/969db6fca9b84af614420bfb25bae2ab/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/6b187ac703e7be58797057fa5c8429cc/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Canelloni Macaroni',
@@ -10408,22 +11463,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/06e6757cb4a6ef14bb898fc903a90a7c/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Lena Philipsson',
-		title: 'Han jobbar i affär',
-		release_date: '2007-11-07',
-		id: 13255596,
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bcd585234d624fb372b342290b1c9b9b-3.mp3',
+		artist: 'Lasse Holm',
+		title: "E' de' det här du kallar kärlek",
+		release_date: '1986',
+		id: 3615047,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1f8c25423ff6666a94417f24de832fc2-7.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/24554a5791fee28f7d6801d67780a13e/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Lena Philipsson',
-		title: 'Delirium',
-		release_date: '2007-11-07',
-		id: 13255604,
-		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-da8ffb82a3542d11a1773cdea74a7b92-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/24554a5791fee28f7d6801d67780a13e/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/969db6fca9b84af614420bfb25bae2ab/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Dansa i neon',
@@ -10435,11 +11481,29 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/7d2c031669e5fd792f9f906c5e407f03/250x250-000000-80-0-0.jpg'
 	},
 	{
+		artist: 'Lena Philipsson',
+		title: 'Delirium',
+		release_date: '2007-11-07',
+		id: 13255604,
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-da8ffb82a3542d11a1773cdea74a7b92-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/24554a5791fee28f7d6801d67780a13e/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Det gör ont',
 		artist: 'Lena Philipsson',
 		id: 13255597,
 		release_date: '2007-11-07',
 		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f66a33b6db0491cb0dbe8b7df4755249-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/24554a5791fee28f7d6801d67780a13e/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Lena Philipsson',
+		title: 'Han jobbar i affär',
+		release_date: '2007-11-07',
+		id: 13255596,
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bcd585234d624fb372b342290b1c9b9b-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/24554a5791fee28f7d6801d67780a13e/250x250-000000-80-0-0.jpg'
 	},
@@ -10499,12 +11563,12 @@ export const swedish = [
 	},
 	{
 		artist: 'Linnea Henriksson',
-		title: 'Lyckligare nu',
-		release_date: '2012-05-28',
-		id: 34558171,
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-ff995c4b9a45c9b95d6901ce05254708-88.mp3',
+		title: 'Du söker bråk, jag kräver dans',
+		release_date: '2014-02-05',
+		id: 72319443,
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a7430169bd8455471e6a9b9999e7991e-0.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/27083c35c28c12ad6eff664173c03ff4/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/1f79bd583781e7912e00cc40bbe04f3f/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Linnea Henriksson',
@@ -10517,6 +11581,15 @@ export const swedish = [
 	},
 	{
 		artist: 'Linnea Henriksson',
+		title: 'Lyckligare nu',
+		release_date: '2012-05-28',
+		id: 34558171,
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-ff995c4b9a45c9b95d6901ce05254708-88.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/27083c35c28c12ad6eff664173c03ff4/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Linnea Henriksson',
 		title: 'Väldigt kär/Obegripligt ensam',
 		release_date: '2012-05-28',
 		id: 34558181,
@@ -10525,13 +11598,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/27083c35c28c12ad6eff664173c03ff4/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Linnea Henriksson',
-		title: 'Du söker bråk, jag kräver dans',
-		release_date: '2014-02-05',
-		id: 72319443,
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a7430169bd8455471e6a9b9999e7991e-0.mp3',
+		title: 'Vem vet?',
+		artist: 'Lisa Ekdahl',
+		id: 3534714,
+		release_date: '2009-06-29',
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-ed35bce5a7dd306cd22ef07a36340f6b-5.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/1f79bd583781e7912e00cc40bbe04f3f/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/9fc240c686f5f6fa2b17d7b33e6a1cfc/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Öppna upp ditt fönster',
@@ -10543,13 +11616,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/9fc240c686f5f6fa2b17d7b33e6a1cfc/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Vem vet?',
-		artist: 'Lisa Ekdahl',
-		id: 3534714,
-		release_date: '2009-06-29',
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-ed35bce5a7dd306cd22ef07a36340f6b-5.mp3',
+		title: 'Den Här Gången',
+		artist: 'Lisa Nilsson',
+		id: 15701286,
+		release_date: '1995-01-01',
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7ec5ac77f093b19de84b66d60c5627cb-0.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/9fc240c686f5f6fa2b17d7b33e6a1cfc/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/0112e71ac447101ae4c2d4e4298dc876/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Himlen runt hörnet',
@@ -10568,15 +11641,6 @@ export const swedish = [
 		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a3f2e5cd7202e77f8e556d117322d101-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/3b3ec5f90010da17b5d75081168eea93/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Den Här Gången',
-		artist: 'Lisa Nilsson',
-		id: 15701286,
-		release_date: '1995-01-01',
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7ec5ac77f093b19de84b66d60c5627cb-0.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/0112e71ac447101ae4c2d4e4298dc876/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Loa Falkman',
@@ -10669,15 +11733,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/4922f95ebc7b68a192d641f69773d5ee/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Heroes',
-		artist: 'Måns Zelmerlöw',
-		id: 95585876,
-		release_date: '2015-02-28',
-		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d77f6d2865c8dbb5d53fa5b3a6cc91d0-7.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/60c211817b07d13a58a697d00e47270c/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Sunnanvind',
 		artist: 'Mares',
 		id: 638638872,
@@ -10697,39 +11752,12 @@ export const swedish = [
 	},
 	{
 		artist: 'Markoolio',
-		title: 'Jag orkar inte mer',
-		release_date: '2001-11-19',
-		id: 1113134662,
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2219e24d51e4b3131e6c93b3514f8822-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/b4b6e20f9368d4e84d4027f141517af6/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Markoolio',
 		title: 'In med bollen 2012',
 		release_date: '2012-06-06',
 		id: 34958261,
 		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-cb4393f1440174fa844059ce66e25701-19.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/8dea428b1106805f3fa16ca443514681/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Markoolio',
-		title: 'Värsta schlagern',
-		release_date: '2007-10-01',
-		id: 7346773,
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a9d830e56ab3972593882764be599a36-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/6f0d81545a56d79c654ab8f2123a34b4/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Sommar och sol',
-		artist: 'Markoolio',
-		id: 1113135202,
-		release_date: '1998-10-22',
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e6bb67f0d91fbb52599b11c7a843ca10-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/715793cb7f77c9914980b7a86e5c29db/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Ingen sommar utan reggae',
@@ -10741,6 +11769,33 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/6f0d81545a56d79c654ab8f2123a34b4/250x250-000000-80-0-0.jpg'
 	},
 	{
+		artist: 'Markoolio',
+		title: 'Jag orkar inte mer',
+		release_date: '2001-11-19',
+		id: 1113134662,
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2219e24d51e4b3131e6c93b3514f8822-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/b4b6e20f9368d4e84d4027f141517af6/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Sommar och sol',
+		artist: 'Markoolio',
+		id: 1113135202,
+		release_date: '1998-10-22',
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e6bb67f0d91fbb52599b11c7a843ca10-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/715793cb7f77c9914980b7a86e5c29db/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Markoolio',
+		title: 'Värsta schlagern',
+		release_date: '2007-10-01',
+		id: 7346773,
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a9d830e56ab3972593882764be599a36-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/6f0d81545a56d79c654ab8f2123a34b4/250x250-000000-80-0-0.jpg'
+	},
+	{
 		artist: 'Markus Krunegård',
 		title: 'Jag är en vampyr',
 		release_date: '2008-01-01',
@@ -10748,6 +11803,14 @@ export const swedish = [
 		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-573f1fa9b384938da42baf582e441d6a-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/a830b4a803ad47e82c8f4c52787c855c/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Korallreven & Vintergatan',
+		artist: 'Markus Krunegård',
+		id: 16940437,
+		preview: 'https://cdn-preview-0.dzcdn.net/stream/c-054cc9188bbbdcb1d37bf1dfff74ed47-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/41a91bb6131c61edb13fa1b7399d6cc9/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Martin',
@@ -10776,6 +11839,24 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/2e9f495e7bb00a309a381d4ed90b7b8c/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Allt eller inget',
+		artist: 'Mauro Scocco',
+		id: 61562971,
+		release_date: '2014-05-18',
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9d931394bea4fa5171e0a03cc5b6f8d1-1.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/61c7cc5642c0b81bd0aca1970b815924/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Det finns',
+		artist: 'Mauro Scocco',
+		id: 61563026,
+		release_date: '2007-03-28',
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3cd49bbbfa40109e82099bbc24b72d5e-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/ef85604f8cf075a0b62c55c883505811/250x250-000000-80-0-0.jpg'
+	},
+	{
 		artist: 'Mauro Scocco',
 		title: 'Hem Till Stockholm',
 		release_date: '1988-11-01',
@@ -10783,6 +11864,42 @@ export const swedish = [
 		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-29378ca641100facd34e3ded0170eef7-0.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/f60cf102c1b0a4e2c4b8f057f4c64f70/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Ingen vinner',
+		artist: 'Mauro Scocco',
+		id: 61563021,
+		release_date: '2007-03-28',
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4ad29f7ee5accb99fada697f314e64cb-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/ef85604f8cf075a0b62c55c883505811/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Jag saknar oss (Single Version)',
+		artist: 'Mauro Scocco',
+		id: 12649976,
+		release_date: '2011-04-01',
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-ac914d92fa0ecde52929522bbecf436d-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/b613efc1ca361ff3ab6ee652ec2046c9/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Långsamt farväl',
+		artist: 'Mauro Scocco',
+		id: 353839201,
+		release_date: '2003-11-12',
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-53a7ad689f571c154d0a0bb25d3ca7b8-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/7e917ba8ab99d0f85b52ba0bc7e1b94c/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Nelly',
+		artist: 'Mauro Scocco',
+		id: 61624870,
+		release_date: '1992-03-28',
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-79c0a8c371993ea3ed538a69256ebc4c-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/c889d9b8415d97ddd5cd9704faaa0ab1/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Sarah',
@@ -10794,29 +11911,11 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/fab22920969df3280a89e5d5e27f0ebb/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Vem Är Han',
-		artist: 'Mauro Scocco',
-		id: 15408223,
-		release_date: '2011-12-18',
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-19f2b04e23b8406052fde0f9735bde9a-0.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/f60cf102c1b0a4e2c4b8f057f4c64f70/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Till dom ensamma',
 		artist: 'Mauro Scocco',
 		id: 61563024,
 		release_date: '2007-03-28',
 		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-05d75ada619eece9d2b8d717939f5e7d-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/ef85604f8cf075a0b62c55c883505811/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Det finns',
-		artist: 'Mauro Scocco',
-		id: 61563026,
-		release_date: '2007-03-28',
-		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3cd49bbbfa40109e82099bbc24b72d5e-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/ef85604f8cf075a0b62c55c883505811/250x250-000000-80-0-0.jpg'
 	},
@@ -10830,49 +11929,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/1968ec71d54f13da5bc6ceebb640d106/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Långsamt farväl',
+		title: 'Vem Är Han',
 		artist: 'Mauro Scocco',
-		id: 353839201,
-		release_date: '2003-11-12',
-		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-53a7ad689f571c154d0a0bb25d3ca7b8-3.mp3',
+		id: 15408223,
+		release_date: '2011-12-18',
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-19f2b04e23b8406052fde0f9735bde9a-0.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/7e917ba8ab99d0f85b52ba0bc7e1b94c/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Jag saknar oss (Single Version)',
-		artist: 'Mauro Scocco',
-		id: 12649976,
-		release_date: '2011-04-01',
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-ac914d92fa0ecde52929522bbecf436d-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/b613efc1ca361ff3ab6ee652ec2046c9/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Ingen vinner',
-		artist: 'Mauro Scocco',
-		id: 61563021,
-		release_date: '2007-03-28',
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4ad29f7ee5accb99fada697f314e64cb-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/ef85604f8cf075a0b62c55c883505811/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Nelly',
-		artist: 'Mauro Scocco',
-		id: 61624870,
-		release_date: '1992-03-28',
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-79c0a8c371993ea3ed538a69256ebc4c-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/c889d9b8415d97ddd5cd9704faaa0ab1/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Allt eller inget',
-		artist: 'Mauro Scocco',
-		id: 61562971,
-		release_date: '2014-05-18',
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9d931394bea4fa5171e0a03cc5b6f8d1-1.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/61c7cc5642c0b81bd0aca1970b815924/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/f60cf102c1b0a4e2c4b8f057f4c64f70/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Medina',
@@ -10884,31 +11947,22 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/e5526b707a2f70ec013f724d33a8d111/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Du går nu',
 		artist: 'Melissa Horn',
-		title: 'Som jag hade dig förut',
-		release_date: '2008-04-28',
-		id: 13350263,
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-09da1374ac2a52b0faf4d3730640191d-3.mp3',
+		id: 109170648,
+		release_date: '2015-10-09',
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bdf832bcb5aeb1ce70ca6d777120cfec-6.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/369b4f295d5f4239e02de7bda102ea24/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/31a5a3a55caba29001babfcdf28aa5c9/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Hanna',
 		artist: 'Melissa Horn',
-		title: 'Långa nätter',
+		id: 13350267,
 		release_date: '2008-04-28',
-		id: 13350261,
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-eed115bccdd8f6a6bd8542d6e0178111-3.mp3',
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8102fb52d5f3cae9a22de1aeb486190d-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/369b4f295d5f4239e02de7bda102ea24/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Jag saknar dig mindre och mindre',
-		artist: 'Melissa Horn',
-		id: 13620927,
-		release_date: '2011-09-12',
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-abf0d9ccdc35f38a787629f448504935-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/0e70745bce55f83060f0ad2d3918c95f/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Jag kan inte skilja på',
@@ -10920,13 +11974,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/5a62060ff6f71b79124ed8120ace92f3/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Du går nu',
+		title: 'Jag saknar dig mindre och mindre',
 		artist: 'Melissa Horn',
-		id: 109170648,
-		release_date: '2015-10-09',
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bdf832bcb5aeb1ce70ca6d777120cfec-6.mp3',
+		id: 13620927,
+		release_date: '2011-09-12',
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-abf0d9ccdc35f38a787629f448504935-3.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/31a5a3a55caba29001babfcdf28aa5c9/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/0e70745bce55f83060f0ad2d3918c95f/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Kungsholmens Hamn',
@@ -10938,20 +11992,29 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/369b4f295d5f4239e02de7bda102ea24/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Om du vill vara med mig',
+		title: 'Lämna honom',
 		artist: 'Melissa Horn',
-		id: 70500918,
-		release_date: '2013-09-30',
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8351e6c2c6ab72260f22fe748dfa527c-1.mp3',
+		id: 1578529272,
+		release_date: '2021-12-18',
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bec1154a8183a3c6b6f7e3217f0caf26-3.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/0ca84384823fd7bdbc9e6f207a9233e0/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/7433325024b17ccf000364057feb1439/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Hanna',
+		title: 'Lät du henne komma närmre',
 		artist: 'Melissa Horn',
-		id: 13350267,
+		id: 4301099,
+		release_date: '2009-10-12',
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9eb95eeb22d8a8bc2be4d9f59d04d70f-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/5a62060ff6f71b79124ed8120ace92f3/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Melissa Horn',
+		title: 'Långa nätter',
 		release_date: '2008-04-28',
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8102fb52d5f3cae9a22de1aeb486190d-4.mp3',
+		id: 13350261,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-eed115bccdd8f6a6bd8542d6e0178111-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/369b4f295d5f4239e02de7bda102ea24/250x250-000000-80-0-0.jpg'
 	},
@@ -10965,22 +12028,22 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/0ca84384823fd7bdbc9e6f207a9233e0/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Lät du henne komma närmre',
+		title: 'Om du vill vara med mig',
 		artist: 'Melissa Horn',
-		id: 4301099,
-		release_date: '2009-10-12',
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9eb95eeb22d8a8bc2be4d9f59d04d70f-4.mp3',
+		id: 70500918,
+		release_date: '2013-09-30',
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8351e6c2c6ab72260f22fe748dfa527c-1.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/5a62060ff6f71b79124ed8120ace92f3/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/0ca84384823fd7bdbc9e6f207a9233e0/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Lämna honom',
 		artist: 'Melissa Horn',
-		id: 1578529272,
-		release_date: '2021-12-18',
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bec1154a8183a3c6b6f7e3217f0caf26-3.mp3',
+		title: 'Som jag hade dig förut',
+		release_date: '2008-04-28',
+		id: 13350263,
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-09da1374ac2a52b0faf4d3730640191d-3.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/7433325024b17ccf000364057feb1439/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/369b4f295d5f4239e02de7bda102ea24/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Vingar',
@@ -10992,15 +12055,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/8097837a3609888698e24c366e29bfbe/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Titanic',
-		artist: 'Mikael Wiehe',
-		id: 864737032,
-		release_date: '2016-10-07',
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bf2411315562c876df4280d036cf2d2f-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/86f2e9e65484c4b05ad63ad95c93df7b/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Flickan och kråkan',
 		artist: 'Mikael Wiehe',
 		id: 6824001,
@@ -11008,6 +12062,15 @@ export const swedish = [
 		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b9c248787e7b83f1ce8477f1735a3b53-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/3fb03dda70cf7195740d7886f8c848c6/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Titanic',
+		artist: 'Mikael Wiehe',
+		id: 864737032,
+		release_date: '2016-10-07',
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-bf2411315562c876df4280d036cf2d2f-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/86f2e9e65484c4b05ad63ad95c93df7b/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: "Milla's Mirakel!",
@@ -11037,13 +12100,22 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/caaf3e036b05d0b781988d0814679291/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'X',
+		title: 'Då börjar fåglar sjunga',
 		artist: 'Miss Li',
-		id: 1673264527,
-		release_date: '2022-03-18',
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6de3f9ef8ea5ee4a0b7a536db6959538-3.mp3',
+		id: 786017812,
+		release_date: '2019-11-09',
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7e29d72391dd216865987a4b0d2d9c8b-4.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/85fe61d6678bd5c41a2d033706b203d8/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/e30f36ba25610901aae8980c6e680232/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Förlåt',
+		artist: 'Miss Li',
+		id: 1483069912,
+		release_date: '2021-09-24',
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-af40ffb19492595de23d1eb1f540de1b-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/b999255c2f33c1afe01fb72fd7e95f88/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Hälsa Gud',
@@ -11053,15 +12125,6 @@ export const swedish = [
 		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5df7073569d3846c1aca13147be8df4b-5.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/2091da72d5cafa322bb9c17df6e4d93e/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Lev nu dö sen',
-		artist: 'Miss Li',
-		id: 769164372,
-		release_date: '2019-10-19',
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e315e57c157b1d7f5db7fc4c4b9ec48a-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/f0b087272893d63d65334f02420e68a2/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Instruktionsboken',
@@ -11082,11 +12145,20 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/333661bb0b43dc17e138e9113464ad2b/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Förlåt',
+		title: 'Lev nu dö sen',
 		artist: 'Miss Li',
-		id: 1483069912,
+		id: 769164372,
+		release_date: '2019-10-19',
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e315e57c157b1d7f5db7fc4c4b9ec48a-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/f0b087272893d63d65334f02420e68a2/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Starkare',
+		artist: 'Miss Li',
+		id: 1483069932,
 		release_date: '2021-09-24',
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-af40ffb19492595de23d1eb1f540de1b-3.mp3',
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-802a6265c0beb4a5b1d65fcac8fdcda8-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/b999255c2f33c1afe01fb72fd7e95f88/250x250-000000-80-0-0.jpg'
 	},
@@ -11100,24 +12172,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/b999255c2f33c1afe01fb72fd7e95f88/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Starkare',
-		artist: 'Miss Li',
-		id: 1483069932,
-		release_date: '2021-09-24',
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-802a6265c0beb4a5b1d65fcac8fdcda8-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/b999255c2f33c1afe01fb72fd7e95f88/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Då börjar fåglar sjunga',
-		artist: 'Miss Li',
-		id: 786017812,
-		release_date: '2019-11-09',
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7e29d72391dd216865987a4b0d2d9c8b-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/e30f36ba25610901aae8980c6e680232/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Miss Li',
 		title: 'Utan dig',
 		release_date: '2021-09-24',
@@ -11125,6 +12179,15 @@ export const swedish = [
 		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5a0cd4e345ca7f566bed5aae4cd607b2-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/45f814c252f7e4357511a3019f55b3be/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'X',
+		artist: 'Miss Li',
+		id: 1673264527,
+		release_date: '2022-03-18',
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6de3f9ef8ea5ee4a0b7a536db6959538-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/85fe61d6678bd5c41a2d033706b203d8/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Rädda mig',
@@ -11136,6 +12199,24 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/233c4b487ff97698ff89c4e020cdde6e/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Den som e den',
+		artist: 'Molly Sandén',
+		id: 635514432,
+		release_date: '2019-03-01',
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-45b67037e1871ff278498bb386fef054-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/fb72c28ef6d7500e58478b7eae73b944/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Det bästa kanske inte hänt än',
+		artist: 'Molly Sandén',
+		id: 677472692,
+		release_date: '2019-05-29',
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9f0aef6f7643cdfe498e84ed4dc899ba-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/bf7a63ecd5be2c0101e2554ce52cdec8/250x250-000000-80-0-0.jpg'
+	},
+	{
 		artist: 'Molly Sandén',
 		title: 'Jag mår bra nu (feat. Newkid)',
 		release_date: '2021-05-07',
@@ -11143,6 +12224,42 @@ export const swedish = [
 		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-10612f26519de87fcf7105305dd6c34c-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/a5bde160971927bfc272487177d5608b/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Kärlek slutar alltid med bråk',
+		artist: 'Molly Sandén',
+		id: 1203834172,
+		release_date: '2021-01-22',
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6d683ad8b29d54fe7d630efe99fd8464-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/7abe08f197dd93787b274666dae9a90c/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Nån annan nu',
+		artist: 'Molly Sandén',
+		id: 1277377302,
+		release_date: '2021-03-26',
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-25b9826f5961f5f9b18c27c5fe740bff-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/1fd5451f4ca7ffb6ee00787b54d4b4ed/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Rygg mot rygg',
+		artist: 'Molly Sandén',
+		id: 389791921,
+		release_date: '2017-08-18',
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f9102cb22ecee550cdaeb5e31cecba09-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/7c7dcc464d1ba5591e45adac0ee7f3fe/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Större',
+		artist: 'Molly Sandén',
+		id: 479175722,
+		release_date: '2018-04-27',
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-74d7419b0c47db51d91a9bf7fd77ecb1-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/137edc033a84313aab2dc357f1e72cf7/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Molly Sandén',
@@ -11163,13 +12280,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/c30e80f99bfcc0889536ffa9451d6963/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Vi:et i vinsten (Sveriges Officiella EM-låt 2022)',
+		title: 'Va det då?',
 		artist: 'Molly Sandén',
-		id: 1764833417,
-		release_date: '2022-06-10',
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-19ae29db097366160771b9598874b9db-3.mp3',
+		id: 785707492,
+		release_date: '2019-05-29',
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2eca2fc1241cd4dd02e9d7a2f5f606a0-3.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/e3285ff220c3058c87d42e895f72a66e/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/bf7a63ecd5be2c0101e2554ce52cdec8/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Vi ska aldrig gå hem',
@@ -11181,67 +12298,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/751eb93afeab6ec280eefb4f25df801d/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Nån annan nu',
+		title: 'Vi:et i vinsten (Sveriges Officiella EM-låt 2022)',
 		artist: 'Molly Sandén',
-		id: 1277377302,
-		release_date: '2021-03-26',
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-25b9826f5961f5f9b18c27c5fe740bff-3.mp3',
+		id: 1764833417,
+		release_date: '2022-06-10',
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-19ae29db097366160771b9598874b9db-3.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/1fd5451f4ca7ffb6ee00787b54d4b4ed/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Kärlek slutar alltid med bråk',
-		artist: 'Molly Sandén',
-		id: 1203834172,
-		release_date: '2021-01-22',
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6d683ad8b29d54fe7d630efe99fd8464-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/7abe08f197dd93787b274666dae9a90c/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Det bästa kanske inte hänt än',
-		artist: 'Molly Sandén',
-		id: 677472692,
-		release_date: '2019-05-29',
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9f0aef6f7643cdfe498e84ed4dc899ba-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/bf7a63ecd5be2c0101e2554ce52cdec8/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Rygg mot rygg',
-		artist: 'Molly Sandén',
-		id: 389791921,
-		release_date: '2017-08-18',
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f9102cb22ecee550cdaeb5e31cecba09-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/7c7dcc464d1ba5591e45adac0ee7f3fe/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Den som e den',
-		artist: 'Molly Sandén',
-		id: 635514432,
-		release_date: '2019-03-01',
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-45b67037e1871ff278498bb386fef054-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/fb72c28ef6d7500e58478b7eae73b944/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Större',
-		artist: 'Molly Sandén',
-		id: 479175722,
-		release_date: '2018-04-27',
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-74d7419b0c47db51d91a9bf7fd77ecb1-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/137edc033a84313aab2dc357f1e72cf7/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Va det då?',
-		artist: 'Molly Sandén',
-		id: 785707492,
-		release_date: '2019-05-29',
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2eca2fc1241cd4dd02e9d7a2f5f606a0-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/bf7a63ecd5be2c0101e2554ce52cdec8/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/e3285ff220c3058c87d42e895f72a66e/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Dom vet ingenting om oss',
@@ -11262,13 +12325,12 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/fcd419d9217c6b75cf4ff3e8b33dc9e4/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Fel Del Av Garden',
-		artist: 'Movits!',
-		id: 7433752,
-		release_date: '2010-11-01',
-		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-37a2a40f8c0754e267b37842eac55ef2-5.mp3',
+		title: 'Trubbel',
+		artist: 'Monica Zetterlund',
+		id: 3330105,
+		preview: 'https://cdn-preview-5.dzcdn.net/stream/c-56dc4f906ceabd1f907f6f52cd763f9e-7.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/31648ba6f907ca0bf0007038c5d23357/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/8b47a245c86aea4f4ad2937496ced5fe/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Dansa på min grav',
@@ -11280,13 +12342,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/997189f3fb8cdca8ea4c9dfd2aec54fc/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Lose my mind',
-		artist: 'Myra Granberg',
-		id: 1298490022,
-		release_date: '2021-04-16',
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-04ba4421dd951477adf1d39752c4d6f1-3.mp3',
+		title: 'Fel Del Av Garden',
+		artist: 'Movits!',
+		id: 7433752,
+		release_date: '2010-11-01',
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-37a2a40f8c0754e267b37842eac55ef2-5.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/a7d5905098f592a7a7279f573170aec3/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/31648ba6f907ca0bf0007038c5d23357/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'First aid kit',
@@ -11298,13 +12360,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/f885925f44c06a96fcabb58eeb1f62fc/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Tills mitt hjärta går under',
+		title: 'Lose my mind',
 		artist: 'Myra Granberg',
-		id: 811942682,
-		release_date: '2019-11-21',
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-fe662e87bd5c69bcded4b8c32543ac17-3.mp3',
+		id: 1298490022,
+		release_date: '2021-04-16',
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-04ba4421dd951477adf1d39752c4d6f1-3.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/7c09c1b40e4f437c295d0a3b52ece42c/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/a7d5905098f592a7a7279f573170aec3/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Nej tack, det är bra!',
@@ -11325,6 +12387,24 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/ff65b0b6c5d21419b14e7d1358446d83/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Tills mitt hjärta går under',
+		artist: 'Myra Granberg',
+		id: 811942682,
+		release_date: '2019-11-21',
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-fe662e87bd5c69bcded4b8c32543ac17-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/7c09c1b40e4f437c295d0a3b52ece42c/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Heroes',
+		artist: 'Måns Zelmerlöw',
+		id: 95585876,
+		release_date: '2015-02-28',
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d77f6d2865c8dbb5d53fa5b3a6cc91d0-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/60c211817b07d13a58a697d00e47270c/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Håll om mig',
 		artist: 'Nanne',
 		id: 4186096,
@@ -11343,15 +12423,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/222e302a2fb19c76903ed5dab46b43ec/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Newkid',
-		title: 'Jag gråter bara i regnet - Akustisk version',
-		release_date: '2011-09-02',
-		id: 1915156317,
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9e512dea97f42faaf428789e8f8f0389-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/8bcda0f336b87e1dd6e8617d06c14488/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Du måste finnas',
 		artist: 'Newkid',
 		id: 1145688322,
@@ -11361,13 +12432,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/a614ac0f28dfc01b8ee7dfb9deb6f217/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Starkare',
 		artist: 'Newkid',
-		id: 1145688332,
-		release_date: '2020-12-05',
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-13d63ef3704b954fbb54ecce3ac35e1f-3.mp3',
+		title: 'Jag gråter bara i regnet - Akustisk version',
+		release_date: '2011-09-02',
+		id: 1915156317,
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9e512dea97f42faaf428789e8f8f0389-2.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/a614ac0f28dfc01b8ee7dfb9deb6f217/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/8bcda0f336b87e1dd6e8617d06c14488/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Kanske var vi rätt bra ändå',
@@ -11377,6 +12448,15 @@ export const swedish = [
 		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e2b5d1c524a3261e2d7864c20f8a7332-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/2e752bb684dcc77811ad21239f9840e2/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Starkare',
+		artist: 'Newkid',
+		id: 1145688332,
+		release_date: '2020-12-05',
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-13d63ef3704b954fbb54ecce3ac35e1f-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/a614ac0f28dfc01b8ee7dfb9deb6f217/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Över dig',
@@ -11442,6 +12522,33 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/16c27720163c28e1a74afd7f52ba185c/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Be mig',
+		artist: 'Nordman',
+		id: 2606005,
+		release_date: '2008-01-01',
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-17cebea686c7a0d0ff82c4a402d2dd84-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/81eb8d84dfcb308dab46ab67d12fb676/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Förlist',
+		artist: 'Nordman',
+		id: 2606010,
+		release_date: '2008-01-01',
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-34dc1bbfe1ca41afd153599417cc2014-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/81eb8d84dfcb308dab46ab67d12fb676/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Släpp alla sorger',
+		artist: 'Nordman',
+		id: 2156411647,
+		release_date: '2023-02-18',
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-09fed02559f40d3d2a933ae3f3c07702-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/cc85a9f394b90071c385450fc0fa8e10/250x250-000000-80-0-0.jpg'
+	},
+	{
 		artist: 'Nordman',
 		title: 'Vandraren',
 		release_date: '1994-01-01',
@@ -11460,15 +12567,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/9969e9839df900b2ee4bc01cf33db0cd/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Be mig',
-		artist: 'Nordman',
-		id: 2606005,
-		release_date: '2008-01-01',
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-17cebea686c7a0d0ff82c4a402d2dd84-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/81eb8d84dfcb308dab46ab67d12fb676/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Ännu glöder solen',
 		artist: 'Nordman',
 		id: 2175765,
@@ -11478,15 +12576,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/485b66bed3697cf9fef013709b646106/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Förlist',
-		artist: 'Nordman',
-		id: 2606010,
-		release_date: '2008-01-01',
-		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-34dc1bbfe1ca41afd153599417cc2014-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/81eb8d84dfcb308dab46ab67d12fb676/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Ödet var min väg',
 		artist: 'Nordman',
 		id: 10599301,
@@ -11494,15 +12583,6 @@ export const swedish = [
 		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-243d3ae6a90fb5e508e6fcb81c411265-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/105d53f6954962c70b48f7a14121e0b3/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Släpp alla sorger',
-		artist: 'Nordman',
-		id: 2156411647,
-		release_date: '2023-02-18',
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-09fed02559f40d3d2a933ae3f3c07702-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/cc85a9f394b90071c385450fc0fa8e10/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Norlie & KKV',
@@ -11532,6 +12612,24 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/c20257b4853004884ee725e828803145/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Då står pojkarna på rad',
+		artist: 'Orup',
+		id: 662811,
+		release_date: '1989-03-03',
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7b4044a17b5a746f0e0f25fec1cfa9f3-7.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/883d438b745d9af8069de180caf862c2/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Jag blir hellre jagad av vargar',
+		artist: 'Orup',
+		id: 661291,
+		release_date: '1988-03-03',
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7007e3d77ce038a6f0daba219d552669-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/970e5db125d6105a8124fc7bc7084566/250x250-000000-80-0-0.jpg'
+	},
+	{
 		artist: 'Orup',
 		title: 'Magaluf',
 		release_date: '1992-03-03',
@@ -11550,33 +12648,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/883d438b745d9af8069de180caf862c2/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Orup',
-		title: 'Vackert Väder',
-		release_date: '2012-08-10',
-		id: 55844431,
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f7d1082d7a6cab3f9eef0ddc5dd046be-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/e01c4ffc5b6197f205eee82063ce6e2b/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Jag blir hellre jagad av vargar',
-		artist: 'Orup',
-		id: 661291,
-		release_date: '1988-03-03',
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7007e3d77ce038a6f0daba219d552669-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/970e5db125d6105a8124fc7bc7084566/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Då står pojkarna på rad',
-		artist: 'Orup',
-		id: 662811,
-		release_date: '1989-03-03',
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7b4044a17b5a746f0e0f25fec1cfa9f3-7.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/883d438b745d9af8069de180caf862c2/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Unga Hjärtan',
 		artist: 'Orup',
 		id: 126428985,
@@ -11584,6 +12655,15 @@ export const swedish = [
 		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-897b8c62c8288589df927df0c10ee438-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/a12db1c0993d1f244fdac6b623a75238/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Orup',
+		title: 'Vackert Väder',
+		release_date: '2012-08-10',
+		id: 55844431,
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f7d1082d7a6cab3f9eef0ddc5dd046be-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/e01c4ffc5b6197f205eee82063ce6e2b/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: '25',
@@ -11604,15 +12684,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/d58435231429ea81f1c4566e1175fd90/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Hon Kommer Med Solsken',
-		artist: 'Östen med Resten',
-		id: 982237632,
-		release_date: '2002-04-03',
-		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5c665c1a1225cac562ba6828bbbec007-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/e07c0f37b91f1d3be68785dfaaaa07fc/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Panetoz',
 		title: 'Dansa Pausa',
 		release_date: '2012-04-10',
@@ -11622,20 +12693,20 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/5a992975745506653114056be28c334f/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Hos dig är jag underbar',
-		artist: 'Patrik Isaksson',
-		id: 70498523,
-		release_date: '1999-04-26',
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8670af65c5a08e649fc9c53167265e1b-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/62c761d6c44585df71b0861182f885cc/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Du får göra som du vill',
 		artist: 'Patrik Isaksson',
 		id: 70498525,
 		release_date: '1999-04-26',
 		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-040f13b0e3c58980153fbbc5d0b9cee4-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/62c761d6c44585df71b0861182f885cc/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Hos dig är jag underbar',
+		artist: 'Patrik Isaksson',
+		id: 70498523,
+		release_date: '1999-04-26',
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8670af65c5a08e649fc9c53167265e1b-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/62c761d6c44585df71b0861182f885cc/250x250-000000-80-0-0.jpg'
 	},
@@ -11658,11 +12729,29 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/84661917b76d93d33c02ec9ae3e280ca/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Dressed for Success (T&A Demo - May 20, 1987)',
 		artist: 'Per Gessle',
-		title: 'Tycker om när du tar på mig',
-		release_date: '2003-06-16',
-		id: 3309915,
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-93067befb97178b9dce72b66c876ba68-5.mp3',
+		id: 85263220,
+		release_date: '2014-09-23',
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-527acb44b512d92c32586993fa627c74-0.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/413ed5894f7cf9b4be38e535e6c6bdf1/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'En sten vid en sjö i en skog (T&A demo, 28 Okt 2003)',
+		artist: 'Per Gessle',
+		id: 1603617092,
+		release_date: '2021-12-24',
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-ad2cdd673ee650e2f2b69ddce0b560e1-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/b2c4d463feebb525e2a68137b35de037/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'För bra för att vara sant',
+		artist: 'Per Gessle',
+		id: 3309917,
+		release_date: '2004-07-02',
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7b038d4fc836bd93fb2e956ddac026a3-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/a43865b2047b0ab91495bec93c2462fa/250x250-000000-80-0-0.jpg'
 	},
@@ -11676,22 +12765,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/a43865b2047b0ab91495bec93c2462fa/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Småstadsprat',
+		title: "Love Doesn't Live Here Anymore (B-side 'Kix')",
 		artist: 'Per Gessle',
-		id: 144445442,
-		release_date: '2017-03-17',
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b1e4292389c1c6483ce30d32f60608a1-3.mp3',
+		id: 913016992,
+		release_date: '1997-06-11',
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-85653227f1b208715fdd1d787c96eadd-3.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/5a5e3f214122adb77875d05526263843/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Spegelboll',
-		artist: 'Per Gessle',
-		id: 3309916,
-		release_date: '2004-07-02',
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0cb43407dab72b3de738fa0025eec9ed-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/a43865b2047b0ab91495bec93c2462fa/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/078708d783b4060b25c842dde127ef79/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Silly Really',
@@ -11703,6 +12783,15 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/52324550c2e164530959d0b049298126/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Småstadsprat',
+		artist: 'Per Gessle',
+		id: 144445442,
+		release_date: '2017-03-17',
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b1e4292389c1c6483ce30d32f60608a1-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/5a5e3f214122adb77875d05526263843/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Sommartider (Helsingborg 6 maj 2022)',
 		artist: 'Per Gessle',
 		id: 1805642437,
@@ -11712,13 +12801,22 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/48fce3a2bcea33cef67148d76ffb3cfe/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Dressed for Success (T&A Demo - May 20, 1987)',
+		title: 'Spegelboll',
 		artist: 'Per Gessle',
-		id: 85263220,
-		release_date: '2014-09-23',
-		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-527acb44b512d92c32586993fa627c74-0.mp3',
+		id: 3309916,
+		release_date: '2004-07-02',
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0cb43407dab72b3de738fa0025eec9ed-3.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/413ed5894f7cf9b4be38e535e6c6bdf1/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/a43865b2047b0ab91495bec93c2462fa/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Per Gessle',
+		title: 'Tycker om när du tar på mig',
+		release_date: '2003-06-16',
+		id: 3309915,
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-93067befb97178b9dce72b66c876ba68-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/a43865b2047b0ab91495bec93c2462fa/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Varmt igen (T&A Demo - Jul 18, 2002)',
@@ -11728,33 +12826,6 @@ export const swedish = [
 		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3f1349eaa4bb3147225e198127302152-0.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/16e7b92086ed73b3082aade4028cdc90/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'För bra för att vara sant',
-		artist: 'Per Gessle',
-		id: 3309917,
-		release_date: '2004-07-02',
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7b038d4fc836bd93fb2e956ddac026a3-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/a43865b2047b0ab91495bec93c2462fa/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'En sten vid en sjö i en skog (T&A demo, 28 Okt 2003)',
-		artist: 'Per Gessle',
-		id: 1603617092,
-		release_date: '2021-12-24',
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-ad2cdd673ee650e2f2b69ddce0b560e1-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/b2c4d463feebb525e2a68137b35de037/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: "Love Doesn't Live Here Anymore (B-side 'Kix')",
-		artist: 'Per Gessle',
-		id: 913016992,
-		release_date: '1997-06-11',
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-85653227f1b208715fdd1d787c96eadd-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/078708d783b4060b25c842dde127ef79/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Perikles',
@@ -11802,11 +12873,20 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/8af47da1a4aa20b253ed9e513f5f9185/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Sången dom spelar när filmen är slut (Version)',
-		artist: 'Peter Lemarc',
-		id: 890186742,
-		release_date: '1995-01-01',
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8ce97a1ace5a8dd6171b752f5159d600-3.mp3',
+		artist: 'Peter LeMarc',
+		title: 'Ett av dom sätt',
+		release_date: '1991-08-01',
+		id: 890186752,
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-90eb4d78d4e25a3379318fb4b5bb768d-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/ea19b6562ec66d6391f8c5526ce9939f/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Peter LeMarc',
+		title: 'Håll om mej!',
+		release_date: '1987-08-05',
+		id: 890186622,
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a268b702618371e8934ea5e074bad539-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/ea19b6562ec66d6391f8c5526ce9939f/250x250-000000-80-0-0.jpg'
 	},
@@ -11820,11 +12900,11 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/ea19b6562ec66d6391f8c5526ce9939f/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Välkommen hem! (Version)',
+		title: 'Sången dom spelar när filmen är slut (Version)',
 		artist: 'Peter Lemarc',
-		id: 890186672,
+		id: 890186742,
 		release_date: '1995-01-01',
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-77f0c047e39dfd498083a1ae27c78697-3.mp3',
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8ce97a1ace5a8dd6171b752f5159d600-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/ea19b6562ec66d6391f8c5526ce9939f/250x250-000000-80-0-0.jpg'
 	},
@@ -11838,20 +12918,11 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/5f85bf2478623fcd6fc3b8eace85743a/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Peter LeMarc',
-		title: 'Håll om mej!',
-		release_date: '1987-08-05',
-		id: 890186622,
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a268b702618371e8934ea5e074bad539-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/ea19b6562ec66d6391f8c5526ce9939f/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Peter LeMarc',
-		title: 'Ett av dom sätt',
-		release_date: '1991-08-01',
-		id: 890186752,
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-90eb4d78d4e25a3379318fb4b5bb768d-3.mp3',
+		title: 'Välkommen hem! (Version)',
+		artist: 'Peter Lemarc',
+		id: 890186672,
+		release_date: '1995-01-01',
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-77f0c047e39dfd498083a1ae27c78697-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/ea19b6562ec66d6391f8c5526ce9939f/250x250-000000-80-0-0.jpg'
 	},
@@ -11883,40 +12954,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/8440de83a085052805085c4eb872c57b/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Fredrik Snortare och Cecilia Synd',
 		artist: 'Petter',
-		title: 'Längesen (feat. Veronica Maggio)',
-		release_date: '2010-12-27',
-		id: 863714962,
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a2d4b05fd7739b4b42625bb2a2d09e2f-3.mp3',
+		id: 15402504,
+		release_date: '2004-04-21',
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-fed36a923bf2803331389ef2bb88ec21-2.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/aba1d231984376f9f65d90c61ad2e1d0/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Petter',
-		title: 'Logiskt (feat. Säkert!)',
-		release_date: '2010-12-27',
-		id: 863700242,
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e0b3dfadcf9fa8700837e8c136c93e0f-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/e3290a0957fa1aac1b6325afa8e10a38/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Petter',
-		title: 'Toppen av ett berg',
-		release_date: '2018-01-12',
-		id: 444022012,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1089ca51340b1d4e5a87c4d1d7cbc065-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/d1dbdef4051338b77a745e17cc24bef0/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Petter',
-		title: 'Mikrofonkåt',
-		release_date: '1998-06-29',
-		id: 1023681,
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c1e894c1a865cfec4816865578962f13-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/bf407494ece6fe7d0f281bd2d988b383/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/8fa2bcfc43e8c66251de20af85b71c17/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Petter',
@@ -11926,6 +12970,15 @@ export const swedish = [
 		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-43323c719a2346569f0aadb21fc156b1-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/44170cb12cdb7c0e44d1e99672c858ab/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Kung för en dag',
+		artist: 'Petter',
+		id: 770206052,
+		release_date: '2019-10-19',
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-82995120a080f9d028f812535513ae80-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/4ee4c0015520f00c04ff75fa781b65df/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Petter',
@@ -11938,12 +12991,39 @@ export const swedish = [
 	},
 	{
 		artist: 'Petter',
+		title: 'Logiskt (feat. Säkert!)',
+		release_date: '2010-12-27',
+		id: 863700242,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e0b3dfadcf9fa8700837e8c136c93e0f-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/e3290a0957fa1aac1b6325afa8e10a38/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Petter',
+		title: 'Längesen (feat. Veronica Maggio)',
+		release_date: '2010-12-27',
+		id: 863714962,
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a2d4b05fd7739b4b42625bb2a2d09e2f-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/aba1d231984376f9f65d90c61ad2e1d0/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Petter',
 		title: 'Längesen (feat. Veronica Maggio) - Kyaal Remix',
 		release_date: '2011-04-13',
 		id: 863727242,
 		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-fed51f03b7656e972435acfcb92b09b0-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/5c46df86a8b2698a89d7847fbeacecf8/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Petter',
+		title: 'Mikrofonkåt',
+		release_date: '1998-06-29',
+		id: 1023681,
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c1e894c1a865cfec4816865578962f13-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/bf407494ece6fe7d0f281bd2d988b383/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Petter',
@@ -11955,22 +13035,22 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/d2b5ded9471deeb125f44110c586027a/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Kung för en dag',
 		artist: 'Petter',
-		id: 770206052,
-		release_date: '2019-10-19',
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-82995120a080f9d028f812535513ae80-2.mp3',
+		title: "Såklart! (feat. Eye N'I)",
+		release_date: '1999-11-12',
+		id: 62270299,
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e6ff0e3d56725f574a1c90b45f069cb3-2.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/4ee4c0015520f00c04ff75fa781b65df/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/6338ecfee78ce28c1f646c8411401ad5/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Fredrik Snortare och Cecilia Synd',
 		artist: 'Petter',
-		id: 15402504,
-		release_date: '2004-04-21',
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-fed36a923bf2803331389ef2bb88ec21-2.mp3',
+		title: 'Toppen av ett berg',
+		release_date: '2018-01-12',
+		id: 444022012,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1089ca51340b1d4e5a87c4d1d7cbc065-3.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/8fa2bcfc43e8c66251de20af85b71c17/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/d1dbdef4051338b77a745e17cc24bef0/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Vinden har vänt',
@@ -11982,15 +13062,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/bf407494ece6fe7d0f281bd2d988b383/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Petter',
-		title: "Såklart! (feat. Eye N'I)",
-		release_date: '1999-11-12',
-		id: 62270299,
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e6ff0e3d56725f574a1c90b45f069cb3-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/6338ecfee78ce28c1f646c8411401ad5/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: '2, 4, 6, 8 Bäverhojt / 2, 4, 6, 8 Motor Way',
 		artist: 'Pistvakt',
 		id: 12684759,
@@ -11998,15 +13069,6 @@ export const swedish = [
 		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-09009812dc20347f6d45a2bb30cfc25c-1.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/dc8167c889b290de8b144ffffde8a525/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Ratata',
-		title: 'Så länge vi har varann',
-		release_date: '2003-11-12',
-		id: 353838981,
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0510a60dd94d6fd16cc50bad534805fd-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/7e917ba8ab99d0f85b52ba0bc7e1b94c/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Glad att det är över',
@@ -12025,6 +13087,15 @@ export const swedish = [
 		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f363c56eb3f1291dd1eac466614678ca-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/cdb55b41d7065a96267b25557af93ea0/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Ratata',
+		title: 'Så länge vi har varann',
+		release_date: '2003-11-12',
+		id: 353838981,
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0510a60dd94d6fd16cc50bad534805fd-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/7e917ba8ab99d0f85b52ba0bc7e1b94c/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Raymond & Maria',
@@ -12064,10 +13135,10 @@ export const swedish = [
 	},
 	{
 		artist: 'Ronny & Ragge',
-		title: 'Rara söta Anna',
+		title: 'Dé é sommar',
 		release_date: '1993-06-10',
-		id: 12351640,
-		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-322b9133ed25b1a0ac515cea61b72a61-2.mp3',
+		id: 12351630,
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c4833ed4260b2da328963d80663f12dc-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/c4e793bd86e8917f0e499547bfd3639e/250x250-000000-80-0-0.jpg'
 	},
@@ -12082,10 +13153,10 @@ export const swedish = [
 	},
 	{
 		artist: 'Ronny & Ragge',
-		title: 'Dé é sommar',
+		title: 'Rara söta Anna',
 		release_date: '1993-06-10',
-		id: 12351630,
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c4833ed4260b2da328963d80663f12dc-3.mp3',
+		id: 12351640,
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-322b9133ed25b1a0ac515cea61b72a61-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/c4e793bd86e8917f0e499547bfd3639e/250x250-000000-80-0-0.jpg'
 	},
@@ -12106,51 +13177,6 @@ export const swedish = [
 		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0160ca92656e8f8aef40e523bf68235e-8.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/a57196c9e9b004bcd2ac907007d9db05/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Säkert!',
-		title: 'Någon gång måste du bli själv',
-		release_date: '2007-03-15',
-		id: 5658880,
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-628f2aac01a1f633d4c5ca7133ae74f6-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/7b8d23af710a9e55cb38cb901173b8ec/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Allt som är ditt',
-		artist: 'Säkert!',
-		id: 5658877,
-		release_date: '2007-03-15',
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9fb09c5fc19d297af94ee8f3f50daa5c-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/7b8d23af710a9e55cb38cb901173b8ec/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Vi kommer att dö samtidigt',
-		artist: 'Säkert!',
-		id: 5658875,
-		release_date: '2007-03-15',
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2a8bb44f24135711d707575a0d6a1dd8-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/7b8d23af710a9e55cb38cb901173b8ec/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Sanningsdan',
-		artist: 'Säkert!',
-		id: 5658881,
-		release_date: '2007-03-15',
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-beaf26c5cff715720a594606aab7dd34-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/7b8d23af710a9e55cb38cb901173b8ec/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Dansa, fastän',
-		artist: 'Säkert!',
-		id: 7511234,
-		release_date: '2010-11-05',
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f842aec55e73e921ca2ccb51062d432c-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/e6c066d829000140b78a9b215305b8c1/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Kärleksvisan',
@@ -12243,15 +13269,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/fdffc44edfef92105b0306a3fb9eedba/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Södra Station',
-		title: 'Hatar att jag saknar dig',
-		release_date: '2016-10-28',
-		id: 134947990,
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-80486badabd70d6fb1f4903c02628be8-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/1e431ed6813dc49eaa12020e7b79c7a4/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Sounds Like 2010',
 		title: 'SM i Bangolf 2012 i Kalmar',
 		id: 2278066497,
@@ -12270,21 +13287,21 @@ export const swedish = [
 	},
 	{
 		artist: 'State of Sound',
-		title: 'Uti vår hage (feat. Viktor Norén & Gustaf Norén)',
-		release_date: '2016-05-20',
-		id: 125083060,
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4753d4b82e6777aa9d1ae63902a65ae8-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/53bb4d2de30f4c209cbf1b4433ffd5b9/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'State of Sound',
 		title: 'Den första gång jag såg dig (feat. Linnea Henriksson)',
 		release_date: '2018-09-28',
 		id: 552817842,
 		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-510fadb961d0f0338963c7a2fd46306f-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/e68808b1391b0b566b0f9f7becd41bb5/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'State of Sound',
+		title: 'Uti vår hage (feat. Viktor Norén & Gustaf Norén)',
+		release_date: '2016-05-20',
+		id: 125083060,
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4753d4b82e6777aa9d1ae63902a65ae8-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/53bb4d2de30f4c209cbf1b4433ffd5b9/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Stefan Andersson',
@@ -12296,15 +13313,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/2e8274ddaae9622f683d73a8fe364cab/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Catch the Moon',
-		artist: 'Stefan Andersson',
-		id: 15025542,
-		release_date: '1992-01-01',
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b9584c1cb6507cd1384cc1d4479eca58-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/4abfe20b3353b38d0402ad73f10298d4/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Bröllopsvals',
 		artist: 'Stefan Andersson',
 		id: 1058048,
@@ -12314,6 +13322,15 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/2d2795d091622d02997652949d8f858d/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Catch the Moon',
+		artist: 'Stefan Andersson',
+		id: 15025542,
+		release_date: '1992-01-01',
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b9584c1cb6507cd1384cc1d4479eca58-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/4abfe20b3353b38d0402ad73f10298d4/250x250-000000-80-0-0.jpg'
+	},
+	{
 		artist: 'Sten & Stanley',
 		title: 'Jag vill vara din, Margareta',
 		release_date: '2008-12-10',
@@ -12321,6 +13338,24 @@ export const swedish = [
 		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c102e67450c389619aca2767b0068c8d-5.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/8b36991a76f9767246ed444226a9b774/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Dover-Calais',
+		artist: 'Style',
+		id: 1060441,
+		release_date: '1997-04-07',
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-69858e01d9ed1b8888cff6d183e35aac-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/c4298e26a559936c922f8b87eb7d7108/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Fantasi',
+		artist: 'Style',
+		id: 71490482,
+		release_date: '1987-05-30',
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7c6905f364c5852baab35f24f6ba8947-1.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/da48ec7e8d85260fc9b06c71b5770430/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Style',
@@ -12337,24 +13372,6 @@ export const swedish = [
 		id: 1060451,
 		release_date: '1997-04-07',
 		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2c2b82a050b130039d0eb87c00f785df-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/c4298e26a559936c922f8b87eb7d7108/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Fantasi',
-		artist: 'Style',
-		id: 71490482,
-		release_date: '1987-05-30',
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-7c6905f364c5852baab35f24f6ba8947-1.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/da48ec7e8d85260fc9b06c71b5770430/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Dover-Calais',
-		artist: 'Style',
-		id: 1060441,
-		release_date: '1997-04-07',
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-69858e01d9ed1b8888cff6d183e35aac-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/c4298e26a559936c922f8b87eb7d7108/250x250-000000-80-0-0.jpg'
 	},
@@ -12386,6 +13403,69 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/6a36bd646c3b50a5844933a2739dd61e/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Allt som är ditt',
+		artist: 'Säkert!',
+		id: 5658877,
+		release_date: '2007-03-15',
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9fb09c5fc19d297af94ee8f3f50daa5c-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/7b8d23af710a9e55cb38cb901173b8ec/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Dansa, fastän',
+		artist: 'Säkert!',
+		id: 7511234,
+		release_date: '2010-11-05',
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f842aec55e73e921ca2ccb51062d432c-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/e6c066d829000140b78a9b215305b8c1/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Säkert!',
+		title: 'Någon gång måste du bli själv',
+		release_date: '2007-03-15',
+		id: 5658880,
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-628f2aac01a1f633d4c5ca7133ae74f6-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/7b8d23af710a9e55cb38cb901173b8ec/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Sanningsdan',
+		artist: 'Säkert!',
+		id: 5658881,
+		release_date: '2007-03-15',
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-beaf26c5cff715720a594606aab7dd34-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/7b8d23af710a9e55cb38cb901173b8ec/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Vi kommer att dö samtidigt',
+		artist: 'Säkert!',
+		id: 5658875,
+		release_date: '2007-03-15',
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2a8bb44f24135711d707575a0d6a1dd8-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/7b8d23af710a9e55cb38cb901173b8ec/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Södra Station',
+		title: 'Hatar att jag saknar dig',
+		release_date: '2016-10-28',
+		id: 134947990,
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-80486badabd70d6fb1f4903c02628be8-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/1e431ed6813dc49eaa12020e7b79c7a4/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Angela',
+		artist: 'Ted Gärdestad',
+		id: 2262576,
+		release_date: '2004-10-27',
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8979fa81f36ae8cd34a9ba6aebb97c83-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/e215ae47ca9b50cda47921358125c04c/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'För kärlekens skull',
 		artist: 'Ted Gärdestad',
 		id: 4190512,
@@ -12393,6 +13473,33 @@ export const swedish = [
 		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2505d674107ef78b67966ced741602cc-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/8bc84484944107427d127aeb67aa1d81/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Ge en sol',
+		artist: 'Ted Gärdestad',
+		id: 4190463,
+		release_date: '2009-06-24',
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1415bb79b1959bd79821349815d26ed6-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/2e87a3b6781e7628ee0227b0ad72ef1d/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Himlen är oskyldigt blå',
+		artist: 'Ted Gärdestad',
+		id: 4190511,
+		release_date: '2009-06-24',
+		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-df914ef05c02b0bc75b1f845ebf013d0-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/8bc84484944107427d127aeb67aa1d81/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Jag ska fånga en ängel',
+		artist: 'Ted Gärdestad',
+		id: 909686702,
+		release_date: '2020-03-26',
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-16f8fd122ee974cc59f20b57849592aa-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/ba53022841f3d4b8138fd36ef4847783/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Jag vill ha en egen måne',
@@ -12404,6 +13511,24 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/b1ba0cc7d66683a1f313dd3cd62d9844/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Kaliforniens guld',
+		artist: 'Ted Gärdestad',
+		id: 909686732,
+		release_date: '2020-03-26',
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-ea8655c459732863bb4dce865210ebc2-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/ba53022841f3d4b8138fd36ef4847783/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Låt solen värma dig',
+		artist: 'Ted Gärdestad',
+		id: 1271503272,
+		release_date: '2021-03-12',
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-81ecdb342bb9d681ba23a74612f7858d-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/f4cd5c97da6f23c761c4a35855f48d7d/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: "Oh, vilken härlig da'",
 		artist: 'Ted Gärdestad',
 		id: 909686762,
@@ -12411,6 +13536,15 @@ export const swedish = [
 		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-37d801584d42901b6fcf5f7a49a92773-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/ba53022841f3d4b8138fd36ef4847783/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: "Rockin' 'n' Reelin",
+		artist: 'Ted Gärdestad',
+		id: 2262578,
+		release_date: '2004-10-27',
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6da91ab3eb8d83bc6a142da6dfc6f822-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/e215ae47ca9b50cda47921358125c04c/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Satellit',
@@ -12431,69 +13565,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/ba53022841f3d4b8138fd36ef4847783/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Låt solen värma dig',
-		artist: 'Ted Gärdestad',
-		id: 1271503272,
-		release_date: '2021-03-12',
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-81ecdb342bb9d681ba23a74612f7858d-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/f4cd5c97da6f23c761c4a35855f48d7d/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Himlen är oskyldigt blå',
-		artist: 'Ted Gärdestad',
-		id: 4190511,
-		release_date: '2009-06-24',
-		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-df914ef05c02b0bc75b1f845ebf013d0-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/8bc84484944107427d127aeb67aa1d81/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: "Rockin' 'n' Reelin",
-		artist: 'Ted Gärdestad',
-		id: 2262578,
-		release_date: '2004-10-27',
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6da91ab3eb8d83bc6a142da6dfc6f822-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/e215ae47ca9b50cda47921358125c04c/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Kaliforniens guld',
-		artist: 'Ted Gärdestad',
-		id: 909686732,
-		release_date: '2020-03-26',
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-ea8655c459732863bb4dce865210ebc2-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/ba53022841f3d4b8138fd36ef4847783/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Ge en sol',
-		artist: 'Ted Gärdestad',
-		id: 4190463,
-		release_date: '2009-06-24',
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1415bb79b1959bd79821349815d26ed6-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/2e87a3b6781e7628ee0227b0ad72ef1d/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Angela',
-		artist: 'Ted Gärdestad',
-		id: 2262576,
-		release_date: '2004-10-27',
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8979fa81f36ae8cd34a9ba6aebb97c83-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/e215ae47ca9b50cda47921358125c04c/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Jag ska fånga en ängel',
-		artist: 'Ted Gärdestad',
-		id: 909686702,
-		release_date: '2020-03-26',
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-16f8fd122ee974cc59f20b57849592aa-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/ba53022841f3d4b8138fd36ef4847783/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Teddybears',
 		title: 'Cobrastyle',
 		release_date: '2004-08-18',
@@ -12501,24 +13572,6 @@ export const swedish = [
 		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2bca36c86f22970c3ecacbc2fb6360b1-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/aa0945d48f529a03694fae188116f3c4/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Beväpna dig med vingar',
-		artist: 'Thåström',
-		id: 16457566,
-		release_date: '2012-02-15',
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0b4ed9750a06d62a311003593505c993-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/44ca70319457cf762071687a07c9e7d3/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Kärlek är för dom',
-		artist: 'Thåström',
-		id: 2919734,
-		release_date: '2009-03-13',
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9f1c518fa1a855fe284cb12794b1c5c2-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/4d066dfef60a575c005e12976b5ea966/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Mer av dig',
@@ -12539,13 +13592,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/a4843a3bb55bb7f8aaf5ca4f42d3015c/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Andas in andas ut',
 		artist: 'Thomas Stenström',
-		title: 'Hej hallå!',
-		release_date: '2021-09-17',
-		id: 1402521052,
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-fe28fe0f39559ee33ab94def463a665f-3.mp3',
+		id: 2226363037,
+		release_date: '2023-04-21',
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-133bf1c69e8df0e45636801ef4ec9bfc-2.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/95e6772e67156c4542d563aed8860ba2/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/6ea702aaf5f63732ab44dab13f855a4c/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Thomas Stenström',
@@ -12557,40 +13610,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/f05f2bc629211fbc5fb3730fbcdfb052/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Slå mig hårt i ansiktet',
 		artist: 'Thomas Stenström',
-		id: 77472317,
-		release_date: '2014-04-30',
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-444867d5ebe002e5724ed337a0873595-4.mp3',
+		title: 'Hej hallå!',
+		release_date: '2021-09-17',
+		id: 1402521052,
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-fe28fe0f39559ee33ab94def463a665f-3.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/3bcb468d95bdb6dfffdc03458feb400c/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Andas in andas ut',
-		artist: 'Thomas Stenström',
-		id: 2226363037,
-		release_date: '2023-04-21',
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-133bf1c69e8df0e45636801ef4ec9bfc-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/6ea702aaf5f63732ab44dab13f855a4c/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Sista sommaren',
-		artist: 'Thomas Stenström',
-		id: 1697916137,
-		release_date: '2022-04-22',
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-cce01bad8f8e3d7363b8b269a2804026-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/a861efd51295d99597ae85634d7eab37/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Ser du månen där du är ikväll? (Tillsammans igen)',
-		artist: 'Thomas Stenström',
-		id: 1151705392,
-		release_date: '2020-12-04',
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-117c12fc4d0bee1c5f17f7cc0f550100-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/02a012eb2b56206f9064cc6648180a56/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/95e6772e67156c4542d563aed8860ba2/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Nån annan',
@@ -12602,6 +13628,51 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/606bcf8f551543cb77da2a0bb97f6f42/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Ser du månen där du är ikväll? (Tillsammans igen)',
+		artist: 'Thomas Stenström',
+		id: 1151705392,
+		release_date: '2020-12-04',
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-117c12fc4d0bee1c5f17f7cc0f550100-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/02a012eb2b56206f9064cc6648180a56/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Sista sommaren',
+		artist: 'Thomas Stenström',
+		id: 1697916137,
+		release_date: '2022-04-22',
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-cce01bad8f8e3d7363b8b269a2804026-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/a861efd51295d99597ae85634d7eab37/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Slå mig hårt i ansiktet',
+		artist: 'Thomas Stenström',
+		id: 77472317,
+		release_date: '2014-04-30',
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-444867d5ebe002e5724ed337a0873595-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/3bcb468d95bdb6dfffdc03458feb400c/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Beväpna dig med vingar',
+		artist: 'Thåström',
+		id: 16457566,
+		release_date: '2012-02-15',
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0b4ed9750a06d62a311003593505c993-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/44ca70319457cf762071687a07c9e7d3/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Kärlek är för dom',
+		artist: 'Thåström',
+		id: 2919734,
+		release_date: '2009-03-13',
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-9f1c518fa1a855fe284cb12794b1c5c2-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/4d066dfef60a575c005e12976b5ea966/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Alla vill till himmelen men ingen vill dö',
 		artist: 'Timbuktu',
 		id: 10245741,
@@ -12609,51 +13680,6 @@ export const swedish = [
 		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-13a1c025b431bbd82ba3da92dcf14409-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/86ce5af76c0bf018bbcd11e23233daec/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Resten av ditt liv',
-		artist: 'Timbuktu',
-		id: 12566258,
-		release_date: '2011-06-06',
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c574211ee94e3ec5243d334374c8a545-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/731a21d4abce407bf0a7078af00658e6/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Lika barn avvika bäst del 2',
-		artist: 'Timbuktu',
-		id: 10245760,
-		release_date: '2007-06-01',
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c3f35644e2b31ff0503888b7839e0d9e-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/1f43d5f91d994714875ab15434ddfce9/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Ett brev',
-		artist: 'Timbuktu',
-		id: 16329223,
-		release_date: '2012-02-10',
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c07c241275db81e31e3227696a00dc4b-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/5b80fba0d15dd8adb49802c435f4495d/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'The botten is nådd',
-		artist: 'Timbuktu',
-		id: 10245723,
-		release_date: '2003-06-02',
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-77d4f5538e98ccae68cef75d2db33dff-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/bfbb8acb7865440aa0aecc225947a325/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Tack för kaffet',
-		artist: 'Timbuktu',
-		id: 10245782,
-		release_date: '2008-05-30',
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c56740286c201eccba37e7d4640d05b1-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/8b62be57833de2e35ceb84741ddb9159/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Det löser sej',
@@ -12665,13 +13691,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/86ce5af76c0bf018bbcd11e23233daec/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Stanna kvar (feat. Damn!)',
+		title: 'Ett brev',
 		artist: 'Timbuktu',
-		id: 61366337,
-		release_date: '2012-10-22',
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e821d732a1806270a83854f78ed1f7a4-2.mp3',
+		id: 16329223,
+		release_date: '2012-02-10',
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c07c241275db81e31e3227696a00dc4b-3.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/a1f9f0e78646d619625bb965bf8338c6/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/5b80fba0d15dd8adb49802c435f4495d/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Fallskärm',
@@ -12683,6 +13709,51 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/ba6faf4cadfb3d8cf9200c748591cb2c/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Lika barn avvika bäst del 2',
+		artist: 'Timbuktu',
+		id: 10245760,
+		release_date: '2007-06-01',
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c3f35644e2b31ff0503888b7839e0d9e-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/1f43d5f91d994714875ab15434ddfce9/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Resten av ditt liv',
+		artist: 'Timbuktu',
+		id: 12566258,
+		release_date: '2011-06-06',
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c574211ee94e3ec5243d334374c8a545-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/731a21d4abce407bf0a7078af00658e6/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Stanna kvar (feat. Damn!)',
+		artist: 'Timbuktu',
+		id: 61366337,
+		release_date: '2012-10-22',
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e821d732a1806270a83854f78ed1f7a4-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/a1f9f0e78646d619625bb965bf8338c6/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Tack för kaffet',
+		artist: 'Timbuktu',
+		id: 10245782,
+		release_date: '2008-05-30',
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c56740286c201eccba37e7d4640d05b1-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/8b62be57833de2e35ceb84741ddb9159/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'The botten is nådd',
+		artist: 'Timbuktu',
+		id: 10245723,
+		release_date: '2003-06-02',
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-77d4f5538e98ccae68cef75d2db33dff-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/bfbb8acb7865440aa0aecc225947a325/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'När solen färgar juninatten',
 		artist: 'Tomas Andersson Wij',
 		id: 448573432,
@@ -12692,47 +13763,11 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/f3dd28acf6583646dce18f3a6af60305/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Tomas Ledin',
-		title: 'I natt är jag din',
-		release_date: '1977-01-01',
-		id: 93801730,
-		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b5b2ea7664dc132475ef9b80656ee987-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/e7c243610aada53532f11a3ba64ed901/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Tomas Ledin',
-		title: 'Knivhuggarrock',
-		release_date: '1975-12-05',
-		id: 91113799,
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-cb68ac86f3dc435fe9980f0711d85b93-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/2688c753ed6e5241fcf475577e2247bb/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'En del av mitt hjärta',
 		artist: 'Tomas Ledin',
 		id: 549337172,
 		release_date: '2018-09-07',
 		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-30d0b32529dc1db02ff007072ab93a3d-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/0e44d85549712bf68c80e8b4fa94f338/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Just nu',
-		artist: 'Tomas Ledin',
-		id: 549337002,
-		release_date: '2018-09-07',
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-290901c3e8b864b538d0f75c62a87636-9.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/0e44d85549712bf68c80e8b4fa94f338/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Sommaren är kort',
-		artist: 'Tomas Ledin',
-		id: 549336972,
-		release_date: '2018-09-07',
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e00781f3337cd526077652f39c01ef69-6.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/0e44d85549712bf68c80e8b4fa94f338/250x250-000000-80-0-0.jpg'
 	},
@@ -12746,12 +13781,40 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/0e44d85549712bf68c80e8b4fa94f338/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Tommy Körberg',
-		title: 'Fattig bonddräng',
-		id: 62508087,
-		preview: 'https://cdn-preview-8.dzcdn.net/stream/c-8533db68b931324c1765c95acdbff267-4.mp3',
+		artist: 'Tomas Ledin',
+		title: 'I natt är jag din',
+		release_date: '1977-01-01',
+		id: 93801730,
+		preview: 'https://cdns-preview-b.dzcdn.net/stream/c-b5b2ea7664dc132475ef9b80656ee987-4.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/65ce96637911f80357be1c7d54f8be7b/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/e7c243610aada53532f11a3ba64ed901/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Just nu',
+		artist: 'Tomas Ledin',
+		id: 549337002,
+		release_date: '2018-09-07',
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-290901c3e8b864b538d0f75c62a87636-9.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0e44d85549712bf68c80e8b4fa94f338/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Tomas Ledin',
+		title: 'Knivhuggarrock',
+		release_date: '1975-12-05',
+		id: 91113799,
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-cb68ac86f3dc435fe9980f0711d85b93-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/2688c753ed6e5241fcf475577e2247bb/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Sommaren är kort',
+		artist: 'Tomas Ledin',
+		id: 549336972,
+		release_date: '2018-09-07',
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e00781f3337cd526077652f39c01ef69-6.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/0e44d85549712bf68c80e8b4fa94f338/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Anthem',
@@ -12763,6 +13826,14 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/84d654a1c8cd9281bfa2f1f118e361c4/250x250-000000-80-0-0.jpg'
 	},
 	{
+		artist: 'Tommy Körberg',
+		title: 'Fattig bonddräng',
+		id: 62508087,
+		preview: 'https://cdn-preview-8.dzcdn.net/stream/c-8533db68b931324c1765c95acdbff267-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/65ce96637911f80357be1c7d54f8be7b/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Stad i ljus',
 		artist: 'Tommy Körberg',
 		id: 1006311,
@@ -12772,22 +13843,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/4e8cadaf2cf1faaf439e80bcd418c770/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Öppna din dörr',
+		title: 'Amelia',
 		artist: 'Tommy Nilsson',
-		id: 635792,
-		release_date: '2003-07-15',
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-41acd870c36256e71c7eb2effdae4494-4.mp3',
+		id: 572721,
+		release_date: '2005-08-03',
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4955ceca24bffd28cf58906a737237f5-2.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/6483510ff70fca0c941be08b5b887256/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'En dag',
-		artist: 'Tommy Nilsson',
-		id: 635800,
-		release_date: '2003-07-15',
-		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8a3fc8883b474dd80078066660e52069-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/6483510ff70fca0c941be08b5b887256/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/c153f382c3645ef73b5280521c18cd77/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Dina färger var blå',
@@ -12799,13 +13861,22 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/973b00b43e492ce17096d3a8e7859686/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Amelia',
+		title: 'En dag',
 		artist: 'Tommy Nilsson',
-		id: 572721,
-		release_date: '2005-08-03',
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4955ceca24bffd28cf58906a737237f5-2.mp3',
+		id: 635800,
+		release_date: '2003-07-15',
+		preview: 'https://cdns-preview-8.dzcdn.net/stream/c-8a3fc8883b474dd80078066660e52069-5.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/c153f382c3645ef73b5280521c18cd77/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/6483510ff70fca0c941be08b5b887256/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Öppna din dörr',
+		artist: 'Tommy Nilsson',
+		id: 635792,
+		release_date: '2003-07-15',
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-41acd870c36256e71c7eb2effdae4494-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/6483510ff70fca0c941be08b5b887256/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Tone Norum',
@@ -12827,21 +13898,21 @@ export const swedish = [
 	},
 	{
 		artist: 'Trance Dance',
-		title: 'Hoodoo Wanna Voodoo',
-		release_date: '1986-05-26',
-		id: 125460880,
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2cc2bd22b9f27c0ccb767c53dce42c97-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/abbc5e39c191ffa585f746faf8045cf5/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Trance Dance',
 		title: "Don't Say Go",
 		release_date: '1988-03-03',
 		id: 120231968,
 		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e631d813ea185a575e144039841b52ba-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/7e5aac5c82b4ea3c89089d20a199daba/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Trance Dance',
+		title: 'Hoodoo Wanna Voodoo',
+		release_date: '1986-05-26',
+		id: 125460880,
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-2cc2bd22b9f27c0ccb767c53dce42c97-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/abbc5e39c191ffa585f746faf8045cf5/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Trance Dance',
@@ -12871,6 +13942,15 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/7631458c215606dc887f3ae6bfa67b1a/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: '(Oh la la) Jag vill ha dej',
+		artist: 'Ulf Lundell',
+		id: 3188272,
+		release_date: '2005-03-25',
+		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-77e0c2af3e2fbb720866368afd1642d8-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/76aafe39be65d6db87b5be58d8599fb0/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Jag går på promenaden',
 		artist: 'Ulf Lundell',
 		id: 3187969,
@@ -12887,15 +13967,6 @@ export const swedish = [
 		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-11852530b872ac189ddddcc24cbf1fae-7.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/2b171657bbd7b944aac602e5423541e6/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: '(Oh la la) Jag vill ha dej',
-		artist: 'Ulf Lundell',
-		id: 3188272,
-		release_date: '2005-03-25',
-		preview: 'https://cdns-preview-7.dzcdn.net/stream/c-77e0c2af3e2fbb720866368afd1642d8-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/76aafe39be65d6db87b5be58d8599fb0/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Uno Svenningsson',
@@ -12925,24 +13996,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/fe866ddc9c8b60b392be519d53e0ff82/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Veronica Maggio',
-		title: 'Tillfälligheter',
-		release_date: '2019-05-03',
-		id: 760440652,
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6541517c6797afedc39725bc854d5e9e-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/b112dfb68ab31c21e6ee4aa808c7725c/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Veronica Maggio',
-		title: 'Snälla bli min',
-		release_date: '2011-01-01',
-		id: 44112951,
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-118b540a6c8ecae00c206c5e8a820c9b-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/06333028fa315552903b68adfffcc0b3/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: '17 år',
 		artist: 'Veronica Maggio',
 		id: 980590,
@@ -12950,51 +14003,6 @@ export const swedish = [
 		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f75a7745768deaddcf990934ed7402bf-5.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/a49cc9d77961d9e74235bf4d6dda6116/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Jag kommer',
-		artist: 'Veronica Maggio',
-		id: 44112901,
-		release_date: '2011-04-27',
-		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-292577d6a5364ed5a31235637c00d66b-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/06333028fa315552903b68adfffcc0b3/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Satan i gatan',
-		artist: 'Veronica Maggio',
-		id: 44112881,
-		release_date: '2011-04-27',
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6c33291170f49a7e5d1d7ea751ee17a2-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/06333028fa315552903b68adfffcc0b3/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Måndagsbarn',
-		artist: 'Veronica Maggio',
-		id: 917330,
-		release_date: '2008-02-11',
-		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-57c10cacb5b5925d74d3476e7e8dc7f6-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/b8e0bdaf9b947f6f199e7b8f95468b34/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Sergels torg',
-		artist: 'Veronica Maggio',
-		id: 70575805,
-		release_date: '2013-10-04',
-		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a7ca1fcf8c4514c85065219a84ee46c2-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/58296a5c8b9019c50a0648c62df73193/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Jag lovar',
-		artist: 'Veronica Maggio',
-		id: 70575806,
-		release_date: '2013-10-04',
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-021aaf923331aa408212d9491e69a528-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/58296a5c8b9019c50a0648c62df73193/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Hela huset',
@@ -13006,6 +14014,69 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/58296a5c8b9019c50a0648c62df73193/250x250-000000-80-0-0.jpg'
 	},
 	{
+		title: 'Jag kommer',
+		artist: 'Veronica Maggio',
+		id: 44112901,
+		release_date: '2011-04-27',
+		preview: 'https://cdns-preview-2.dzcdn.net/stream/c-292577d6a5364ed5a31235637c00d66b-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/06333028fa315552903b68adfffcc0b3/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Jag lovar',
+		artist: 'Veronica Maggio',
+		id: 70575806,
+		release_date: '2013-10-04',
+		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-021aaf923331aa408212d9491e69a528-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/58296a5c8b9019c50a0648c62df73193/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Måndagsbarn',
+		artist: 'Veronica Maggio',
+		id: 917330,
+		release_date: '2008-02-11',
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-57c10cacb5b5925d74d3476e7e8dc7f6-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/b8e0bdaf9b947f6f199e7b8f95468b34/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Satan i gatan',
+		artist: 'Veronica Maggio',
+		id: 44112881,
+		release_date: '2011-04-27',
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6c33291170f49a7e5d1d7ea751ee17a2-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/06333028fa315552903b68adfffcc0b3/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Sergels torg',
+		artist: 'Veronica Maggio',
+		id: 70575805,
+		release_date: '2013-10-04',
+		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a7ca1fcf8c4514c85065219a84ee46c2-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/58296a5c8b9019c50a0648c62df73193/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Veronica Maggio',
+		title: 'Snälla bli min',
+		release_date: '2011-01-01',
+		id: 44112951,
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-118b540a6c8ecae00c206c5e8a820c9b-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/06333028fa315552903b68adfffcc0b3/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Veronica Maggio',
+		title: 'Tillfälligheter',
+		release_date: '2019-05-03',
+		id: 760440652,
+		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6541517c6797afedc39725bc854d5e9e-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/b112dfb68ab31c21e6ee4aa808c7725c/250x250-000000-80-0-0.jpg'
+	},
+	{
 		title: 'Välkommen in',
 		artist: 'Veronica Maggio',
 		id: 44112891,
@@ -13015,22 +14086,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/06333028fa315552903b68adfffcc0b3/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Hela världen är min',
+		title: 'Allt för mig',
 		artist: 'Victor Leksell',
-		id: 1678291057,
-		release_date: '2022-03-18',
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-cc2f455e71b5d7defdde1847165d804d-3.mp3',
+		id: 614925572,
+		release_date: '2019-01-25',
+		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-19c72ed6862f5218b1be25815a048580-3.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/19a3d259db2ed148cc699704a0f47230/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Svag',
-		artist: 'Victor Leksell',
-		id: 849773142,
-		release_date: '2020-01-17',
-		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-91aa582cdc8d596d38800e75624fadd0-5.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/41fc614bd1216801b2d855f1d6367932/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/475d6ce2206c4812b788ce5e2e3ece62/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Bedövning',
@@ -13038,15 +14100,6 @@ export const swedish = [
 		id: 990822812,
 		release_date: '2020-06-17',
 		preview: 'https://cdns-preview-d.dzcdn.net/stream/c-d455e88b504daaef005d623367f97e82-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/80220a04aa3eae6e78317cde24a327b4/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Ha dig igen',
-		artist: 'Victor Leksell',
-		id: 990822752,
-		release_date: '2020-06-17',
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-eb17372a54a5256f80b1e0c005637a8a-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/80220a04aa3eae6e78317cde24a327b4/250x250-000000-80-0-0.jpg'
 	},
@@ -13060,22 +14113,22 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/80220a04aa3eae6e78317cde24a327b4/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Tappat',
+		title: 'Ha dig igen',
 		artist: 'Victor Leksell',
-		id: 558753872,
-		release_date: '2018-10-12',
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-fa8e700b779604f85e3f70782f7f8df9-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/132262908880729badd06ee66c65c696/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Om igen',
-		artist: 'Victor Leksell',
-		id: 990822772,
+		id: 990822752,
 		release_date: '2020-06-17',
-		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-ea48059a8420c7159e7ae9ddf55d2d92-3.mp3',
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-eb17372a54a5256f80b1e0c005637a8a-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/80220a04aa3eae6e78317cde24a327b4/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Hela världen är min',
+		artist: 'Victor Leksell',
+		id: 1678291057,
+		release_date: '2022-03-18',
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-cc2f455e71b5d7defdde1847165d804d-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/19a3d259db2ed148cc699704a0f47230/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Klär av dig',
@@ -13087,13 +14140,31 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/6fb5a1408b96ad3544e2131bf442d3f2/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Allt för mig',
+		title: 'Om igen',
 		artist: 'Victor Leksell',
-		id: 614925572,
-		release_date: '2019-01-25',
-		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-19c72ed6862f5218b1be25815a048580-3.mp3',
+		id: 990822772,
+		release_date: '2020-06-17',
+		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-ea48059a8420c7159e7ae9ddf55d2d92-3.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/475d6ce2206c4812b788ce5e2e3ece62/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/80220a04aa3eae6e78317cde24a327b4/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Svag',
+		artist: 'Victor Leksell',
+		id: 849773142,
+		release_date: '2020-01-17',
+		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-91aa582cdc8d596d38800e75624fadd0-5.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/41fc614bd1216801b2d855f1d6367932/250x250-000000-80-0-0.jpg'
+	},
+	{
+		title: 'Tappat',
+		artist: 'Victor Leksell',
+		id: 558753872,
+		release_date: '2018-10-12',
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-fa8e700b779604f85e3f70782f7f8df9-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/132262908880729badd06ee66c65c696/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Viktoria Tolstoy',
@@ -13123,12 +14194,13 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/d4ad38e447cb41027839a50f1219f19e/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Frölunda',
-		title: 'Bära hjälmar av guld',
-		id: 1657444622,
-		preview: 'https://cdn-preview-6.dzcdn.net/stream/c-6a648144dfaddccc9b152bd78da53d48-3.mp3',
+		title: 'Hon Kommer Med Solsken',
+		artist: 'Östen med Resten',
+		id: 982237632,
+		release_date: '2002-04-03',
+		preview: 'https://cdns-preview-5.dzcdn.net/stream/c-5c665c1a1225cac562ba6828bbbec007-3.mp3',
 		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/99cf6cb7a8c2e0c957ca5eb708e566db/250x250-000000-80-0-0.jpg'
+			'https://e-cdns-images.dzcdn.net/images/cover/e07c0f37b91f1d3be68785dfaaaa07fc/250x250-000000-80-0-0.jpg'
 	}
 ];
 
@@ -15603,19 +16675,19 @@ export const bandle = [
 	},
 	{
 		artist: 'Elbow',
-		title: 'Magnificent (She Says)',
-		id: 429945982,
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4c1933670caa11a44e0f0d23d179bb55-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/568d0df36d172f2c516349ede2a9729b/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Elbow',
 		title: 'lippy kids',
 		id: 9838135,
 		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f468e27b81836b1419d6e01ed818585c-5.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/dd7f167ae863be4e1e4997fe459f505f/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Elbow',
+		title: 'Magnificent (She Says)',
+		id: 429945982,
+		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-4c1933670caa11a44e0f0d23d179bb55-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/568d0df36d172f2c516349ede2a9729b/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Electric Light Orchestra',
@@ -23333,14 +24405,6 @@ export const holland = [
 			'https://e-cdns-images.dzcdn.net/images/cover/d976ae93101855a621127b89cfcdfa8d/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Bökkers',
-		title: 'Iederene Hef Een Reden',
-		id: 1001510182,
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-cdb37f34c697ddea321403ff26a8e9b7-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/59f155acc8bf22bf4d06f01511b6b7d1/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Boudewijn de Groot',
 		title: 'Als De Rook Om Je Hoofd Is Verdwenen',
 		id: 1855006307,
@@ -23419,6 +24483,14 @@ export const holland = [
 		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f3f3d6f1819908d2c9daf1fe096e3fbc-8.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/3f1b0238f1c3ee5c9242364e073aa4ba/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Bökkers',
+		title: 'Iederene Hef Een Reden',
+		id: 1001510182,
+		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-cdb37f34c697ddea321403ff26a8e9b7-3.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/59f155acc8bf22bf4d06f01511b6b7d1/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Clouseau',
@@ -23702,7 +24774,7 @@ export const holland = [
 	},
 	{
 		artist: 'Douwe Bob',
-		title: 'Jacob’s Song',
+		title: "Jacob's Song",
 		id: 124191866,
 		preview: 'https://cdns-preview-1.dzcdn.net/stream/c-1fdda81b9dacecdcbbf43ba4ee351c21-4.mp3',
 		cover:
@@ -23789,14 +24861,6 @@ export const holland = [
 			'https://e-cdns-images.dzcdn.net/images/cover/7687ed4a1e8eb04c710f29b309e14dbf/250x250-000000-80-0-0.jpg'
 	},
 	{
-		artist: 'Gé Reinders',
-		title: 'Blaosmuziek',
-		id: 120337180,
-		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-30cd1e43a9487ba4d7c9c8e0af7ad47d-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/f2e7b19fc8b7817c6b4260f9b6d790ba/250x250-000000-80-0-0.jpg'
-	},
-	{
 		artist: 'Gorki',
 		title: 'Mia',
 		id: 3845216,
@@ -23867,6 +24931,14 @@ export const holland = [
 		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e77c830215c63bd708642a13db298b58-6.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/222712db819c78505d91d9d5f20b43a3/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Gé Reinders',
+		title: 'Blaosmuziek',
+		id: 120337180,
+		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-30cd1e43a9487ba4d7c9c8e0af7ad47d-4.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/f2e7b19fc8b7817c6b4260f9b6d790ba/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Hans De Booij',
@@ -24262,6 +25334,14 @@ export const holland = [
 	},
 	{
 		artist: 'Paul de Leeuw',
+		title: 'k Heb Je Lief',
+		id: 1486887202,
+		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f681dbb6e8ed5d2a03e7107258b6cea8-2.mp3',
+		cover:
+			'https://e-cdns-images.dzcdn.net/images/cover/66f0a5615508b8146c00028872312151/250x250-000000-80-0-0.jpg'
+	},
+	{
+		artist: 'Paul de Leeuw',
 		title: 'Vlieg Met Me Mee',
 		id: 1486887372,
 		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-06cc37ef1384aa52f58112d6efcb0382-3.mp3',
@@ -24275,14 +25355,6 @@ export const holland = [
 		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-3adb32815eb5999e0d446bfbdd928b2e-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/29db08353532a63780a87b314aa37c75/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Paul de Leeuw',
-		title: 'k Heb Je Lief',
-		id: 1486887202,
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-f681dbb6e8ed5d2a03e7107258b6cea8-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/66f0a5615508b8146c00028872312151/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Ramses Shaffy',
