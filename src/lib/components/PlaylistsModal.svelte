@@ -1,7 +1,7 @@
 <script lang="ts">
 	import type { Track } from '$lib/types/Track';
 	import { clickOutside } from '$lib/utils/clickOutside';
-	import { neverRepeat } from '$lib/stores';
+	import { neverRepeat, playedTracks } from '$lib/stores';
 
 	export let playlists: { [key: string]: { active: boolean } };
 	export let playlistsChanged: (playlists: { [key: string]: { active: boolean } }) => void;
@@ -73,7 +73,14 @@
 						disabled={activePlaylists === 1 && playlists[playlist].active}
 					/>
 					<label for={playlist} class="ml-2 w-full py-3 text-sm font-medium">
-						{playlist} <span class="text-xs">({availablePlaylists[playlist].length} tracks)</span>
+						{playlist}
+						<span class="text-xs">
+							({availablePlaylists[playlist]
+								.filter(
+									(track) => !ignoredTracks.some((ignoredTrack) => ignoredTrack.id === track.id)
+								)
+								.filter((track) => !$neverRepeat || !$playedTracks.includes(track.id)).length} tracks)
+						</span>
 					</label>
 				</div>
 			{/each}
