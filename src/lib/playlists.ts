@@ -2868,14 +2868,6 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/8dd837db7a1c6acf7acb20e26c0452c3/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Feel Good Inc',
-		artist: 'Gorillaz',
-		id: 2996910921,
-		preview: 'https://cdn-preview-8.dzcdn.net/stream/c-88e048997f12d2e0ee67589307270507-8.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/a9d499afa26cce606cdc7349850f5b84/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Feel Good Inc.',
 		artist: 'Gorillaz',
 		id: 3129407,
@@ -5535,14 +5527,6 @@ export const original = [
 			'https://e-cdns-images.dzcdn.net/images/cover/a439b010cd887fd9cd98de54cc9bb977/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Dancing On My Own',
-		artist: 'Robyn',
-		id: 942969782,
-		preview: 'https://cdn-preview-2.dzcdn.net/stream/c-2cb7e8d5e14577a852189ff91bef5b09-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/a439b010cd887fd9cd98de54cc9bb977/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Dancing on My Own (Radio Edit)',
 		artist: 'Robyn',
 		id: 942970382,
@@ -7077,15 +7061,6 @@ export const original = [
 		preview: 'https://cdns-preview-9.dzcdn.net/stream/c-96d28df59d4a917665390441034584c9-4.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/6fcc0f75aaa955309c6377b1b6387ad9/250x250-000000-80-0-0.jpg'
-	},
-	{
-		title: 'Come Along (Active Dance Remix - Remastered)',
-		artist: 'Titiyo',
-		id: 72213544,
-		release_date: '2014-05-07',
-		preview: 'https://cdns-preview-c.dzcdn.net/stream/c-c67047321313115757de6235da77d3ed-0.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/3da1a9ddd77675cfeeed813aff749649/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: 'Talking to the Man In the Moon',
@@ -10324,17 +10299,8 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/507483378e279764eff5bb56e4546609/250x250-000000-80-0-0.jpg'
 	},
 	{
+		artist: 'Gyllene Tider',
 		title: 'Ljudet av ett annat hjärta',
-		artist: 'Gyllene Tider',
-		id: 1855143037,
-		release_date: '2004-07-02',
-		preview: 'https://cdns-preview-4.dzcdn.net/stream/c-420964bac7e944cc59b5a1d91831634c-6.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/507483378e279764eff5bb56e4546609/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Gyllene Tider',
-		title: 'Ljudet av ett annat hjärta - 7" Single',
 		release_date: '1981-03-10',
 		id: 635526582,
 		preview: 'https://cdns-preview-e.dzcdn.net/stream/c-e33a4553211a47f6874bf14a8e679eb8-2.mp3',
@@ -10967,15 +10933,6 @@ export const swedish = [
 		preview: 'https://cdns-preview-3.dzcdn.net/stream/c-30db502395a870f6082d01b14bde1e31-2.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/cf70981b2374e94ebbe3d0dc19434c1c/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'kent',
-		title: '747',
-		release_date: '2016-09-16',
-		id: 7861133,
-		preview: 'https://cdns-preview-6.dzcdn.net/stream/c-6178d943226c509b0d2279da41bc138a-4.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/6ecf74293cd11f7bab8af2728a0d1a27/250x250-000000-80-0-0.jpg'
 	},
 	{
 		title: '747 (Swedish Radio Edit)',
@@ -12729,7 +12686,7 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/84661917b76d93d33c02ec9ae3e280ca/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Dressed for Success (T&A Demo - May 20, 1987)',
+		title: 'Dressed for Success',
 		artist: 'Per Gessle',
 		id: 85263220,
 		release_date: '2014-09-23',
@@ -12738,7 +12695,7 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/413ed5894f7cf9b4be38e535e6c6bdf1/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'En sten vid en sjö i en skog (T&A demo, 28 Okt 2003)',
+		title: 'En sten vid en sjö i en skog',
 		artist: 'Per Gessle',
 		id: 1603617092,
 		release_date: '2021-12-24',
@@ -12792,15 +12749,6 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/5a5e3f214122adb77875d05526263843/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Sommartider (Helsingborg 6 maj 2022)',
-		artist: 'Per Gessle',
-		id: 1805642437,
-		release_date: '2022-08-05',
-		preview: 'https://cdns-preview-0.dzcdn.net/stream/c-0606c0cea5def32a280343315f85a0bb-2.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/48fce3a2bcea33cef67148d76ffb3cfe/250x250-000000-80-0-0.jpg'
-	},
-	{
 		title: 'Spegelboll',
 		artist: 'Per Gessle',
 		id: 3309916,
@@ -12819,7 +12767,7 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/a43865b2047b0ab91495bec93c2462fa/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Varmt igen (T&A Demo - Jul 18, 2002)',
+		title: 'Varmt igen',
 		artist: 'Per Gessle',
 		id: 85263562,
 		release_date: '2014-09-23',
@@ -12891,7 +12839,7 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/ea19b6562ec66d6391f8c5526ce9939f/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Little Willie John (Version)',
+		title: 'Little Willie John',
 		artist: 'Peter Lemarc',
 		id: 890186722,
 		release_date: '1995-01-01',
@@ -12900,7 +12848,7 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/ea19b6562ec66d6391f8c5526ce9939f/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Sången dom spelar när filmen är slut (Version)',
+		title: 'Sången dom spelar när filmen är slut',
 		artist: 'Peter Lemarc',
 		id: 890186742,
 		release_date: '1995-01-01',
@@ -12918,7 +12866,7 @@ export const swedish = [
 			'https://e-cdns-images.dzcdn.net/images/cover/5f85bf2478623fcd6fc3b8eace85743a/250x250-000000-80-0-0.jpg'
 	},
 	{
-		title: 'Välkommen hem! (Version)',
+		title: 'Välkommen hem!',
 		artist: 'Peter Lemarc',
 		id: 890186672,
 		release_date: '1995-01-01',
@@ -13006,15 +12954,6 @@ export const swedish = [
 		preview: 'https://cdns-preview-a.dzcdn.net/stream/c-a2d4b05fd7739b4b42625bb2a2d09e2f-3.mp3',
 		cover:
 			'https://e-cdns-images.dzcdn.net/images/cover/aba1d231984376f9f65d90c61ad2e1d0/250x250-000000-80-0-0.jpg'
-	},
-	{
-		artist: 'Petter',
-		title: 'Längesen (feat. Veronica Maggio) - Kyaal Remix',
-		release_date: '2011-04-13',
-		id: 863727242,
-		preview: 'https://cdns-preview-f.dzcdn.net/stream/c-fed51f03b7656e972435acfcb92b09b0-3.mp3',
-		cover:
-			'https://e-cdns-images.dzcdn.net/images/cover/5c46df86a8b2698a89d7847fbeacecf8/250x250-000000-80-0-0.jpg'
 	},
 	{
 		artist: 'Petter',

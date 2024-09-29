@@ -120,7 +120,7 @@
 			</button>
 		</div>
 		<div>
-			<h3 class="font-lilita text-xl">Ignored tracks</h3>
+			<h3 class="font-lilita text-xl">Ignored tracks ({ignoredTracks.length})</h3>
 			<p class="text-sm">Tracks that you've chosen to ignore will not be played again.</p>
 			<ul class="mt-2 max-h-44 overflow-y-auto">
 				{#each ignoredTracks as track}
