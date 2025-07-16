@@ -68,18 +68,25 @@
 
 		// Randomly select a track from the playlist exclude the current track
 		const filteredPlaylist = playlist.filter((track) => track.id !== currentTrack?.id);
-		const randomTrack = filteredPlaylist[Math.floor(Math.random() * filteredPlaylist.length)];
+		const randomTrack: Track =
+			filteredPlaylist[Math.floor(Math.random() * filteredPlaylist.length)];
 
-		// Check that the track preview is available
-		await fetch(randomTrack.preview)
+		await fetch(`/api/track/${randomTrack.id}`)
 			.then((response) => {
 				if (!response.ok) {
-					throw new Error();
-				} else {
-					currentTrack = randomTrack;
+					throw new Error('Track not found');
 				}
+
+				return response.json();
 			})
-			.catch(() => newTrack());
+			.then((track) => {
+				randomTrack.preview = track.preview;
+				currentTrack = randomTrack;
+			})
+			.catch((error) => {
+				console.error('Error fetching track:', error);
+				newTrack();
+			});
 	};
 
 	const makeGuess = () => {
@@ -118,6 +125,7 @@
 		$stats.daily.skips++;
 		guesses = [...guesses, 'Skipped'];
 		search = '';
+		guess = null;
 	};
 
 	const newGame = async () => {
@@ -194,7 +202,7 @@
 				Click here to reset and start over
 			</button>
 		</div>
-	{:else if currentTrack}
+	{:else if currentTrack && currentTrack.preview}
 		<ul class="space-y-4">
 			{#each [...Array(MAX_GUESSES).keys()] as i}
 				<li
@@ -204,7 +212,7 @@
 				</li>
 			{/each}
 		</ul>
-		<Player track={currentTrack?.preview} guessCount={guesses.length} bind:play={playerPlay} />
+		<Player track={currentTrack.preview} guessCount={guesses.length} bind:play={playerPlay} />
 		{#if guesses.length < MAX_GUESSES}
 			<AutoComplete bind:search bind:guess {playlist} />
 			<div class="flex justify-between">

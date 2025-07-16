@@ -3,6 +3,6 @@ export interface Track {
 	artist: string;
 	id: number;
 	release_date?: string;
-	preview: string;
+	preview?: string;
 	cover?: string;
 }
