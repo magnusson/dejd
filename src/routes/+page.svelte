@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	import { stats, playlists, ignoredTracks, playedTracks, neverRepeat } from '$lib/stores';
 	import AboutModal from '$lib/components/AboutModal.svelte';
 	import AutoComplete from '$lib/components/AutoComplete.svelte';
@@ -71,7 +72,7 @@
 		const randomTrack: Track =
 			filteredPlaylist[Math.floor(Math.random() * filteredPlaylist.length)];
 
-		await fetch(`/api/track/${randomTrack.id}`)
+		await fetch(`${base}/api/track/${randomTrack.id}`)
 			.then((response) => {
 				if (!response.ok) {
 					throw new Error('Track not found');
